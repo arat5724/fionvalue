@@ -1,0 +1,107 @@
+{
+    "type": "general-product",
+    "id": "44420",
+    "name": "[8~10강팩 + LE 5강 이상] 그랜드 파이널 선수팩 + 교환권 패키지",
+    "image": "/assets/image/item/14420_s.png",
+    "price": 14900,
+    "efficiency": 12113.254758756222,
+    "expectedBp": 18048749590546.773,
+    "expectedValue": {
+        "bp_player": 15048749590546.771,
+        "bp_card": 3000000000000.0
+    },
+    "efficiency1": 12113.254758756222,
+    "expectedBp1": 18048749590546.773,
+    "expectedValue1": {
+        "bp_player": 15048749590546.771,
+        "bp_card": 3000000000000.0
+    },
+    "percentile": null,
+    "itemList": [
+        {
+            "item": {
+                "type": "box",
+                "id": "16925",
+                "name": "[LE 9강 기회] 8~10강 선수팩 상자",
+                "image": "/assets/image/item/201707778_s.png",
+                "expectedBp": 14282056581455.51,
+                "expectedValue": {
+                    "bp_player": 14282056581455.51
+                }
+            },
+            "amount": 1
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "16855",
+                "name": "LE 5~8강 선수팩",
+                "image": "/assets/image/item/200231454_s.png",
+                "expectedBp": 749848845846.4231,
+                "expectedValue": {
+                    "bp_player": 749848845846.4231
+                }
+            },
+            "amount": 1
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "16868",
+                "name": "[미니 보너스] LE, NO.7, WB Top Price ALL (1강)",
+                "image": "/assets/image/item/200231467_s.png",
+                "expectedBp": 16844163244.838476,
+                "expectedValue": {
+                    "bp_player": 16844163244.838476
+                }
+            },
+            "amount": 1
+        },
+        {
+            "item": {
+                "type": "key",
+                "id": "[25.06] 교환권 (2개=전체 수수료 50% 할인 쿠폰)(~25.07.03)",
+                "name": "[25.06] 교환권 (2개=전체 수수료 50% 할인 쿠폰)(~25.07.03)",
+                "image": "/assets/image/item/201801464_s.png",
+                "expectedBp": 3000000000000.0,
+                "expectedValue": {
+                    "bp_card": 3000000000000.0
+                }
+            },
+            "amount": 1
+        }
+    ],
+    "additionalInfoWithAmount": [
+        {
+            "name": "[25.06] 교환권 (2개=전체 수수료 50% 할인 쿠폰)(~25.07.03)",
+            "itemList": [
+                {
+                    "amount": 2,
+                    "item": {
+                        "type": "box",
+                        "id": "16934",
+                        "name": "[교환권 2개] 전체 수수료 50% 할인 쿠폰 (~25.07.03) 상자",
+                        "image": null,
+                        "expectedBp": 0,
+                        "expectedValue": {
+                            "전체 수수료 50% 할인 쿠폰 (~25.07.03)": 1.0
+                        }
+                    }
+                },
+                {
+                    "amount": 1,
+                    "item": {
+                        "type": "box",
+                        "id": "16935",
+                        "name": "[교환권 1개] 3조 BP 상자",
+                        "image": null,
+                        "expectedBp": 3000000000000.0,
+                        "expectedValue": {
+                            "bp_card": 3000000000000.0
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
