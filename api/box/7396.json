@@ -1,0 +1,63 @@
+{
+    "type": "box",
+    "id": "7396",
+    "name": "[확률형][고정] ICON 5강 선수 → [고정] ICON The Moment 1강 선수 의뢰",
+    "image": null,
+    "expectedBp": 0,
+    "expectedValue": {
+        "의뢰 성공": 0.005,
+        "의뢰 실패": 0.995
+    },
+    "expectedBp1": 0,
+    "expectedValue1": {
+        "의뢰 성공": 0.005,
+        "의뢰 실패": 0.995
+    },
+    "percentile": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "5": 0,
+        "10": 0,
+        "20": 0,
+        "30": 0,
+        "40": 0,
+        "50": 0,
+        "60": 0,
+        "70": 0,
+        "80": 0,
+        "90": 0,
+        "100": 0
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "의뢰 성공",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "의뢰 성공": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.005
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "의뢰 실패",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "의뢰 실패": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.995
+        }
+    ],
+    "additionalInfoWithAmount": null
+}

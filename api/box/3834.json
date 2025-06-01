@@ -1,0 +1,91 @@
+{
+    "type": "box",
+    "id": "3834",
+    "name": "알쏭달쏭 비씨 상자",
+    "image": null,
+    "expectedBp": 88268156.43325001,
+    "expectedValue": {
+        "bp_card": 88268156.43325001,
+        "cp_card": 735.026041659375
+    },
+    "expectedBp1": 88268156.43325001,
+    "expectedValue1": {
+        "bp_card": 88268156.43325001,
+        "cp_card": 735.026041659375
+    },
+    "percentile": {
+        "0": 1000000000,
+        "1": 1000000000,
+        "2": 1000000000,
+        "5": 1000000000,
+        "10": 100000000,
+        "20": 50000000,
+        "30": 50000000,
+        "40": 30000000,
+        "50": 0,
+        "60": 0,
+        "70": 0,
+        "80": 0,
+        "90": 0,
+        "100": 0
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "bp",
+                "id": "3832",
+                "name": "행운의 BP 카드 (3천만~10억 BP)",
+                "image": null,
+                "expectedBp": 68715083.82200001,
+                "expectedValue": {
+                    "bp_card": 68715083.82200001
+                }
+            },
+            "amount": 1,
+            "probability": 0.375
+        },
+        {
+            "item": {
+                "type": "cp",
+                "id": "3716",
+                "name": "행운의 CP 카드 (500 ~ 3,000 CP)",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "cp_card": 822.91666665
+                }
+            },
+            "amount": 1,
+            "probability": 0.4375
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": -1,
+                "name": "BP 카드 1,000,000,000",
+                "image": null,
+                "expectedBp": 1000000000,
+                "expectedValue": {
+                    "bp_card": 1000000000
+                }
+            },
+            "amount": 1,
+            "probability": 0.0625
+        },
+        {
+            "item": {
+                "type": "cp",
+                "id": -1,
+                "name": "CP 카드 3,000",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "cp_card": 3000
+                }
+            },
+            "amount": 1,
+            "probability": 0.125
+        }
+    ],
+    "additionalInfoWithAmount": null
+}

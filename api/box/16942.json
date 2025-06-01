@@ -1,0 +1,91 @@
+{
+    "type": "box",
+    "id": "16942",
+    "name": "[마일리지] LE 챌린지! 상자",
+    "image": "/assets/image/item/201707795_s.png",
+    "expectedBp": 21257540302.60961,
+    "expectedValue": {
+        "bp_player": 15557540302.609612,
+        "bp_card": 5700000000.0
+    },
+    "expectedBp1": 21257540302.60961,
+    "expectedValue1": {
+        "bp_player": 15557540302.609612,
+        "bp_card": 5700000000.0
+    },
+    "percentile": {
+        "0": 333960000000000.0,
+        "1": 50000000000,
+        "2": 50000000000,
+        "5": 37996000000.0,
+        "10": 34868000000.0,
+        "20": 20516000000.0,
+        "30": 19412000000.0,
+        "40": 17572000000.0,
+        "50": 16008000000.0,
+        "60": 15000000000,
+        "70": 15000000000,
+        "80": 14904000000.0,
+        "90": 12236000000.0,
+        "100": 11776000000.0
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "16903",
+                "name": "[마일리지] LE Top Price 75 (1강, 116+)",
+                "image": null,
+                "expectedBp": 99472561223.39857,
+                "expectedValue": {
+                    "bp_player": 99472561223.39857
+                }
+            },
+            "amount": 1,
+            "probability": 0.01
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "16908",
+                "name": "[마일리지] BLD 포함 Top Price 1990 (5~6강, 104+)",
+                "image": null,
+                "expectedBp": 23172029359.259354,
+                "expectedValue": {
+                    "bp_player": 23172029359.259354
+                }
+            },
+            "amount": 1,
+            "probability": 0.3
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "16909",
+                "name": "[마일리지] BLD 포함 Top Price 570 (1~4강, 107+)",
+                "image": null,
+                "expectedBp": 19515912519.481586,
+                "expectedValue": {
+                    "bp_player": 19515912519.481586
+                }
+            },
+            "amount": 1,
+            "probability": 0.39
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "16924",
+                "name": "[마일리지] 행운의 BP 카드 (150억~1000억)",
+                "image": null,
+                "expectedBp": 19000000000.0,
+                "expectedValue": {
+                    "bp_card": 19000000000.0
+                }
+            },
+            "amount": 1,
+            "probability": 0.3
+        }
+    ],
+    "additionalInfoWithAmount": null
+}
