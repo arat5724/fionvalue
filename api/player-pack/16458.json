@@ -3,25 +3,25 @@
     "id": "16458",
     "name": "GRU Top Price 30 선수팩 (9강, 113+)",
     "image": null,
-    "expectedBp": 132016190476190.45,
+    "expectedBp": 133379999999999.97,
     "expectedValue": {
-        "bp_player": 132016190476190.45
+        "bp_player": 133379999999999.97
     },
     "percentile": {
         "0": 2143600000000000.0,
         "1": 469200000000000.0,
         "2": 254840000000000.0,
-        "5": 222640000000000.0,
-        "10": 190440000000000.0,
+        "5": 230000000000000.0,
+        "10": 188600000000000.0,
         "20": 142600000000000.0,
-        "30": 110400000000000.0,
-        "40": 92000000000000.0,
+        "30": 113160000000000.0,
+        "40": 101200000000000.0,
         "50": 89240000000000.0,
-        "60": 82340000000000.0,
-        "70": 77924000000000.0,
-        "80": 74520000000000.0,
-        "90": 71760000000000.0,
-        "100": 70288000000000.0
+        "60": 85836000000000.0,
+        "70": 77372000000000.0,
+        "80": 71852000000000.0,
+        "90": 70288000000000.0,
+        "100": 69000000000000.0
     },
     "playerList": [
         {
@@ -96,7 +96,7 @@
                 "upgrade": 9,
                 "pay": 29
             },
-            "value": 310000000000000,
+            "value": 279000000000000,
             "probability": 0.00380952380952381
         },
         {
@@ -112,6 +112,21 @@
                 "pay": 29
             },
             "value": 277000000000000,
+            "probability": 0.0142857142857143
+        },
+        {
+            "player": {
+                "id": 1419,
+                "name": "파트리크 비에이라",
+                "season": "GRU",
+                "season_no": 829,
+                "ovr": 133,
+                "position": "CDM",
+                "nation": 18,
+                "upgrade": 9,
+                "pay": 28
+            },
+            "value": 251000000000000,
             "probability": 0.0142857142857143
         },
         {
@@ -161,21 +176,6 @@
         },
         {
             "player": {
-                "id": 1419,
-                "name": "파트리크 비에이라",
-                "season": "GRU",
-                "season_no": 829,
-                "ovr": 133,
-                "position": "CDM",
-                "nation": 18,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 228000000000000,
-            "probability": 0.0142857142857143
-        },
-        {
-            "player": {
                 "id": 13743,
                 "name": "스티븐 제라드",
                 "season": "GRU",
@@ -186,22 +186,22 @@
                 "upgrade": 9,
                 "pay": 30
             },
-            "value": 207000000000000,
+            "value": 205000000000000,
             "probability": 0.02
         },
         {
             "player": {
-                "id": 165153,
-                "name": "카림 벤제마",
+                "id": 4000,
+                "name": "데니스 베르캄프",
                 "season": "GRU",
                 "season_no": 829,
                 "ovr": 134,
-                "position": "ST",
-                "nation": 18,
+                "position": "CF",
+                "nation": 34,
                 "upgrade": 9,
-                "pay": 29
+                "pay": 28
             },
-            "value": 178000000000000,
+            "value": 185000000000000,
             "probability": 0.02
         },
         {
@@ -221,17 +221,17 @@
         },
         {
             "player": {
-                "id": 4000,
-                "name": "데니스 베르캄프",
+                "id": 165153,
+                "name": "카림 벤제마",
                 "season": "GRU",
                 "season_no": 829,
                 "ovr": 134,
-                "position": "CF",
-                "nation": 34,
+                "position": "ST",
+                "nation": 18,
                 "upgrade": 9,
-                "pay": 28
+                "pay": 29
             },
-            "value": 175000000000000,
+            "value": 171000000000000,
             "probability": 0.02
         },
         {
@@ -266,21 +266,6 @@
         },
         {
             "player": {
-                "id": 203376,
-                "name": "버질 반다이크",
-                "season": "GRU",
-                "season_no": 829,
-                "ovr": 135,
-                "position": "CB",
-                "nation": 34,
-                "upgrade": 9,
-                "pay": 29
-            },
-            "value": 120000000000000,
-            "probability": 0.0571428571428571
-        },
-        {
-            "player": {
                 "id": 107715,
                 "name": "루시우",
                 "season": "GRU",
@@ -291,7 +276,7 @@
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 112000000000000,
+            "value": 123000000000000,
             "probability": 0.0571428571428571
         },
         {
@@ -306,22 +291,37 @@
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 100000000000000,
+            "value": 120000000000000,
             "probability": 0.0571428571428571
         },
         {
             "player": {
-                "id": 212194,
-                "name": "율리안 브란트",
+                "id": 203376,
+                "name": "버질 반다이크",
                 "season": "GRU",
                 "season_no": 829,
-                "ovr": 132,
-                "position": "CAM",
-                "nation": 21,
+                "ovr": 135,
+                "position": "CB",
+                "nation": 34,
                 "upgrade": 9,
-                "pay": 27
+                "pay": 29
             },
-            "value": 98600000000000,
+            "value": 110000000000000,
+            "probability": 0.0571428571428571
+        },
+        {
+            "player": {
+                "id": 1620,
+                "name": "에마뉘엘 프티",
+                "season": "GRU",
+                "season_no": 829,
+                "ovr": 133,
+                "position": "CDM",
+                "nation": 18,
+                "upgrade": 9,
+                "pay": 28
+            },
+            "value": 105000000000000,
             "probability": 0.0571428571428571
         },
         {
@@ -341,21 +341,6 @@
         },
         {
             "player": {
-                "id": 1620,
-                "name": "에마뉘엘 프티",
-                "season": "GRU",
-                "season_no": 829,
-                "ovr": 133,
-                "position": "CDM",
-                "nation": 18,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 95000000000000,
-            "probability": 0.0571428571428571
-        },
-        {
-            "player": {
                 "id": 1075,
                 "name": "델피에로",
                 "season": "GRU",
@@ -366,22 +351,22 @@
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 89500000000000,
+            "value": 94000000000000,
             "probability": 0.0571428571428571
         },
         {
             "player": {
-                "id": 121939,
-                "name": "필립 람",
+                "id": 212194,
+                "name": "율리안 브란트",
                 "season": "GRU",
                 "season_no": 829,
                 "ovr": 132,
-                "position": "LB",
+                "position": "CAM",
                 "nation": 21,
                 "upgrade": 9,
                 "pay": 27
             },
-            "value": 84700000000000,
+            "value": 93300000000000,
             "probability": 0.0571428571428571
         },
         {
@@ -411,8 +396,8 @@
                 "upgrade": 9,
                 "pay": 29
             },
-            "value": 81000000000000,
-            "probability": 0.0476190476190476
+            "value": 80000000000000,
+            "probability": 0.0571428571428571
         },
         {
             "player": {
@@ -446,32 +431,47 @@
         },
         {
             "player": {
-                "id": 231281,
-                "name": "T. 알렉산더-아놀드",
+                "id": 246669,
+                "name": "부카요 사카",
                 "season": "GRU",
                 "season_no": 829,
                 "ovr": 133,
-                "position": "RB",
+                "position": "RW",
                 "nation": 14,
                 "upgrade": 9,
                 "pay": 27
             },
-            "value": 77000000000000,
+            "value": 76400000000000,
             "probability": 0.0476190476190476
         },
         {
             "player": {
-                "id": 233049,
-                "name": "제이든 산초",
+                "id": 121939,
+                "name": "필립 람",
                 "season": "GRU",
                 "season_no": 829,
-                "ovr": 134,
-                "position": "RW",
-                "nation": 14,
+                "ovr": 132,
+                "position": "LB",
+                "nation": 21,
+                "upgrade": 9,
+                "pay": 27
+            },
+            "value": 76200000000000,
+            "probability": 0.0476190476190476
+        },
+        {
+            "player": {
+                "id": 138449,
+                "name": "카카",
+                "season": "GRU",
+                "season_no": 829,
+                "ovr": 132,
+                "position": "CAM",
+                "nation": 54,
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 76400000000000,
+            "value": 75000000000000,
             "probability": 0.0476190476190476
         }
     ]
