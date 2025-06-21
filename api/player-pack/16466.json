@@ -3,24 +3,24 @@
     "id": "16466",
     "name": "BDO, BLD Top Price 35 선수팩 (9강, 110+)",
     "image": null,
-    "expectedBp": 156115857605177.97,
+    "expectedBp": 155471844660194.16,
     "expectedValue": {
-        "bp_player": 156115857605177.97
+        "bp_player": 155471844660194.16
     },
     "percentile": {
         "0": 3468400000000000.0,
         "1": 478400000000000.0,
         "2": 299000000000000.0,
         "5": 262200000000000.0,
-        "10": 184000000000000.0,
-        "20": 172960000000000.0,
-        "30": 132480000000000.0,
-        "40": 130640000000000.0,
-        "50": 121440000000000.0,
-        "60": 112240000000000.0,
-        "70": 103960000000000.0,
+        "10": 172960000000000.0,
+        "20": 165600000000000.0,
+        "30": 133400000000000.0,
+        "40": 131560000000000.0,
+        "50": 127880000000000.0,
+        "60": 114080000000000.0,
+        "70": 112240000000000.0,
         "80": 97520000000000.0,
-        "90": 92000000000000.0,
+        "90": 92920000000000.0,
         "100": 89240000000000.0
     },
     "playerList": [
@@ -206,6 +206,21 @@
         },
         {
             "player": {
+                "id": 28130,
+                "name": "호나우지뉴",
+                "season": "BDO",
+                "season_no": 827,
+                "ovr": 135,
+                "position": "LW",
+                "nation": 54,
+                "upgrade": 9,
+                "pay": 29
+            },
+            "value": 320000000000000,
+            "probability": 0.006472491909385109
+        },
+        {
+            "player": {
                 "id": 242519,
                 "name": "에우제비우",
                 "season": "BDO",
@@ -216,7 +231,7 @@
                 "upgrade": 9,
                 "pay": 30
             },
-            "value": 300000000000000,
+            "value": 310000000000000,
             "probability": 0.006472491909385109
         },
         {
@@ -230,21 +245,6 @@
                 "nation": 37,
                 "upgrade": 9,
                 "pay": 28
-            },
-            "value": 297000000000000,
-            "probability": 0.006472491909385109
-        },
-        {
-            "player": {
-                "id": 28130,
-                "name": "호나우지뉴",
-                "season": "BDO",
-                "season_no": 827,
-                "ovr": 135,
-                "position": "LW",
-                "nation": 54,
-                "upgrade": 9,
-                "pay": 29
             },
             "value": 297000000000000,
             "probability": 0.006472491909385109
@@ -281,36 +281,6 @@
         },
         {
             "player": {
-                "id": 192985,
-                "name": "케빈 더브라위너",
-                "season": "BLD",
-                "season_no": 828,
-                "ovr": 132,
-                "position": "CAM",
-                "nation": 7,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 245000000000000,
-            "probability": 0.00970873786407767
-        },
-        {
-            "player": {
-                "id": 138449,
-                "name": "카카",
-                "season": "BDO",
-                "season_no": 827,
-                "ovr": 134,
-                "position": "CAM",
-                "nation": 54,
-                "upgrade": 9,
-                "pay": 29
-            },
-            "value": 237000000000000,
-            "probability": 0.00970873786407767
-        },
-        {
-            "player": {
                 "id": 31432,
                 "name": "디디에 드로그바",
                 "season": "BDO",
@@ -326,18 +296,33 @@
         },
         {
             "player": {
-                "id": 214098,
-                "name": "프랑크 레이카르트",
+                "id": 138449,
+                "name": "카카",
                 "season": "BDO",
                 "season_no": 827,
+                "ovr": 134,
+                "position": "CAM",
+                "nation": 54,
+                "upgrade": 9,
+                "pay": 29
+            },
+            "value": 215000000000000,
+            "probability": 0.00970873786407767
+        },
+        {
+            "player": {
+                "id": 192985,
+                "name": "케빈 더브라위너",
+                "season": "BLD",
+                "season_no": 828,
                 "ovr": 132,
-                "position": "CDM",
-                "nation": 34,
+                "position": "CAM",
+                "nation": 7,
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 200000000000000,
-            "probability": 0.061488673139158595
+            "value": 210000000000000,
+            "probability": 0.00970873786407767
         },
         {
             "player": {
@@ -356,6 +341,21 @@
         },
         {
             "player": {
+                "id": 214098,
+                "name": "프랑크 레이카르트",
+                "season": "BDO",
+                "season_no": 827,
+                "ovr": 132,
+                "position": "CDM",
+                "nation": 34,
+                "upgrade": 9,
+                "pay": 28
+            },
+            "value": 180000000000000,
+            "probability": 0.061488673139158595
+        },
+        {
+            "player": {
                 "id": 1625,
                 "name": "티에리 앙리",
                 "season": "BDO",
@@ -366,7 +366,22 @@
                 "upgrade": 9,
                 "pay": 29
             },
-            "value": 175000000000000,
+            "value": 152000000000000,
+            "probability": 0.061488673139158595
+        },
+        {
+            "player": {
+                "id": 231747,
+                "name": "킬리안 음바페",
+                "season": "BLD",
+                "season_no": 828,
+                "ovr": 132,
+                "position": "ST",
+                "nation": 18,
+                "upgrade": 9,
+                "pay": 28
+            },
+            "value": 145000000000000,
             "probability": 0.061488673139158595
         },
         {
@@ -381,7 +396,7 @@
                 "upgrade": 9,
                 "pay": 27
             },
-            "value": 144000000000000,
+            "value": 143000000000000,
             "probability": 0.061488673139158595
         },
         {
@@ -411,22 +426,7 @@
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 140000000000000,
-            "probability": 0.061488673139158595
-        },
-        {
-            "player": {
-                "id": 231747,
-                "name": "킬리안 음바페",
-                "season": "BLD",
-                "season_no": 828,
-                "ovr": 132,
-                "position": "ST",
-                "nation": 18,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 132000000000000,
+            "value": 139000000000000,
             "probability": 0.061488673139158595
         },
         {
@@ -441,7 +441,37 @@
                 "upgrade": 9,
                 "pay": 27
             },
-            "value": 130000000000000,
+            "value": 129000000000000,
+            "probability": 0.061488673139158595
+        },
+        {
+            "player": {
+                "id": 250,
+                "name": "데이비드 베컴",
+                "season": "BDO",
+                "season_no": 827,
+                "ovr": 133,
+                "position": "RM",
+                "nation": 14,
+                "upgrade": 9,
+                "pay": 28
+            },
+            "value": 124000000000000,
+            "probability": 0.061488673139158595
+        },
+        {
+            "player": {
+                "id": 247699,
+                "name": "케니 달글리시",
+                "season": "BDO",
+                "season_no": 827,
+                "ovr": 133,
+                "position": "CF",
+                "nation": 42,
+                "upgrade": 9,
+                "pay": 28
+            },
+            "value": 122000000000000,
             "probability": 0.061488673139158595
         },
         {
@@ -457,36 +487,6 @@
                 "pay": 28
             },
             "value": 122000000000000,
-            "probability": 0.061488673139158595
-        },
-        {
-            "player": {
-                "id": 250,
-                "name": "데이비드 베컴",
-                "season": "BDO",
-                "season_no": 827,
-                "ovr": 133,
-                "position": "RM",
-                "nation": 14,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 113000000000000,
-            "probability": 0.061488673139158595
-        },
-        {
-            "player": {
-                "id": 247699,
-                "name": "케니 달글리시",
-                "season": "BDO",
-                "season_no": 827,
-                "ovr": 133,
-                "position": "CF",
-                "nation": 42,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 106000000000000,
             "probability": 0.058252427184466
         },
         {
@@ -506,6 +506,21 @@
         },
         {
             "player": {
+                "id": 4833,
+                "name": "H. 스토이치코프",
+                "season": "BDO",
+                "season_no": 827,
+                "ovr": 134,
+                "position": "RW",
+                "nation": 9,
+                "upgrade": 9,
+                "pay": 29
+            },
+            "value": 102000000000000,
+            "probability": 0.058252427184466
+        },
+        {
+            "player": {
                 "id": 190871,
                 "name": "네이마르 Jr.",
                 "season": "BLD",
@@ -517,21 +532,6 @@
                 "pay": 28
             },
             "value": 101000000000000,
-            "probability": 0.058252427184466
-        },
-        {
-            "player": {
-                "id": 4833,
-                "name": "H. 스토이치코프",
-                "season": "BDO",
-                "season_no": 827,
-                "ovr": 134,
-                "position": "RW",
-                "nation": 9,
-                "upgrade": 9,
-                "pay": 29
-            },
-            "value": 100000000000000,
             "probability": 0.058252427184466
         },
         {
