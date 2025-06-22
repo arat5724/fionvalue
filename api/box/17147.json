@@ -1,0 +1,77 @@
+{
+    "type": "box",
+    "id": "17147",
+    "name": "[LOL, FA 9강 포함] 프로의 새로운 성장 상자 (1000pt)",
+    "image": null,
+    "expectedBp": 545432520528.29236,
+    "expectedValue": {
+        "bp_player": 270432520528.29233,
+        "bp_card": 275000000000.0
+    },
+    "expectedBp1": 545432520528.29236,
+    "expectedValue1": {
+        "bp_player": 270432520528.29233,
+        "bp_card": 275000000000.0
+    },
+    "percentile": {
+        "0": 255760000000000.0,
+        "1": 3017600000000.0,
+        "2": 2438000000000.0,
+        "5": 724960000000.0,
+        "10": 509680000000.0,
+        "20": 500000000000,
+        "30": 500000000000,
+        "40": 500000000000,
+        "50": 500000000000,
+        "60": 500000000000,
+        "70": 407560000000.0,
+        "80": 304520000000.0,
+        "90": 267720000000.0,
+        "100": 149040000000.0
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "17096",
+                "name": "[저니] LOL, FA, 23KFA Top Price 50 스페셜팩 (9강, 95+)",
+                "image": null,
+                "expectedBp": 2398030346820.8105,
+                "expectedValue": {
+                    "bp_player": 2398030346820.8105
+                }
+            },
+            "amount": 1,
+            "probability": 0.003
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "17127",
+                "name": "[저니] 24KB 포함 Top Price 1200 스페셜팩 (5~8강, 101+)",
+                "image": null,
+                "expectedBp": 588900289681.946,
+                "expectedValue": {
+                    "bp_player": 588900289681.946
+                }
+            },
+            "amount": 1,
+            "probability": 0.447
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": -1,
+                "name": "BP 카드 500,000,000,000",
+                "image": null,
+                "expectedBp": 500000000000,
+                "expectedValue": {
+                    "bp_card": 500000000000
+                }
+            },
+            "amount": 1,
+            "probability": 0.55
+        }
+    ],
+    "additionalInfoWithAmount": null
+}

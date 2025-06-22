@@ -1,0 +1,109 @@
+{
+    "type": "box",
+    "id": "17141",
+    "name": "[LD 8강 선수팩 포함] 스타의 탄생 상자",
+    "image": null,
+    "expectedBp": 114648864526.23335,
+    "expectedValue": {
+        "bp_player": 15648864526.233349,
+        "[저니] JNM 포함 Top Price 1200 스페셜팩 (4~8강, 100+)": 0.248,
+        "[저니] JNM 포함 Top Price 1500 스페셜팩 (3~8강, 99+)": 0.25,
+        "bp_card": 99000000000.0
+    },
+    "expectedBp1": 114648864526.23335,
+    "expectedValue1": {
+        "bp_player": 15648864526.233349,
+        "[저니] JNM 포함 Top Price 1200 스페셜팩 (4~8강, 100+)": 0.248,
+        "[저니] JNM 포함 Top Price 1500 스페셜팩 (3~8강, 99+)": 0.25,
+        "bp_card": 99000000000.0
+    },
+    "percentile": {
+        "0": 65320000000000.0,
+        "1": 700000000000,
+        "2": 300000000000,
+        "5": 200000000000,
+        "10": 200000000000,
+        "20": 200000000000,
+        "30": 150000000000,
+        "40": 150000000000,
+        "50": 150000000000,
+        "60": 0,
+        "70": 0,
+        "80": 0,
+        "90": 0,
+        "100": 0
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "17104",
+                "name": "[저니] LD 클래스 Top Price ALL 스페셜팩 (8강)",
+                "image": null,
+                "expectedBp": 7824432263116.674,
+                "expectedValue": {
+                    "bp_player": 7824432263116.674
+                }
+            },
+            "amount": 1,
+            "probability": 0.002
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[저니] JNM 포함 Top Price 1200 스페셜팩 (4~8강, 100+)",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[저니] JNM 포함 Top Price 1200 스페셜팩 (4~8강, 100+)": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.248
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[저니] JNM 포함 Top Price 1500 스페셜팩 (3~8강, 99+)",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[저니] JNM 포함 Top Price 1500 스페셜팩 (3~8강, 99+)": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.25
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "17140",
+                "name": "행운의 BP 카드 (2000억 ~ 1조)",
+                "image": null,
+                "expectedBp": 246000000000.0,
+                "expectedValue": {
+                    "bp_card": 246000000000.0
+                }
+            },
+            "amount": 1,
+            "probability": 0.25
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": -1,
+                "name": "BP 카드 150,000,000,000",
+                "image": null,
+                "expectedBp": 150000000000,
+                "expectedValue": {
+                    "bp_card": 150000000000
+                }
+            },
+            "amount": 1,
+            "probability": 0.25
+        }
+    ],
+    "additionalInfoWithAmount": null
+}

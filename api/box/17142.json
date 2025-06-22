@@ -1,0 +1,63 @@
+{
+    "type": "box",
+    "id": "17142",
+    "name": "[HG, RTN 10강 기회] 챔피언의 도전 상자",
+    "image": null,
+    "expectedBp": 81847279752.70477,
+    "expectedValue": {
+        "bp_player": 81847279752.70477,
+        "[저니] 선택형 조합 코치 프리미엄 교환권": 0.995
+    },
+    "expectedBp1": 81847279752.70477,
+    "expectedValue1": {
+        "bp_player": 81847279752.70477,
+        "[저니] 선택형 조합 코치 프리미엄 교환권": 0.995
+    },
+    "percentile": {
+        "0": 230000000000000.0,
+        "1": 0,
+        "2": 0,
+        "5": 0,
+        "10": 0,
+        "20": 0,
+        "30": 0,
+        "40": 0,
+        "50": 0,
+        "60": 0,
+        "70": 0,
+        "80": 0,
+        "90": 0,
+        "100": 0
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "17099",
+                "name": "[저니] HG, RTN 포함 Top Price 200 스페셜팩 (10강, 95+)",
+                "image": null,
+                "expectedBp": 16369455950540.955,
+                "expectedValue": {
+                    "bp_player": 16369455950540.955
+                }
+            },
+            "amount": 1,
+            "probability": 0.005
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[저니] 선택형 조합 코치 프리미엄 교환권",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[저니] 선택형 조합 코치 프리미엄 교환권": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.995
+        }
+    ],
+    "additionalInfoWithAmount": null
+}
