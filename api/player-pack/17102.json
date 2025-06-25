@@ -3,25 +3,25 @@
     "id": "17102",
     "name": "[저니] BOE21 클래스 Top Price 100 스페셜팩 (10강, 90+)",
     "image": null,
-    "expectedBp": 2113748493150.6848,
+    "expectedBp": 2064813909378.2925,
     "expectedValue": {
-        "bp_player": 2113748493150.6848
+        "bp_player": 2064813909378.2925
     },
     "percentile": {
-        "0": 84088000000000.0,
-        "1": 8730800000000.0,
-        "2": 6476800000000.0,
-        "5": 5234800000000.0,
-        "10": 3928400000000.0,
-        "20": 2438000000000.0,
-        "30": 1904400000000.0,
-        "40": 1315600000000.0,
+        "0": 92920000000000.0,
+        "1": 8868800000000.0,
+        "2": 6624000000000.0,
+        "5": 5244000000000.0,
+        "10": 3588000000000.0,
+        "20": 2401200000000.0,
+        "30": 1812400000000.0,
+        "40": 1380000000000.0,
         "50": 1251200000000.0,
-        "60": 1177600000000.0,
-        "70": 1076400000000.0,
+        "60": 1159200000000.0,
+        "70": 1058000000000.0,
         "80": 1021200000000.0,
-        "90": 993600000000.0,
-        "100": 909880000000.0
+        "90": 966000000000.0,
+        "100": 896080000000.0
     },
     "playerList": [
         {
@@ -36,7 +36,7 @@
                 "upgrade": 10,
                 "pay": 21
             },
-            "value": 91400000000000,
+            "value": 101000000000000,
             "probability": 4.2149631190727e-05
         },
         {
@@ -51,7 +51,7 @@
                 "upgrade": 10,
                 "pay": 21
             },
-            "value": 48800000000000,
+            "value": 36400000000000,
             "probability": 4.2149631190727e-05
         },
         {
@@ -66,7 +66,22 @@
                 "upgrade": 10,
                 "pay": 22
             },
-            "value": 45100000000000,
+            "value": 30700000000000,
+            "probability": 4.2149631190727e-05
+        },
+        {
+            "player": {
+                "id": 192119,
+                "name": "티보 쿠르투아",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 124,
+                "position": "GK",
+                "nation": 7,
+                "upgrade": 10,
+                "pay": 18
+            },
+            "value": 23800000000000,
             "probability": 4.2149631190727e-05
         },
         {
@@ -82,21 +97,6 @@
                 "pay": 24
             },
             "value": 23400000000000,
-            "probability": 4.2149631190727e-05
-        },
-        {
-            "player": {
-                "id": 192119,
-                "name": "티보 쿠르투아",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 124,
-                "position": "GK",
-                "nation": 7,
-                "upgrade": 10,
-                "pay": 18
-            },
-            "value": 19700000000000,
             "probability": 4.2149631190727e-05
         },
         {
@@ -146,17 +146,32 @@
         },
         {
             "player": {
-                "id": 189332,
-                "name": "조르디 알바",
+                "id": 202126,
+                "name": "해리 케인",
                 "season": "BOE21",
                 "season_no": 253,
-                "ovr": 125,
-                "position": "LB",
-                "nation": 45,
+                "ovr": 128,
+                "position": "ST",
+                "nation": 14,
                 "upgrade": 10,
-                "pay": 20
+                "pay": 24
             },
-            "value": 12800000000000,
+            "value": 10600000000000,
+            "probability": 0.000252897787144363
+        },
+        {
+            "player": {
+                "id": 203263,
+                "name": "해리 매과이어",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 127,
+                "position": "CB",
+                "nation": 14,
+                "upgrade": 10,
+                "pay": 22
+            },
+            "value": 10400000000000,
             "probability": 0.000252897787144363
         },
         {
@@ -171,67 +186,22 @@
                 "upgrade": 10,
                 "pay": 20
             },
-            "value": 9670000000000,
-            "probability": 0.000252897787144363
-        },
-        {
-            "player": {
-                "id": 202126,
-                "name": "해리 케인",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 128,
-                "position": "ST",
-                "nation": 14,
-                "upgrade": 10,
-                "pay": 24
-            },
-            "value": 9600000000000,
+            "value": 9770000000000,
             "probability": 0.0043835616438356205
         },
         {
             "player": {
-                "id": 203263,
-                "name": "해리 매과이어",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 127,
-                "position": "CB",
-                "nation": 14,
-                "upgrade": 10,
-                "pay": 22
-            },
-            "value": 9490000000000,
-            "probability": 0.0043835616438356205
-        },
-        {
-            "player": {
-                "id": 208448,
-                "name": "에밀 포르스베리",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 128,
-                "position": "LM",
-                "nation": 46,
-                "upgrade": 10,
-                "pay": 23
-            },
-            "value": 7500000000000,
-            "probability": 0.0043835616438356205
-        },
-        {
-            "player": {
-                "id": 233096,
-                "name": "덴젤 둠프리스",
+                "id": 189332,
+                "name": "조르디 알바",
                 "season": "BOE21",
                 "season_no": 253,
                 "ovr": 125,
-                "position": "RB",
-                "nation": 34,
+                "position": "LB",
+                "nation": 45,
                 "upgrade": 10,
-                "pay": 21
+                "pay": 20
             },
-            "value": 7420000000000,
+            "value": 9640000000000,
             "probability": 0.0043835616438356205
         },
         {
@@ -246,7 +216,22 @@
                 "upgrade": 10,
                 "pay": 21
             },
-            "value": 7040000000000,
+            "value": 7720000000000,
+            "probability": 0.0043835616438356205
+        },
+        {
+            "player": {
+                "id": 230621,
+                "name": "잔루이지 돈나룸마",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 128,
+                "position": "GK",
+                "nation": 27,
+                "upgrade": 10,
+                "pay": 20
+            },
+            "value": 7280000000000,
             "probability": 0.0043835616438356205
         },
         {
@@ -261,37 +246,37 @@
                 "upgrade": 10,
                 "pay": 16
             },
-            "value": 6980000000000,
-            "probability": 0.005479452054794521
+            "value": 7200000000000,
+            "probability": 0.0043835616438356205
         },
         {
             "player": {
-                "id": 177683,
-                "name": "얀 조머",
+                "id": 233096,
+                "name": "덴젤 둠프리스",
                 "season": "BOE21",
                 "season_no": 253,
-                "ovr": 123,
-                "position": "GK",
-                "nation": 47,
+                "ovr": 125,
+                "position": "RB",
+                "nation": 34,
                 "upgrade": 10,
-                "pay": 17
+                "pay": 21
             },
-            "value": 6880000000000,
+            "value": 6800000000000,
             "probability": 0.005479452054794521
         },
         {
             "player": {
-                "id": 230621,
-                "name": "잔루이지 돈나룸마",
+                "id": 208448,
+                "name": "에밀 포르스베리",
                 "season": "BOE21",
                 "season_no": 253,
                 "ovr": 128,
-                "position": "GK",
-                "nation": 27,
+                "position": "LM",
+                "nation": 46,
                 "upgrade": 10,
-                "pay": 20
+                "pay": 23
             },
-            "value": 6620000000000,
+            "value": 6690000000000,
             "probability": 0.005479452054794521
         },
         {
@@ -306,22 +291,37 @@
                 "upgrade": 10,
                 "pay": 23
             },
-            "value": 6600000000000,
+            "value": 6470000000000,
             "probability": 0.005479452054794521
         },
         {
             "player": {
-                "id": 213648,
-                "name": "P. 호이비에르",
+                "id": 177683,
+                "name": "얀 조머",
                 "season": "BOE21",
                 "season_no": 253,
-                "ovr": 127,
-                "position": "CDM",
-                "nation": 13,
+                "ovr": 123,
+                "position": "GK",
+                "nation": 47,
                 "upgrade": 10,
-                "pay": 22
+                "pay": 17
             },
-            "value": 5690000000000,
+            "value": 6370000000000,
+            "probability": 0.005479452054794521
+        },
+        {
+            "player": {
+                "id": 217870,
+                "name": "조반니 디로렌초",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 126,
+                "position": "RB",
+                "nation": 27,
+                "upgrade": 10,
+                "pay": 21
+            },
+            "value": 5700000000000,
             "probability": 0.005479452054794521
         },
         {
@@ -336,7 +336,7 @@
                 "upgrade": 10,
                 "pay": 23
             },
-            "value": 5400000000000,
+            "value": 5490000000000,
             "probability": 0.0064910432033719705
         },
         {
@@ -356,6 +356,36 @@
         },
         {
             "player": {
+                "id": 213648,
+                "name": "P. 호이비에르",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 127,
+                "position": "CDM",
+                "nation": 13,
+                "upgrade": 10,
+                "pay": 22
+            },
+            "value": 5290000000000,
+            "probability": 0.0064910432033719705
+        },
+        {
+            "player": {
+                "id": 186345,
+                "name": "키어런 트리피어",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 123,
+                "position": "RB",
+                "nation": 14,
+                "upgrade": 10,
+                "pay": 20
+            },
+            "value": 4810000000000,
+            "probability": 0.0064910432033719705
+        },
+        {
+            "player": {
                 "id": 181458,
                 "name": "이반 페리시치",
                 "season": "BOE21",
@@ -366,52 +396,22 @@
                 "upgrade": 10,
                 "pay": 23
             },
-            "value": 5210000000000,
+            "value": 4370000000000,
             "probability": 0.0064910432033719705
         },
         {
             "player": {
-                "id": 217870,
-                "name": "조반니 디로렌초",
+                "id": 167948,
+                "name": "위고 요리스",
                 "season": "BOE21",
                 "season_no": 253,
-                "ovr": 126,
-                "position": "RB",
-                "nation": 27,
+                "ovr": 121,
+                "position": "GK",
+                "nation": 18,
                 "upgrade": 10,
-                "pay": 21
+                "pay": 16
             },
-            "value": 5180000000000,
-            "probability": 0.0064910432033719705
-        },
-        {
-            "player": {
-                "id": 202371,
-                "name": "토마 뫼니에",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 126,
-                "position": "RB",
-                "nation": 7,
-                "upgrade": 10,
-                "pay": 22
-            },
-            "value": 4810000000000,
-            "probability": 0.0064910432033719705
-        },
-        {
-            "player": {
-                "id": 194794,
-                "name": "안드리 야르몰렌코",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 127,
-                "position": "RW",
-                "nation": 49,
-                "upgrade": 10,
-                "pay": 23
-            },
-            "value": 4760000000000,
+            "value": 4230000000000,
             "probability": 0.0076712328767123295
         },
         {
@@ -426,38 +426,68 @@
                 "upgrade": 10,
                 "pay": 19
             },
-            "value": 4460000000000,
+            "value": 4200000000000,
             "probability": 0.0076712328767123295
         },
         {
             "player": {
-                "id": 167948,
-                "name": "위고 요리스",
+                "id": 202371,
+                "name": "토마 뫼니에",
                 "season": "BOE21",
                 "season_no": 253,
-                "ovr": 121,
-                "position": "GK",
-                "nation": 18,
-                "upgrade": 10,
-                "pay": 16
-            },
-            "value": 4270000000000,
-            "probability": 0.0076712328767123295
-        },
-        {
-            "player": {
-                "id": 186345,
-                "name": "키어런 트리피어",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 123,
+                "ovr": 126,
                 "position": "RB",
+                "nation": 7,
+                "upgrade": 10,
+                "pay": 22
+            },
+            "value": 3900000000000,
+            "probability": 0.0076712328767123295
+        },
+        {
+            "player": {
+                "id": 194794,
+                "name": "안드리 야르몰렌코",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 127,
+                "position": "RW",
+                "nation": 49,
+                "upgrade": 10,
+                "pay": 23
+            },
+            "value": 3850000000000,
+            "probability": 0.0076712328767123295
+        },
+        {
+            "player": {
+                "id": 228687,
+                "name": "카스퍼 돌베르",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 126,
+                "position": "ST",
+                "nation": 13,
+                "upgrade": 10,
+                "pay": 22
+            },
+            "value": 3800000000000,
+            "probability": 0.0076712328767123295
+        },
+        {
+            "player": {
+                "id": 224081,
+                "name": "캘빈 필립스",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 127,
+                "position": "CDM",
                 "nation": 14,
                 "upgrade": 10,
-                "pay": 20
+                "pay": 21
             },
-            "value": 4110000000000,
-            "probability": 0.0076712328767123295
+            "value": 3590000000000,
+            "probability": 0.00834562697576396
         },
         {
             "player": {
@@ -471,8 +501,8 @@
                 "upgrade": 10,
                 "pay": 18
             },
-            "value": 3860000000000,
-            "probability": 0.0076712328767123295
+            "value": 3510000000000,
+            "probability": 0.00834562697576396
         },
         {
             "player": {
@@ -486,7 +516,22 @@
                 "upgrade": 10,
                 "pay": 21
             },
-            "value": 3730000000000,
+            "value": 3360000000000,
+            "probability": 0.00834562697576396
+        },
+        {
+            "player": {
+                "id": 205452,
+                "name": "안토니오 뤼디거",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 117,
+                "position": "CB",
+                "nation": 21,
+                "upgrade": 10,
+                "pay": 17
+            },
+            "value": 3330000000000,
             "probability": 0.00834562697576396
         },
         {
@@ -501,37 +546,7 @@
                 "upgrade": 10,
                 "pay": 21
             },
-            "value": 3690000000000,
-            "probability": 0.00834562697576396
-        },
-        {
-            "player": {
-                "id": 228687,
-                "name": "카스퍼 돌베르",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 126,
-                "position": "ST",
-                "nation": 13,
-                "upgrade": 10,
-                "pay": 22
-            },
-            "value": 3660000000000,
-            "probability": 0.00834562697576396
-        },
-        {
-            "player": {
-                "id": 203486,
-                "name": "토르간 아자르",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 126,
-                "position": "LM",
-                "nation": 7,
-                "upgrade": 10,
-                "pay": 21
-            },
-            "value": 3460000000000,
+            "value": 3240000000000,
             "probability": 0.00834562697576396
         },
         {
@@ -546,22 +561,22 @@
                 "upgrade": 10,
                 "pay": 21
             },
-            "value": 3420000000000,
-            "probability": 0.00834562697576396
+            "value": 3120000000000,
+            "probability": 0.00885142255005269
         },
         {
             "player": {
-                "id": 224081,
-                "name": "캘빈 필립스",
+                "id": 203486,
+                "name": "토르간 아자르",
                 "season": "BOE21",
                 "season_no": 253,
-                "ovr": 127,
-                "position": "CDM",
-                "nation": 14,
+                "ovr": 126,
+                "position": "LM",
+                "nation": 7,
                 "upgrade": 10,
                 "pay": 21
             },
-            "value": 3260000000000,
+            "value": 3120000000000,
             "probability": 0.00885142255005269
         },
         {
@@ -576,22 +591,7 @@
                 "upgrade": 10,
                 "pay": 23
             },
-            "value": 3110000000000,
-            "probability": 0.00885142255005269
-        },
-        {
-            "player": {
-                "id": 205452,
-                "name": "안토니오 뤼디거",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 117,
-                "position": "CB",
-                "nation": 21,
-                "upgrade": 10,
-                "pay": 17
-            },
-            "value": 3030000000000,
+            "value": 3080000000000,
             "probability": 0.00885142255005269
         },
         {
@@ -611,66 +611,6 @@
         },
         {
             "player": {
-                "id": 181291,
-                "name": "조르지뇨 베이날둠",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 127,
-                "position": "CM",
-                "nation": 34,
-                "upgrade": 10,
-                "pay": 22
-            },
-            "value": 2650000000000,
-            "probability": 0.00885142255005269
-        },
-        {
-            "player": {
-                "id": 202652,
-                "name": "라힘 스털링",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 128,
-                "position": "LW",
-                "nation": 14,
-                "upgrade": 10,
-                "pay": 23
-            },
-            "value": 2630000000000,
-            "probability": 0.0102002107481559
-        },
-        {
-            "player": {
-                "id": 227928,
-                "name": "넬송 세메두",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 118,
-                "position": "RB",
-                "nation": 38,
-                "upgrade": 10,
-                "pay": 17
-            },
-            "value": 2520000000000,
-            "probability": 0.0102002107481559
-        },
-        {
-            "player": {
-                "id": 193283,
-                "name": "토마스 딜레이니",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 125,
-                "position": "CDM",
-                "nation": 13,
-                "upgrade": 10,
-                "pay": 21
-            },
-            "value": 2460000000000,
-            "probability": 0.0102002107481559
-        },
-        {
-            "player": {
                 "id": 192505,
                 "name": "로멜루 루카쿠",
                 "season": "BOE21",
@@ -681,8 +621,8 @@
                 "upgrade": 10,
                 "pay": 23
             },
-            "value": 2410000000000,
-            "probability": 0.0102002107481559
+            "value": 2610000000000,
+            "probability": 0.00885142255005269
         },
         {
             "player": {
@@ -696,23 +636,38 @@
                 "upgrade": 10,
                 "pay": 16
             },
-            "value": 2260000000000,
+            "value": 2490000000000,
             "probability": 0.0102002107481559
         },
         {
             "player": {
-                "id": 202849,
-                "name": "야니크 베스터고르",
+                "id": 181291,
+                "name": "조르지뇨 베이날둠",
                 "season": "BOE21",
                 "season_no": 253,
-                "ovr": 124,
-                "position": "CB",
-                "nation": 13,
+                "ovr": 127,
+                "position": "CM",
+                "nation": 34,
                 "upgrade": 10,
-                "pay": 21
+                "pay": 22
             },
-            "value": 2150000000000,
-            "probability": 0.0112118018967334
+            "value": 2480000000000,
+            "probability": 0.0102002107481559
+        },
+        {
+            "player": {
+                "id": 202652,
+                "name": "라힘 스털링",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 128,
+                "position": "LW",
+                "nation": 14,
+                "upgrade": 10,
+                "pay": 23
+            },
+            "value": 2230000000000,
+            "probability": 0.0102002107481559
         },
         {
             "player": {
@@ -726,23 +681,23 @@
                 "upgrade": 10,
                 "pay": 23
             },
-            "value": 2150000000000,
-            "probability": 0.0112118018967334
+            "value": 2120000000000,
+            "probability": 0.0102002107481559
         },
         {
             "player": {
-                "id": 210736,
-                "name": "에메르손",
+                "id": 227813,
+                "name": "올렉산드르 진첸코",
                 "season": "BOE21",
                 "season_no": 253,
-                "ovr": 123,
-                "position": "LB",
-                "nation": 27,
+                "ovr": 126,
+                "position": "CM",
+                "nation": 49,
                 "upgrade": 10,
-                "pay": 19
+                "pay": 21
             },
-            "value": 2080000000000,
-            "probability": 0.0112118018967334
+            "value": 2060000000000,
+            "probability": 0.0102002107481559
         },
         {
             "player": {
@@ -756,7 +711,7 @@
                 "upgrade": 10,
                 "pay": 19
             },
-            "value": 2070000000000,
+            "value": 2050000000000,
             "probability": 0.0112118018967334
         },
         {
@@ -776,36 +731,6 @@
         },
         {
             "player": {
-                "id": 251854,
-                "name": "페드리",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 127,
-                "position": "CM",
-                "nation": 45,
-                "upgrade": 10,
-                "pay": 22
-            },
-            "value": 1980000000000,
-            "probability": 0.012729188619599601
-        },
-        {
-            "player": {
-                "id": 227813,
-                "name": "올렉산드르 진첸코",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 126,
-                "position": "CM",
-                "nation": 49,
-                "upgrade": 10,
-                "pay": 21
-            },
-            "value": 1980000000000,
-            "probability": 0.012729188619599601
-        },
-        {
-            "player": {
                 "id": 177003,
                 "name": "루카 모드리치",
                 "season": "BOE21",
@@ -816,7 +741,97 @@
                 "upgrade": 10,
                 "pay": 22
             },
-            "value": 1850000000000,
+            "value": 1990000000000,
+            "probability": 0.0112118018967334
+        },
+        {
+            "player": {
+                "id": 227928,
+                "name": "넬송 세메두",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 118,
+                "position": "RB",
+                "nation": 38,
+                "upgrade": 10,
+                "pay": 17
+            },
+            "value": 1970000000000,
+            "probability": 0.0112118018967334
+        },
+        {
+            "player": {
+                "id": 202849,
+                "name": "야니크 베스터고르",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 124,
+                "position": "CB",
+                "nation": 13,
+                "upgrade": 10,
+                "pay": 21
+            },
+            "value": 1940000000000,
+            "probability": 0.0112118018967334
+        },
+        {
+            "player": {
+                "id": 210736,
+                "name": "에메르손",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 123,
+                "position": "LB",
+                "nation": 27,
+                "upgrade": 10,
+                "pay": 19
+            },
+            "value": 1890000000000,
+            "probability": 0.012729188619599601
+        },
+        {
+            "player": {
+                "id": 193283,
+                "name": "토마스 딜레이니",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 125,
+                "position": "CDM",
+                "nation": 13,
+                "upgrade": 10,
+                "pay": 21
+            },
+            "value": 1800000000000,
+            "probability": 0.012729188619599601
+        },
+        {
+            "player": {
+                "id": 251854,
+                "name": "페드리",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 127,
+                "position": "CM",
+                "nation": 45,
+                "upgrade": 10,
+                "pay": 22
+            },
+            "value": 1780000000000,
+            "probability": 0.012729188619599601
+        },
+        {
+            "player": {
+                "id": 184432,
+                "name": "아스필리쿠에타",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 124,
+                "position": "RB",
+                "nation": 45,
+                "upgrade": 10,
+                "pay": 20
+            },
+            "value": 1760000000000,
             "probability": 0.012729188619599601
         },
         {
@@ -836,18 +851,33 @@
         },
         {
             "player": {
-                "id": 184432,
-                "name": "아스필리쿠에타",
+                "id": 237109,
+                "name": "O. 카라바예우",
                 "season": "BOE21",
                 "season_no": 253,
-                "ovr": 124,
+                "ovr": 122,
                 "position": "RB",
-                "nation": 45,
+                "nation": 49,
                 "upgrade": 10,
-                "pay": 20
+                "pay": 19
             },
-            "value": 1700000000000,
-            "probability": 0.012729188619599601
+            "value": 1550000000000,
+            "probability": 0.0152581664910432
+        },
+        {
+            "player": {
+                "id": 193408,
+                "name": "하리스 세페로비치",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 126,
+                "position": "ST",
+                "nation": 47,
+                "upgrade": 10,
+                "pay": 22
+            },
+            "value": 1500000000000,
+            "probability": 0.0152581664910432
         },
         {
             "player": {
@@ -881,33 +911,33 @@
         },
         {
             "player": {
-                "id": 186190,
-                "name": "패트릭 반안홀트",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 116,
-                "position": "LB",
-                "nation": 34,
-                "upgrade": 10,
-                "pay": 17
-            },
-            "value": 1410000000000,
-            "probability": 0.0152581664910432
-        },
-        {
-            "player": {
-                "id": 178005,
-                "name": "후이 파트리시우",
+                "id": 2147,
+                "name": "M. 스테켈렌뷔르흐",
                 "season": "BOE21",
                 "season_no": 253,
                 "ovr": 120,
                 "position": "GK",
-                "nation": 38,
+                "nation": 34,
                 "upgrade": 10,
                 "pay": 16
             },
-            "value": 1390000000000,
+            "value": 1420000000000,
             "probability": 0.0152581664910432
+        },
+        {
+            "player": {
+                "id": 251517,
+                "name": "그바르디올",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 120,
+                "position": "LB",
+                "nation": 10,
+                "upgrade": 10,
+                "pay": 18
+            },
+            "value": 1380000000000,
+            "probability": 0.0162697576396207
         },
         {
             "player": {
@@ -921,37 +951,7 @@
                 "upgrade": 10,
                 "pay": 19
             },
-            "value": 1380000000000,
-            "probability": 0.0152581664910432
-        },
-        {
-            "player": {
-                "id": 190059,
-                "name": "스티븐 추버",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 126,
-                "position": "LB",
-                "nation": 47,
-                "upgrade": 10,
-                "pay": 21
-            },
             "value": 1370000000000,
-            "probability": 0.0162697576396207
-        },
-        {
-            "player": {
-                "id": 193408,
-                "name": "하리스 세페로비치",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 126,
-                "position": "ST",
-                "nation": 47,
-                "upgrade": 10,
-                "pay": 22
-            },
-            "value": 1360000000000,
             "probability": 0.0162697576396207
         },
         {
@@ -971,48 +971,18 @@
         },
         {
             "player": {
-                "id": 193352,
-                "name": "R. 로드리게스",
+                "id": 190059,
+                "name": "스티븐 추버",
                 "season": "BOE21",
                 "season_no": 253,
-                "ovr": 123,
+                "ovr": 126,
                 "position": "LB",
-                "nation": 47,
-                "upgrade": 10,
-                "pay": 19
-            },
-            "value": 1330000000000,
-            "probability": 0.0162697576396207
-        },
-        {
-            "player": {
-                "id": 222357,
-                "name": "브릴 엠볼로",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 125,
-                "position": "ST",
                 "nation": 47,
                 "upgrade": 10,
                 "pay": 21
             },
-            "value": 1330000000000,
+            "value": 1340000000000,
             "probability": 0.0162697576396207
-        },
-        {
-            "player": {
-                "id": 2147,
-                "name": "M. 스테켈렌뷔르흐",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 120,
-                "position": "GK",
-                "nation": 34,
-                "upgrade": 10,
-                "pay": 16
-            },
-            "value": 1320000000000,
-            "probability": 0.018377239199157
         },
         {
             "player": {
@@ -1027,6 +997,21 @@
                 "pay": 22
             },
             "value": 1310000000000,
+            "probability": 0.0162697576396207
+        },
+        {
+            "player": {
+                "id": 241461,
+                "name": "페란 토레스",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 126,
+                "position": "RW",
+                "nation": 45,
+                "upgrade": 10,
+                "pay": 22
+            },
+            "value": 1290000000000,
             "probability": 0.018377239199157
         },
         {
@@ -1046,17 +1031,17 @@
         },
         {
             "player": {
-                "id": 237109,
-                "name": "O. 카라바예우",
+                "id": 229266,
+                "name": "조 로던",
                 "season": "BOE21",
                 "season_no": 253,
-                "ovr": 122,
-                "position": "RB",
-                "nation": 49,
+                "ovr": 121,
+                "position": "CB",
+                "nation": 50,
                 "upgrade": 10,
-                "pay": 19
+                "pay": 18
             },
-            "value": 1280000000000,
+            "value": 1260000000000,
             "probability": 0.018377239199157
         },
         {
@@ -1076,17 +1061,32 @@
         },
         {
             "player": {
-                "id": 251517,
-                "name": "그바르디올",
+                "id": 178005,
+                "name": "후이 파트리시우",
                 "season": "BOE21",
                 "season_no": 253,
                 "ovr": 120,
-                "position": "LB",
-                "nation": 10,
+                "position": "GK",
+                "nation": 38,
                 "upgrade": 10,
-                "pay": 18
+                "pay": 16
             },
-            "value": 1250000000000,
+            "value": 1240000000000,
+            "probability": 0.018377239199157
+        },
+        {
+            "player": {
+                "id": 258781,
+                "name": "I. 자바르니",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 123,
+                "position": "CB",
+                "nation": 49,
+                "upgrade": 10,
+                "pay": 19
+            },
+            "value": 1210000000000,
             "probability": 0.0209905163329821
         },
         {
@@ -1101,68 +1101,38 @@
                 "upgrade": 10,
                 "pay": 18
             },
-            "value": 1200000000000,
+            "value": 1190000000000,
             "probability": 0.0209905163329821
         },
         {
             "player": {
-                "id": 201122,
-                "name": "토마시 칼라스",
+                "id": 246104,
+                "name": "R. 흐라벤베르흐",
                 "season": "BOE21",
                 "season_no": 253,
-                "ovr": 123,
-                "position": "CB",
-                "nation": 12,
+                "ovr": 117,
+                "position": "CM",
+                "nation": 34,
                 "upgrade": 10,
-                "pay": 19
+                "pay": 17
             },
             "value": 1190000000000,
             "probability": 0.0209905163329821
         },
         {
             "player": {
-                "id": 209532,
-                "name": "다니엘 바흐만",
+                "id": 237692,
+                "name": "필 포든",
                 "season": "BOE21",
                 "season_no": 253,
-                "ovr": 120,
-                "position": "GK",
-                "nation": 4,
-                "upgrade": 10,
-                "pay": 16
-            },
-            "value": 1170000000000,
-            "probability": 0.0209905163329821
-        },
-        {
-            "player": {
-                "id": 223724,
-                "name": "슈테판 라이너",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 124,
-                "position": "RB",
-                "nation": 4,
-                "upgrade": 10,
-                "pay": 21
-            },
-            "value": 1160000000000,
-            "probability": 0.0209905163329821
-        },
-        {
-            "player": {
-                "id": 241461,
-                "name": "페란 토레스",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 126,
+                "ovr": 117,
                 "position": "RW",
-                "nation": 45,
+                "nation": 14,
                 "upgrade": 10,
-                "pay": 22
+                "pay": 17
             },
-            "value": 1160000000000,
-            "probability": 0.022255005268703897
+            "value": 1150000000000,
+            "probability": 0.0209905163329821
         },
         {
             "player": {
@@ -1177,21 +1147,51 @@
                 "pay": 21
             },
             "value": 1140000000000,
+            "probability": 0.0209905163329821
+        },
+        {
+            "player": {
+                "id": 222357,
+                "name": "브릴 엠볼로",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 125,
+                "position": "ST",
+                "nation": 47,
+                "upgrade": 10,
+                "pay": 21
+            },
+            "value": 1140000000000,
             "probability": 0.022255005268703897
         },
         {
             "player": {
-                "id": 251805,
-                "name": "위리엔 팀버",
+                "id": 186190,
+                "name": "패트릭 반안홀트",
                 "season": "BOE21",
                 "season_no": 253,
-                "ovr": 115,
-                "position": "CB",
+                "ovr": 116,
+                "position": "LB",
                 "nation": 34,
                 "upgrade": 10,
-                "pay": 16
+                "pay": 17
             },
-            "value": 1110000000000,
+            "value": 1120000000000,
+            "probability": 0.022255005268703897
+        },
+        {
+            "player": {
+                "id": 229237,
+                "name": "마누엘 아칸지",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 125,
+                "position": "CB",
+                "nation": 47,
+                "upgrade": 10,
+                "pay": 21
+            },
+            "value": 1120000000000,
             "probability": 0.022255005268703897
         },
         {
@@ -1226,93 +1226,48 @@
         },
         {
             "player": {
-                "id": 258781,
-                "name": "I. 자바르니",
+                "id": 193133,
+                "name": "J. 라르센",
                 "season": "BOE21",
                 "season_no": 253,
-                "ovr": 123,
-                "position": "CB",
-                "nation": 49,
-                "upgrade": 10,
-                "pay": 19
-            },
-            "value": 1100000000000,
-            "probability": 0.012602739726027401
-        },
-        {
-            "player": {
-                "id": 205498,
-                "name": "조르지뉴",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 128,
-                "position": "CDM",
-                "nation": 27,
-                "upgrade": 10,
-                "pay": 22
-            },
-            "value": 1100000000000,
-            "probability": 0.012602739726027401
-        },
-        {
-            "player": {
-                "id": 212622,
-                "name": "요주아 키미히",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 122,
+                "ovr": 120,
                 "position": "RB",
-                "nation": 21,
+                "nation": 13,
                 "upgrade": 10,
                 "pay": 19
-            },
-            "value": 1100000000000,
-            "probability": 0.012602739726027401
-        },
-        {
-            "player": {
-                "id": 237692,
-                "name": "필 포든",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 117,
-                "position": "RW",
-                "nation": 14,
-                "upgrade": 10,
-                "pay": 17
             },
             "value": 1090000000000,
             "probability": 0.012602739726027401
         },
         {
             "player": {
-                "id": 246104,
-                "name": "R. 흐라벤베르흐",
+                "id": 201122,
+                "name": "토마시 칼라스",
                 "season": "BOE21",
                 "season_no": 253,
-                "ovr": 117,
-                "position": "CM",
-                "nation": 34,
+                "ovr": 123,
+                "position": "CB",
+                "nation": 12,
                 "upgrade": 10,
-                "pay": 17
+                "pay": 19
             },
-            "value": 1080000000000,
+            "value": 1070000000000,
             "probability": 0.012602739726027401
         },
         {
             "player": {
-                "id": 229237,
-                "name": "마누엘 아칸지",
+                "id": 192387,
+                "name": "치로 임모빌레",
                 "season": "BOE21",
                 "season_no": 253,
-                "ovr": 125,
-                "position": "CB",
-                "nation": 47,
+                "ovr": 124,
+                "position": "ST",
+                "nation": 27,
                 "upgrade": 10,
-                "pay": 21
+                "pay": 20
             },
             "value": 1060000000000,
-            "probability": 0.008724973656480511
+            "probability": 0.012602739726027401
         },
         {
             "player": {
@@ -1326,8 +1281,8 @@
                 "upgrade": 10,
                 "pay": 19
             },
-            "value": 1060000000000,
-            "probability": 0.008724973656480511
+            "value": 1050000000000,
+            "probability": 0.012602739726027401
         },
         {
             "player": {
@@ -1342,19 +1297,19 @@
                 "pay": 19
             },
             "value": 1050000000000,
-            "probability": 0.008724973656480511
+            "probability": 0.012602739726027401
         },
         {
             "player": {
-                "id": 229266,
-                "name": "조 로던",
+                "id": 223724,
+                "name": "슈테판 라이너",
                 "season": "BOE21",
                 "season_no": 253,
-                "ovr": 121,
-                "position": "CB",
-                "nation": 50,
+                "ovr": 124,
+                "position": "RB",
+                "nation": 4,
                 "upgrade": 10,
-                "pay": 18
+                "pay": 21
             },
             "value": 1040000000000,
             "probability": 0.008724973656480511
@@ -1371,7 +1326,22 @@
                 "upgrade": 10,
                 "pay": 21
             },
-            "value": 1030000000000,
+            "value": 1020000000000,
+            "probability": 0.008724973656480511
+        },
+        {
+            "player": {
+                "id": 209532,
+                "name": "다니엘 바흐만",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 120,
+                "position": "GK",
+                "nation": 4,
+                "upgrade": 10,
+                "pay": 16
+            },
+            "value": 1020000000000,
             "probability": 0.008724973656480511
         },
         {
@@ -1386,8 +1356,8 @@
                 "upgrade": 10,
                 "pay": 18
             },
-            "value": 1020000000000,
-            "probability": 0.006448893572181241
+            "value": 1010000000000,
+            "probability": 0.008724973656480511
         },
         {
             "player": {
@@ -1402,34 +1372,19 @@
                 "pay": 19
             },
             "value": 1010000000000,
-            "probability": 0.006448893572181241
+            "probability": 0.008724973656480511
         },
         {
             "player": {
-                "id": 231747,
-                "name": "킬리안 음바페",
+                "id": 251805,
+                "name": "위리엔 팀버",
                 "season": "BOE21",
                 "season_no": 253,
-                "ovr": 121,
-                "position": "LW",
-                "nation": 18,
+                "ovr": 115,
+                "position": "CB",
+                "nation": 34,
                 "upgrade": 10,
-                "pay": 20
-            },
-            "value": 1010000000000,
-            "probability": 0.006448893572181241
-        },
-        {
-            "player": {
-                "id": 193133,
-                "name": "J. 라르센",
-                "season": "BOE21",
-                "season_no": 253,
-                "ovr": 120,
-                "position": "RB",
-                "nation": 13,
-                "upgrade": 10,
-                "pay": 19
+                "pay": 16
             },
             "value": 1000000000000,
             "probability": 0.006448893572181241
@@ -1451,18 +1406,18 @@
         },
         {
             "player": {
-                "id": 208093,
-                "name": "제라르 모레노",
+                "id": 205498,
+                "name": "조르지뉴",
                 "season": "BOE21",
                 "season_no": 253,
-                "ovr": 122,
-                "position": "ST",
-                "nation": 45,
+                "ovr": 128,
+                "position": "CDM",
+                "nation": 27,
                 "upgrade": 10,
-                "pay": 20
+                "pay": 22
             },
-            "value": 993000000000,
-            "probability": 0.00341412012644889
+            "value": 1000000000000,
+            "probability": 0.006448893572181241
         },
         {
             "player": {
@@ -1477,7 +1432,22 @@
                 "pay": 18
             },
             "value": 992000000000,
-            "probability": 0.00341412012644889
+            "probability": 0.006448893572181241
+        },
+        {
+            "player": {
+                "id": 225147,
+                "name": "코너 로버츠",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 119,
+                "position": "RB",
+                "nation": 50,
+                "upgrade": 10,
+                "pay": 18
+            },
+            "value": 991000000000,
+            "probability": 0.006448893572181241
         },
         {
             "player": {
@@ -1492,6 +1462,21 @@
                 "pay": 15
             },
             "value": 990000000000,
+            "probability": 0.00341412012644889
+        },
+        {
+            "player": {
+                "id": 193352,
+                "name": "R. 로드리게스",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 123,
+                "position": "LB",
+                "nation": 47,
+                "upgrade": 10,
+                "pay": 19
+            },
+            "value": 989000000000,
             "probability": 0.00341412012644889
         },
         {
@@ -1522,6 +1507,21 @@
                 "pay": 18
             },
             "value": 989000000000,
+            "probability": 0.00341412012644889
+        },
+        {
+            "player": {
+                "id": 215914,
+                "name": "은골로 캉테",
+                "season": "BOE21",
+                "season_no": 253,
+                "ovr": 124,
+                "position": "CDM",
+                "nation": 18,
+                "upgrade": 10,
+                "pay": 20
+            },
+            "value": 974000000000,
             "probability": 0.00341412012644889
         }
     ]
