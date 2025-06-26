@@ -1,0 +1,63 @@
+{
+    "type": "box",
+    "id": "17294",
+    "name": "[마일리지] 25TOTS or BP 상자",
+    "image": "/assets/image/item/201707952_s.png",
+    "expectedBp": 60712328982.7507,
+    "expectedValue": {
+        "bp_player": 28812328982.7507,
+        "bp_card": 31900000000.000004
+    },
+    "expectedBp1": 60712328982.7507,
+    "expectedValue1": {
+        "bp_player": 28812328982.7507,
+        "bp_card": 31900000000.000004
+    },
+    "percentile": {
+        "0": 18600000000000,
+        "1": 250000000000,
+        "2": 218000000000,
+        "5": 122000000000,
+        "10": 100000000000,
+        "20": 50000000000,
+        "30": 50000000000,
+        "40": 50000000000,
+        "50": 50000000000,
+        "60": 50000000000,
+        "70": 44400000000,
+        "80": 25200000000,
+        "90": 17100000000,
+        "100": 11900000000
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "17223",
+                "name": "[마일리지] 25TOTS Top Price All (1강)",
+                "image": null,
+                "expectedBp": 64027397739.446,
+                "expectedValue": {
+                    "bp_player": 64027397739.446
+                }
+            },
+            "amount": 1,
+            "probability": 0.45
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "17275",
+                "name": "[마일리지] 행운의 BP 카드 (500억~2500억)",
+                "image": null,
+                "expectedBp": 58000000000.0,
+                "expectedValue": {
+                    "bp_card": 58000000000.0
+                }
+            },
+            "amount": 1,
+            "probability": 0.55
+        }
+    ],
+    "additionalInfoWithAmount": null
+}

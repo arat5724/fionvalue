@@ -1,0 +1,63 @@
+{
+    "type": "box",
+    "id": "17467",
+    "name": "[AG][25.06] ICON 5강 + BP 상자",
+    "image": null,
+    "expectedBp": 192426917598.895,
+    "expectedValue": {
+        "bp_player": 25076490248.46747,
+        "bp_card": 167350427350.42752
+    },
+    "expectedBp1": 192426917598.895,
+    "expectedValue1": {
+        "bp_player": 25076490248.46747,
+        "bp_card": 167350427350.42752
+    },
+    "percentile": {
+        "0": 21800000000000,
+        "1": 849700000000,
+        "2": 709140000000,
+        "5": 413000000000,
+        "10": 269000000000,
+        "20": 184000000000,
+        "30": 158420000000,
+        "40": 149940000000,
+        "50": 142700000000,
+        "60": 137200000000,
+        "70": 130500000000,
+        "80": 124600000000,
+        "90": 117000000000,
+        "100": 105920000000
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "17325",
+                "name": "[AG][25.06] ICON 클래스 Top Price ALL 선수팩 (5강)",
+                "image": null,
+                "expectedBp": 25076490248.46747,
+                "expectedValue": {
+                    "bp_player": 25076490248.46747
+                }
+            },
+            "amount": 1,
+            "probability": 1.0
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "17338",
+                "name": "[AG] 행운의 BP 카드 (1000억 ~ 2조 BP)",
+                "image": null,
+                "expectedBp": 167350427350.42752,
+                "expectedValue": {
+                    "bp_card": 167350427350.42752
+                }
+            },
+            "amount": 1,
+            "probability": 1.0
+        }
+    ],
+    "additionalInfoWithAmount": null
+}

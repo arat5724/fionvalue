@@ -1,0 +1,61 @@
+{
+    "type": "box",
+    "id": "17455",
+    "name": "[AG][25.06] 스페셜 에이전트 의뢰 1 선수팩 상자",
+    "image": null,
+    "expectedBp": 31636542413.7008,
+    "expectedValue": {
+        "bp_player": 31636542413.7008
+    },
+    "expectedBp1": 31636542413.7008,
+    "expectedValue1": {
+        "bp_player": 31636542413.7008
+    },
+    "percentile": {
+        "0": 1600000000000000,
+        "1": 178000000000,
+        "2": 138000000000,
+        "5": 87800000000,
+        "10": 67100000000,
+        "20": 38200000000,
+        "30": 27100000000,
+        "40": 23700000000,
+        "50": 22400000000,
+        "60": 17400000000,
+        "70": 15400000000,
+        "80": 11700000000,
+        "90": 8100000000,
+        "100": 4890000000
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "17306",
+                "name": "[AG][MDL 포함] 멀티 클래스 Top Price 1000 스페셜팩 (8강, 100+)",
+                "image": null,
+                "expectedBp": 266255096935.1831,
+                "expectedValue": {
+                    "bp_player": 266255096935.1831
+                }
+            },
+            "amount": 1,
+            "probability": 5e-05
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "17307",
+                "name": "[AG][25HEROES 3~5강 포함] 최종 OVR 113+ 스페셜팩 (3~8강)",
+                "image": null,
+                "expectedBp": 31624810899.399014,
+                "expectedValue": {
+                    "bp_player": 31624810899.399014
+                }
+            },
+            "amount": 1,
+            "probability": 0.99995
+        }
+    ],
+    "additionalInfoWithAmount": null
+}
