@@ -3,24 +3,24 @@
     "id": "16459",
     "name": "ICON TM Top Price 50 선수팩 (1~4강, 122+)",
     "image": null,
-    "expectedBp": 102934193548387.0,
+    "expectedBp": 103177419354838.61,
     "expectedValue": {
-        "bp_player": 102934193548387.0
+        "bp_player": 103177419354838.61
     },
     "percentile": {
         "0": 384000000000000,
         "1": 384000000000000,
         "2": 222000000000000,
-        "5": 176000000000000,
-        "10": 139000000000000,
-        "20": 114000000000000,
+        "5": 178000000000000,
+        "10": 135000000000000,
+        "20": 115000000000000,
         "30": 109000000000000,
-        "40": 91900000000000,
-        "50": 86500000000000,
+        "40": 90900000000000,
+        "50": 86000000000000,
         "60": 83700000000000,
-        "70": 79700000000000,
-        "80": 75000000000000,
-        "90": 71400000000000,
+        "70": 80600000000000,
+        "80": 75700000000000,
+        "90": 72200000000000,
         "100": 67900000000000
     },
     "playerList": [
@@ -66,7 +66,7 @@
                 "upgrade": 4,
                 "pay": 33
             },
-            "value": 335000000000000,
+            "value": 325000000000000,
             "probability": 0.00645161290322581
         },
         {
@@ -96,8 +96,23 @@
                 "upgrade": 4,
                 "pay": 33
             },
-            "value": 192000000000000,
+            "value": 198000000000000,
             "probability": 0.00645161290322581
+        },
+        {
+            "player": {
+                "id": 190043,
+                "name": "펠레",
+                "season": "ICONTM",
+                "season_no": 100,
+                "ovr": 127,
+                "position": "CF",
+                "nation": 54,
+                "upgrade": 3,
+                "pay": 33
+            },
+            "value": 188000000000000,
+            "probability": 0.012903225806451599
         },
         {
             "player": {
@@ -131,21 +146,6 @@
         },
         {
             "player": {
-                "id": 190043,
-                "name": "펠레",
-                "season": "ICONTM",
-                "season_no": 100,
-                "ovr": 127,
-                "position": "CF",
-                "nation": 54,
-                "upgrade": 3,
-                "pay": 33
-            },
-            "value": 175000000000000,
-            "probability": 0.012903225806451599
-        },
-        {
-            "player": {
                 "id": 192181,
                 "name": "마르코 반바스텐",
                 "season": "ICONTM",
@@ -171,7 +171,7 @@
                 "upgrade": 3,
                 "pay": 33
             },
-            "value": 161000000000000,
+            "value": 166000000000000,
             "probability": 0.012903225806451599
         },
         {
@@ -186,37 +186,7 @@
                 "upgrade": 4,
                 "pay": 32
             },
-            "value": 139000000000000,
-            "probability": 0.012903225806451599
-        },
-        {
-            "player": {
-                "id": 13128,
-                "name": "안드리 셰우첸코",
-                "season": "ICONTM",
-                "season_no": 100,
-                "ovr": 124,
-                "position": "ST",
-                "nation": 49,
-                "upgrade": 3,
-                "pay": 32
-            },
-            "value": 133000000000000,
-            "probability": 0.012903225806451599
-        },
-        {
-            "player": {
-                "id": 214100,
-                "name": "루드 굴리트",
-                "season": "ICONTM",
-                "season_no": 100,
-                "ovr": 124,
-                "position": "CF",
-                "nation": 34,
-                "upgrade": 2,
-                "pay": 33
-            },
-            "value": 130000000000000,
+            "value": 135000000000000,
             "probability": 0.012903225806451599
         },
         {
@@ -236,17 +206,32 @@
         },
         {
             "player": {
-                "id": 1625,
-                "name": "티에리 앙리",
+                "id": 214100,
+                "name": "루드 굴리트",
                 "season": "ICONTM",
                 "season_no": 100,
-                "ovr": 126,
-                "position": "ST",
-                "nation": 18,
-                "upgrade": 4,
-                "pay": 31
+                "ovr": 124,
+                "position": "CF",
+                "nation": 34,
+                "upgrade": 2,
+                "pay": 33
             },
-            "value": 122000000000000,
+            "value": 130000000000000,
+            "probability": 0.012903225806451599
+        },
+        {
+            "player": {
+                "id": 13128,
+                "name": "안드리 셰우첸코",
+                "season": "ICONTM",
+                "season_no": 100,
+                "ovr": 124,
+                "position": "ST",
+                "nation": 49,
+                "upgrade": 3,
+                "pay": 32
+            },
+            "value": 129000000000000,
             "probability": 0.012903225806451599
         },
         {
@@ -261,7 +246,7 @@
                 "upgrade": 2,
                 "pay": 32
             },
-            "value": 121000000000000,
+            "value": 125000000000000,
             "probability": 0.012903225806451599
         },
         {
@@ -285,13 +270,28 @@
                 "name": "티에리 앙리",
                 "season": "ICONTM",
                 "season_no": 100,
+                "ovr": 126,
+                "position": "ST",
+                "nation": 18,
+                "upgrade": 4,
+                "pay": 31
+            },
+            "value": 121000000000000,
+            "probability": 0.012903225806451599
+        },
+        {
+            "player": {
+                "id": 1625,
+                "name": "티에리 앙리",
+                "season": "ICONTM",
+                "season_no": 100,
                 "ovr": 123,
                 "position": "ST",
                 "nation": 18,
                 "upgrade": 2,
                 "pay": 31
             },
-            "value": 116000000000000,
+            "value": 121000000000000,
             "probability": 0.012903225806451599
         },
         {
@@ -305,6 +305,21 @@
                 "nation": 18,
                 "upgrade": 1,
                 "pay": 31
+            },
+            "value": 115000000000000,
+            "probability": 0.012903225806451599
+        },
+        {
+            "player": {
+                "id": 138449,
+                "name": "카카",
+                "season": "ICONTM",
+                "season_no": 100,
+                "ovr": 126,
+                "position": "CAM",
+                "nation": 54,
+                "upgrade": 4,
+                "pay": 32
             },
             "value": 114000000000000,
             "probability": 0.012903225806451599
@@ -322,7 +337,7 @@
                 "pay": 33
             },
             "value": 112000000000000,
-            "probability": 0.012903225806451599
+            "probability": 0.0193548387096774
         },
         {
             "player": {
@@ -334,21 +349,6 @@
                 "position": "CAM",
                 "nation": 54,
                 "upgrade": 3,
-                "pay": 32
-            },
-            "value": 111000000000000,
-            "probability": 0.0193548387096774
-        },
-        {
-            "player": {
-                "id": 138449,
-                "name": "카카",
-                "season": "ICONTM",
-                "season_no": 100,
-                "ovr": 126,
-                "position": "CAM",
-                "nation": 54,
-                "upgrade": 4,
                 "pay": 32
             },
             "value": 111000000000000,
@@ -396,7 +396,7 @@
                 "upgrade": 2,
                 "pay": 32
             },
-            "value": 107000000000000,
+            "value": 108000000000000,
             "probability": 0.0193548387096774
         },
         {
@@ -411,7 +411,7 @@
                 "upgrade": 3,
                 "pay": 33
             },
-            "value": 102000000000000,
+            "value": 101000000000000,
             "probability": 0.0193548387096774
         },
         {
@@ -471,23 +471,8 @@
                 "upgrade": 4,
                 "pay": 31
             },
-            "value": 91900000000000,
+            "value": 90900000000000,
             "probability": 0.0193548387096774
-        },
-        {
-            "player": {
-                "id": 190042,
-                "name": "마라도나",
-                "season": "ICONTM",
-                "season_no": 100,
-                "ovr": 129,
-                "position": "CAM",
-                "nation": 52,
-                "upgrade": 4,
-                "pay": 32
-            },
-            "value": 88000000000000,
-            "probability": 0.032258064516129
         },
         {
             "player": {
@@ -506,17 +491,17 @@
         },
         {
             "player": {
-                "id": 9676,
-                "name": "사뮈엘 에토",
+                "id": 190042,
+                "name": "마라도나",
                 "season": "ICONTM",
                 "season_no": 100,
-                "ovr": 124,
-                "position": "ST",
-                "nation": 103,
-                "upgrade": 3,
-                "pay": 31
+                "ovr": 129,
+                "position": "CAM",
+                "nation": 52,
+                "upgrade": 4,
+                "pay": 32
             },
-            "value": 86500000000000,
+            "value": 86000000000000,
             "probability": 0.032258064516129
         },
         {
@@ -536,17 +521,32 @@
         },
         {
             "player": {
-                "id": 190042,
-                "name": "마라도나",
+                "id": 9676,
+                "name": "사뮈엘 에토",
                 "season": "ICONTM",
                 "season_no": 100,
-                "ovr": 127,
-                "position": "CAM",
-                "nation": 52,
+                "ovr": 124,
+                "position": "ST",
+                "nation": 103,
                 "upgrade": 3,
+                "pay": 31
+            },
+            "value": 84400000000000,
+            "probability": 0.032258064516129
+        },
+        {
+            "player": {
+                "id": 168473,
+                "name": "베켄바우어",
+                "season": "ICONTM",
+                "season_no": 100,
+                "ovr": 128,
+                "position": "CB",
+                "nation": 21,
+                "upgrade": 4,
                 "pay": 32
             },
-            "value": 85700000000000,
+            "value": 84000000000000,
             "probability": 0.032258064516129
         },
         {
@@ -570,28 +570,13 @@
                 "name": "사뮈엘 에토",
                 "season": "ICONTM",
                 "season_no": 100,
-                "ovr": 123,
+                "ovr": 122,
                 "position": "ST",
                 "nation": 103,
-                "upgrade": 2,
+                "upgrade": 1,
                 "pay": 31
             },
-            "value": 82500000000000,
-            "probability": 0.032258064516129
-        },
-        {
-            "player": {
-                "id": 168473,
-                "name": "베켄바우어",
-                "season": "ICONTM",
-                "season_no": 100,
-                "ovr": 128,
-                "position": "CB",
-                "nation": 21,
-                "upgrade": 4,
-                "pay": 32
-            },
-            "value": 81600000000000,
+            "value": 81500000000000,
             "probability": 0.032258064516129
         },
         {
@@ -600,28 +585,28 @@
                 "name": "사뮈엘 에토",
                 "season": "ICONTM",
                 "season_no": 100,
-                "ovr": 122,
+                "ovr": 123,
                 "position": "ST",
                 "nation": 103,
-                "upgrade": 1,
+                "upgrade": 2,
                 "pay": 31
             },
-            "value": 79700000000000,
+            "value": 81500000000000,
             "probability": 0.032258064516129
         },
         {
             "player": {
-                "id": 54050,
-                "name": "웨인 루니",
+                "id": 190042,
+                "name": "마라도나",
                 "season": "ICONTM",
                 "season_no": 100,
-                "ovr": 126,
-                "position": "ST",
-                "nation": 14,
-                "upgrade": 4,
-                "pay": 31
+                "ovr": 127,
+                "position": "CAM",
+                "nation": 52,
+                "upgrade": 3,
+                "pay": 32
             },
-            "value": 79400000000000,
+            "value": 80600000000000,
             "probability": 0.032258064516129
         },
         {
@@ -636,8 +621,8 @@
                 "upgrade": 4,
                 "pay": 32
             },
-            "value": 79000000000000,
-            "probability": 0.025806451612903198
+            "value": 79900000000000,
+            "probability": 0.032258064516129
         },
         {
             "player": {
@@ -652,6 +637,66 @@
                 "pay": 32
             },
             "value": 78800000000000,
+            "probability": 0.025806451612903198
+        },
+        {
+            "player": {
+                "id": 54050,
+                "name": "웨인 루니",
+                "season": "ICONTM",
+                "season_no": 100,
+                "ovr": 126,
+                "position": "ST",
+                "nation": 14,
+                "upgrade": 4,
+                "pay": 31
+            },
+            "value": 78100000000000,
+            "probability": 0.025806451612903198
+        },
+        {
+            "player": {
+                "id": 54050,
+                "name": "웨인 루니",
+                "season": "ICONTM",
+                "season_no": 100,
+                "ovr": 123,
+                "position": "ST",
+                "nation": 14,
+                "upgrade": 2,
+                "pay": 31
+            },
+            "value": 75700000000000,
+            "probability": 0.025806451612903198
+        },
+        {
+            "player": {
+                "id": 54050,
+                "name": "웨인 루니",
+                "season": "ICONTM",
+                "season_no": 100,
+                "ovr": 122,
+                "position": "ST",
+                "nation": 14,
+                "upgrade": 1,
+                "pay": 31
+            },
+            "value": 75700000000000,
+            "probability": 0.025806451612903198
+        },
+        {
+            "player": {
+                "id": 54050,
+                "name": "웨인 루니",
+                "season": "ICONTM",
+                "season_no": 100,
+                "ovr": 124,
+                "position": "ST",
+                "nation": 14,
+                "upgrade": 3,
+                "pay": 31
+            },
+            "value": 75700000000000,
             "probability": 0.025806451612903198
         },
         {
@@ -671,51 +716,6 @@
         },
         {
             "player": {
-                "id": 54050,
-                "name": "웨인 루니",
-                "season": "ICONTM",
-                "season_no": 100,
-                "ovr": 122,
-                "position": "ST",
-                "nation": 14,
-                "upgrade": 1,
-                "pay": 31
-            },
-            "value": 72700000000000,
-            "probability": 0.025806451612903198
-        },
-        {
-            "player": {
-                "id": 54050,
-                "name": "웨인 루니",
-                "season": "ICONTM",
-                "season_no": 100,
-                "ovr": 124,
-                "position": "ST",
-                "nation": 14,
-                "upgrade": 3,
-                "pay": 31
-            },
-            "value": 72700000000000,
-            "probability": 0.025806451612903198
-        },
-        {
-            "player": {
-                "id": 54050,
-                "name": "웨인 루니",
-                "season": "ICONTM",
-                "season_no": 100,
-                "ovr": 123,
-                "position": "ST",
-                "nation": 14,
-                "upgrade": 2,
-                "pay": 31
-            },
-            "value": 72700000000000,
-            "probability": 0.025806451612903198
-        },
-        {
-            "player": {
                 "id": 31432,
                 "name": "디디에 드로그바",
                 "season": "ICONTM",
@@ -726,22 +726,7 @@
                 "upgrade": 1,
                 "pay": 32
             },
-            "value": 71400000000000,
-            "probability": 0.025806451612903198
-        },
-        {
-            "player": {
-                "id": 167198,
-                "name": "에릭 칸토나",
-                "season": "ICONTM",
-                "season_no": 100,
-                "ovr": 126,
-                "position": "CF",
-                "nation": 18,
-                "upgrade": 4,
-                "pay": 32
-            },
-            "value": 71100000000000,
+            "value": 72200000000000,
             "probability": 0.025806451612903198
         },
         {
@@ -757,6 +742,21 @@
                 "pay": 32
             },
             "value": 70700000000000,
+            "probability": 0.025806451612903198
+        },
+        {
+            "player": {
+                "id": 167198,
+                "name": "에릭 칸토나",
+                "season": "ICONTM",
+                "season_no": 100,
+                "ovr": 126,
+                "position": "CF",
+                "nation": 18,
+                "upgrade": 4,
+                "pay": 32
+            },
+            "value": 69000000000000,
             "probability": 0.025806451612903198
         },
         {
