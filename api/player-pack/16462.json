@@ -3,25 +3,25 @@
     "id": "16462",
     "name": "24UCL Top Price 20 선수팩 (8강, 111+)",
     "image": null,
-    "expectedBp": 100105882352941.16,
+    "expectedBp": 104036764705882.33,
     "expectedValue": {
-        "bp_player": 100105882352941.16
+        "bp_player": 104036764705882.33
     },
     "percentile": {
-        "0": 216000000000000,
-        "1": 216000000000000,
-        "2": 170000000000000,
-        "5": 168000000000000,
-        "10": 122000000000000,
-        "20": 101000000000000,
-        "30": 99900000000000,
-        "40": 94600000000000,
-        "50": 94400000000000,
-        "60": 92400000000000,
-        "70": 84600000000000,
-        "80": 83300000000000,
-        "90": 80000000000000,
-        "100": 78200000000000
+        "0": 205000000000000,
+        "1": 205000000000000,
+        "2": 175000000000000,
+        "5": 170000000000000,
+        "10": 127000000000000,
+        "20": 112000000000000,
+        "30": 100000000000000,
+        "40": 96200000000000,
+        "50": 96000000000000,
+        "60": 95400000000000,
+        "70": 91700000000000,
+        "80": 91500000000000,
+        "90": 83600000000000,
+        "100": 82900000000000
     },
     "playerList": [
         {
@@ -36,7 +36,7 @@
                 "upgrade": 8,
                 "pay": 29
             },
-            "value": 216000000000000,
+            "value": 205000000000000,
             "probability": 0.0147058823529412
         },
         {
@@ -51,7 +51,7 @@
                 "upgrade": 8,
                 "pay": 24
             },
-            "value": 170000000000000,
+            "value": 175000000000000,
             "probability": 0.0147058823529412
         },
         {
@@ -66,7 +66,7 @@
                 "upgrade": 8,
                 "pay": 29
             },
-            "value": 168000000000000,
+            "value": 170000000000000,
             "probability": 0.0294117647058823
         },
         {
@@ -81,37 +81,7 @@
                 "upgrade": 8,
                 "pay": 28
             },
-            "value": 150000000000000,
-            "probability": 0.0294117647058823
-        },
-        {
-            "player": {
-                "id": 212622,
-                "name": "요주아 키미히",
-                "season": "24UCL",
-                "season_no": 834,
-                "ovr": 132,
-                "position": "CDM",
-                "nation": 21,
-                "upgrade": 8,
-                "pay": 26
-            },
-            "value": 122000000000000,
-            "probability": 0.0294117647058823
-        },
-        {
-            "player": {
-                "id": 233096,
-                "name": "덴젤 둠프리스",
-                "season": "24UCL",
-                "season_no": 834,
-                "ovr": 132,
-                "position": "RWB",
-                "nation": 34,
-                "upgrade": 8,
-                "pay": 27
-            },
-            "value": 120000000000000,
+            "value": 155000000000000,
             "probability": 0.0294117647058823
         },
         {
@@ -126,22 +96,37 @@
                 "upgrade": 8,
                 "pay": 27
             },
-            "value": 113000000000000,
-            "probability": 0.0441176470588235
+            "value": 127000000000000,
+            "probability": 0.0294117647058823
         },
         {
             "player": {
-                "id": 194765,
-                "name": "앙투안 그리즈만",
+                "id": 212622,
+                "name": "요주아 키미히",
                 "season": "24UCL",
                 "season_no": 834,
-                "ovr": 130,
-                "position": "CF",
-                "nation": 18,
+                "ovr": 132,
+                "position": "CDM",
+                "nation": 21,
                 "upgrade": 8,
-                "pay": 29
+                "pay": 26
             },
-            "value": 101000000000000,
+            "value": 126000000000000,
+            "probability": 0.0294117647058823
+        },
+        {
+            "player": {
+                "id": 233096,
+                "name": "덴젤 둠프리스",
+                "season": "24UCL",
+                "season_no": 834,
+                "ovr": 132,
+                "position": "RWB",
+                "nation": 34,
+                "upgrade": 8,
+                "pay": 27
+            },
+            "value": 116000000000000,
             "probability": 0.0441176470588235
         },
         {
@@ -156,53 +141,8 @@
                 "upgrade": 8,
                 "pay": 28
             },
-            "value": 100000000000000,
+            "value": 112000000000000,
             "probability": 0.0441176470588235
-        },
-        {
-            "player": {
-                "id": 229558,
-                "name": "다요 우파메카노",
-                "season": "24UCL",
-                "season_no": 834,
-                "ovr": 129,
-                "position": "CB",
-                "nation": 18,
-                "upgrade": 8,
-                "pay": 25
-            },
-            "value": 99900000000000,
-            "probability": 0.0441176470588235
-        },
-        {
-            "player": {
-                "id": 238794,
-                "name": "비니시우스",
-                "season": "24UCL",
-                "season_no": 834,
-                "ovr": 131,
-                "position": "LW",
-                "nation": 54,
-                "upgrade": 8,
-                "pay": 29
-            },
-            "value": 95000000000000,
-            "probability": 0.0735294117647059
-        },
-        {
-            "player": {
-                "id": 277643,
-                "name": "라민 야말",
-                "season": "24UCL",
-                "season_no": 834,
-                "ovr": 134,
-                "position": "RW",
-                "nation": 45,
-                "upgrade": 8,
-                "pay": 27
-            },
-            "value": 94600000000000,
-            "probability": 0.0735294117647059
         },
         {
             "player": {
@@ -216,7 +156,52 @@
                 "upgrade": 8,
                 "pay": 27
             },
-            "value": 94400000000000,
+            "value": 106000000000000,
+            "probability": 0.0441176470588235
+        },
+        {
+            "player": {
+                "id": 194765,
+                "name": "앙투안 그리즈만",
+                "season": "24UCL",
+                "season_no": 834,
+                "ovr": 130,
+                "position": "CF",
+                "nation": 18,
+                "upgrade": 8,
+                "pay": 29
+            },
+            "value": 100000000000000,
+            "probability": 0.0441176470588235
+        },
+        {
+            "player": {
+                "id": 277643,
+                "name": "라민 야말",
+                "season": "24UCL",
+                "season_no": 834,
+                "ovr": 134,
+                "position": "RW",
+                "nation": 45,
+                "upgrade": 8,
+                "pay": 27
+            },
+            "value": 96300000000000,
+            "probability": 0.0735294117647059
+        },
+        {
+            "player": {
+                "id": 238794,
+                "name": "비니시우스",
+                "season": "24UCL",
+                "season_no": 834,
+                "ovr": 131,
+                "position": "LW",
+                "nation": 54,
+                "upgrade": 8,
+                "pay": 29
+            },
+            "value": 96200000000000,
             "probability": 0.0735294117647059
         },
         {
@@ -231,37 +216,37 @@
                 "upgrade": 8,
                 "pay": 28
             },
-            "value": 92400000000000,
+            "value": 96000000000000,
             "probability": 0.0735294117647059
         },
         {
             "player": {
-                "id": 239053,
-                "name": "페데리코 발베르데",
-                "season": "24UCL",
-                "season_no": 834,
-                "ovr": 127,
-                "position": "CM",
-                "nation": 60,
-                "upgrade": 8,
-                "pay": 24
-            },
-            "value": 91300000000000,
-            "probability": 0.0735294117647059
-        },
-        {
-            "player": {
-                "id": 252371,
-                "name": "주드 벨링엄",
+                "id": 229558,
+                "name": "다요 우파메카노",
                 "season": "24UCL",
                 "season_no": 834,
                 "ovr": 129,
-                "position": "CAM",
-                "nation": 14,
+                "position": "CB",
+                "nation": 18,
                 "upgrade": 8,
-                "pay": 26
+                "pay": 25
             },
-            "value": 84600000000000,
+            "value": 95400000000000,
+            "probability": 0.0735294117647059
+        },
+        {
+            "player": {
+                "id": 227796,
+                "name": "크리스천 풀리식",
+                "season": "24UCL",
+                "season_no": 834,
+                "ovr": 129,
+                "position": "RW",
+                "nation": 95,
+                "upgrade": 8,
+                "pay": 27
+            },
+            "value": 92500000000000,
             "probability": 0.0735294117647059
         },
         {
@@ -276,37 +261,37 @@
                 "upgrade": 8,
                 "pay": 28
             },
-            "value": 83300000000000,
-            "probability": 0.0588235294117647
+            "value": 91700000000000,
+            "probability": 0.0735294117647059
         },
         {
             "player": {
-                "id": 227796,
-                "name": "크리스천 풀리식",
+                "id": 252371,
+                "name": "주드 벨링엄",
                 "season": "24UCL",
                 "season_no": 834,
                 "ovr": 129,
-                "position": "RW",
-                "nation": 95,
+                "position": "CAM",
+                "nation": 14,
                 "upgrade": 8,
-                "pay": 27
+                "pay": 26
             },
-            "value": 83000000000000,
+            "value": 91500000000000,
             "probability": 0.0588235294117647
         },
         {
             "player": {
-                "id": 226271,
-                "name": "파비안 루이스",
+                "id": 239053,
+                "name": "페데리코 발베르데",
                 "season": "24UCL",
                 "season_no": 834,
-                "ovr": 131,
+                "ovr": 127,
                 "position": "CM",
-                "nation": 45,
+                "nation": 60,
                 "upgrade": 8,
                 "pay": 24
             },
-            "value": 80000000000000,
+            "value": 91000000000000,
             "probability": 0.0588235294117647
         },
         {
@@ -321,7 +306,22 @@
                 "upgrade": 8,
                 "pay": 28
             },
-            "value": 78200000000000,
+            "value": 83600000000000,
+            "probability": 0.0588235294117647
+        },
+        {
+            "player": {
+                "id": 241486,
+                "name": "쥘 쿤데",
+                "season": "24UCL",
+                "season_no": 834,
+                "ovr": 130,
+                "position": "RB",
+                "nation": 18,
+                "upgrade": 8,
+                "pay": 27
+            },
+            "value": 82900000000000,
             "probability": 0.0588235294117647
         }
     ]
