@@ -1,0 +1,77 @@
+{
+    "type": "box",
+    "id": "18203",
+    "name": "[AG][특수 클래스 한정][25.07] 스페셜 에이전트 의뢰 2 리워드 상자",
+    "image": null,
+    "expectedBp": 104256464419.21927,
+    "expectedValue": {
+        "bp_player": 74064866058.56352,
+        "bp_card": 30191598360.655746
+    },
+    "expectedBp1": 104256464419.21927,
+    "expectedValue1": {
+        "bp_player": 74064866058.56352,
+        "bp_card": 30191598360.655746
+    },
+    "percentile": {
+        "0": 2100000000000000,
+        "1": 410000000000,
+        "2": 351000000000,
+        "5": 270000000000,
+        "10": 161000000000,
+        "20": 128000000000,
+        "30": 105000000000,
+        "40": 95000000000,
+        "50": 89900000000,
+        "60": 85000000000,
+        "70": 68200000000,
+        "80": 47200000000,
+        "90": 36000000000,
+        "100": 15100000000
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "18050",
+                "name": "[AG][CU 포함] 멀티 클래스 Top Price 1000 스페셜팩 (8강, 100+)",
+                "image": null,
+                "expectedBp": 689599377536.6721,
+                "expectedValue": {
+                    "bp_player": 689599377536.6721
+                }
+            },
+            "amount": 1,
+            "probability": 0.0001
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "18052",
+                "name": "[AG][LE 3강 포함] 멀티 클래스 최종 OVR 115+ 선수팩 (3~7강)",
+                "image": null,
+                "expectedBp": 105723540678.39671,
+                "expectedValue": {
+                    "bp_player": 105723540678.39671
+                }
+            },
+            "amount": 1,
+            "probability": 0.6999
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "18072",
+                "name": "[AG] 행운의 BP 카드 (800억~5000억 BP)",
+                "image": null,
+                "expectedBp": 100638661202.18582,
+                "expectedValue": {
+                    "bp_card": 100638661202.18582
+                }
+            },
+            "amount": 1,
+            "probability": 0.3
+        }
+    ],
+    "additionalInfoWithAmount": null
+}

@@ -1,0 +1,63 @@
+{
+    "type": "box",
+    "id": "18036",
+    "name": "[마일리지] 25TOTS 1~6강 or BP 상자",
+    "image": "/assets/image/item/201708075_s.png",
+    "expectedBp": 76957898586.80377,
+    "expectedValue": {
+        "bp_player": 35197898586.80377,
+        "bp_card": 41760000000.0
+    },
+    "expectedBp1": 76957898586.80377,
+    "expectedValue1": {
+        "bp_player": 35197898586.80377,
+        "bp_card": 41760000000.0
+    },
+    "percentile": {
+        "0": 238000000000000,
+        "1": 300000000000,
+        "2": 223000000000,
+        "5": 142000000000,
+        "10": 120000000000,
+        "20": 91700000000,
+        "30": 62400000000,
+        "40": 60000000000,
+        "50": 60000000000,
+        "60": 60000000000,
+        "70": 60000000000,
+        "80": 60000000000,
+        "90": 50800000000,
+        "100": 37400000000
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "18024",
+                "name": "[마일리지] 25TOTS Top Price 920 (1~6강, 115+)",
+                "image": null,
+                "expectedBp": 87994746467.00943,
+                "expectedValue": {
+                    "bp_player": 87994746467.00943
+                }
+            },
+            "amount": 1,
+            "probability": 0.4
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "18031",
+                "name": "[마일리지] 행운의 BP 카드 (600억~3000억)",
+                "image": null,
+                "expectedBp": 69600000000.0,
+                "expectedValue": {
+                    "bp_card": 69600000000.0
+                }
+            },
+            "amount": 1,
+            "probability": 0.6
+        }
+    ],
+    "additionalInfoWithAmount": null
+}
