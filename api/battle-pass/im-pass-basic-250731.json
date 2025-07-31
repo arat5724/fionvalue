@@ -1,0 +1,185 @@
+{
+    "type": "battle-pass",
+    "id": "im-pass-basic-250731",
+    "name": "IM PASS 베이직",
+    "image": null,
+    "price": 1900,
+    "efficiency": 0.0,
+    "expectedBp": 0,
+    "expectedValue": {
+        "[레전드 패스] NO.7 포함 Top Price 230 (1~4강, 105+)": 1,
+        "[레전드 패스] 25TOTS 포함 Top Price 600 (1~5강, 105+)": 1,
+        "[레전드 패스] 25TOTS 포함 Top Price 1830 (5~7강, 104+)": 1,
+        "[레전드 패스] NO.7 포함 Top Price 1650 (7~8강, 104+)": 1,
+        "[레전드 패스] 25TOTS 포함 Top Price 1600 (7~8강, 104+)": 1,
+        "IM 레전드 상자": 1
+    },
+    "efficiency1": 0.0,
+    "expectedBp1": 0,
+    "expectedValue1": {
+        "[레전드 패스] NO.7 포함 Top Price 230 (1~4강, 105+)": 1,
+        "[레전드 패스] 25TOTS 포함 Top Price 600 (1~5강, 105+)": 1,
+        "[레전드 패스] 25TOTS 포함 Top Price 1830 (5~7강, 104+)": 1,
+        "[레전드 패스] NO.7 포함 Top Price 1650 (7~8강, 104+)": 1,
+        "[레전드 패스] 25TOTS 포함 Top Price 1600 (7~8강, 104+)": 1,
+        "IM 레전드 상자": 1
+    },
+    "breakpoints": [
+        {
+            "type": "or",
+            "point": 100,
+            "items": [
+                {
+                    "type": "other",
+                    "id": -1,
+                    "name": "[레전드 패스] NO.7 포함 Top Price 230 (1~4강, 105+)",
+                    "image": null,
+                    "expectedBp": 0,
+                    "expectedValue": {
+                        "[레전드 패스] NO.7 포함 Top Price 230 (1~4강, 105+)": 1
+                    }
+                },
+                {
+                    "type": "other",
+                    "id": -1,
+                    "name": "[레전드 패스] 행운의 BP 카드 (4000억~2조)",
+                    "image": null,
+                    "expectedBp": 0,
+                    "expectedValue": {
+                        "[레전드 패스] 행운의 BP 카드 (4000억~2조)": 1
+                    }
+                }
+            ]
+        },
+        {
+            "type": "or",
+            "point": 500,
+            "items": [
+                {
+                    "type": "other",
+                    "id": -1,
+                    "name": "[레전드 패스] 25TOTS 포함 Top Price 600 (1~5강, 105+)",
+                    "image": null,
+                    "expectedBp": 0,
+                    "expectedValue": {
+                        "[레전드 패스] 25TOTS 포함 Top Price 600 (1~5강, 105+)": 1
+                    }
+                },
+                {
+                    "type": "other",
+                    "id": -1,
+                    "name": "[레전드 패스] 행운의 BP 카드 (6000억~3조)",
+                    "image": null,
+                    "expectedBp": 0,
+                    "expectedValue": {
+                        "[레전드 패스] 행운의 BP 카드 (6000억~3조)": 1
+                    }
+                }
+            ]
+        },
+        {
+            "type": "or",
+            "point": 1500,
+            "items": [
+                {
+                    "type": "other",
+                    "id": -1,
+                    "name": "[레전드 패스] 25TOTS 포함 Top Price 1830 (5~7강, 104+)",
+                    "image": null,
+                    "expectedBp": 0,
+                    "expectedValue": {
+                        "[레전드 패스] 25TOTS 포함 Top Price 1830 (5~7강, 104+)": 1
+                    }
+                },
+                {
+                    "type": "other",
+                    "id": -1,
+                    "name": "[레전드 패스] 행운의 BP 카드 (1조~5조)",
+                    "image": null,
+                    "expectedBp": 0,
+                    "expectedValue": {
+                        "[레전드 패스] 행운의 BP 카드 (1조~5조)": 1
+                    }
+                }
+            ]
+        },
+        {
+            "type": "or",
+            "point": 2500,
+            "items": [
+                {
+                    "type": "other",
+                    "id": -1,
+                    "name": "[레전드 패스] NO.7 포함 Top Price 1650 (7~8강, 104+)",
+                    "image": null,
+                    "expectedBp": 0,
+                    "expectedValue": {
+                        "[레전드 패스] NO.7 포함 Top Price 1650 (7~8강, 104+)": 1
+                    }
+                },
+                {
+                    "type": "other",
+                    "id": -1,
+                    "name": "[레전드 패스] 행운의 BP 카드 (2조~10조)",
+                    "image": null,
+                    "expectedBp": 0,
+                    "expectedValue": {
+                        "[레전드 패스] 행운의 BP 카드 (2조~10조)": 1
+                    }
+                }
+            ]
+        },
+        {
+            "type": "or",
+            "point": 3000,
+            "items": [
+                {
+                    "type": "other",
+                    "id": -1,
+                    "name": "[레전드 패스] 25TOTS 포함 Top Price 1600 (7~8강, 104+)",
+                    "image": null,
+                    "expectedBp": 0,
+                    "expectedValue": {
+                        "[레전드 패스] 25TOTS 포함 Top Price 1600 (7~8강, 104+)": 1
+                    }
+                },
+                {
+                    "type": "other",
+                    "id": -1,
+                    "name": "[레전드 패스] 행운의 BP 카드 (5조~25조)",
+                    "image": null,
+                    "expectedBp": 0,
+                    "expectedValue": {
+                        "[레전드 패스] 행운의 BP 카드 (5조~25조)": 1
+                    }
+                }
+            ]
+        },
+        {
+            "type": "or",
+            "point": 3500,
+            "items": [
+                {
+                    "type": "other",
+                    "id": -1,
+                    "name": "IM 레전드 상자",
+                    "image": null,
+                    "expectedBp": 0,
+                    "expectedValue": {
+                        "IM 레전드 상자": 1
+                    }
+                },
+                {
+                    "type": "other",
+                    "id": -1,
+                    "name": "IM 레전드 금고",
+                    "image": null,
+                    "expectedBp": 0,
+                    "expectedValue": {
+                        "IM 레전드 금고": 1
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,185 @@
+{
+    "type": "battle-pass",
+    "id": "im-pass-legend-250731",
+    "name": "IM PASS 레전드",
+    "image": null,
+    "price": 5900,
+    "efficiency": 0.0,
+    "expectedBp": 0,
+    "expectedValue": {
+        "[베이직 패스] LE 포함 Top Price 840 (1~4강, 105+)": 1,
+        "[베이직 패스] NO.7 포함 Top Price 1280 (1~5강, 105+)": 1,
+        "[베이직 패스] NO.7 포함 Top Price 2750 (5~7강, 100+)": 1,
+        "[베이직 패스] 25TOTS 포함 Top Price 2430 (3~7강, 104+)": 1,
+        "[베이직 패스] 25TOTS 포함 Top Price 2300 (5~8강, 104+)": 1,
+        "IM 베이직 상자": 1
+    },
+    "efficiency1": 0.0,
+    "expectedBp1": 0,
+    "expectedValue1": {
+        "[베이직 패스] LE 포함 Top Price 840 (1~4강, 105+)": 1,
+        "[베이직 패스] NO.7 포함 Top Price 1280 (1~5강, 105+)": 1,
+        "[베이직 패스] NO.7 포함 Top Price 2750 (5~7강, 100+)": 1,
+        "[베이직 패스] 25TOTS 포함 Top Price 2430 (3~7강, 104+)": 1,
+        "[베이직 패스] 25TOTS 포함 Top Price 2300 (5~8강, 104+)": 1,
+        "IM 베이직 상자": 1
+    },
+    "breakpoints": [
+        {
+            "type": "or",
+            "point": 100,
+            "items": [
+                {
+                    "type": "other",
+                    "id": -1,
+                    "name": "[베이직 패스] LE 포함 Top Price 840 (1~4강, 105+)",
+                    "image": null,
+                    "expectedBp": 0,
+                    "expectedValue": {
+                        "[베이직 패스] LE 포함 Top Price 840 (1~4강, 105+)": 1
+                    }
+                },
+                {
+                    "type": "other",
+                    "id": -1,
+                    "name": "[베이직 패스] 행운의 BP 카드 (1200억~6000억)",
+                    "image": null,
+                    "expectedBp": 0,
+                    "expectedValue": {
+                        "[베이직 패스] 행운의 BP 카드 (1200억~6000억)": 1
+                    }
+                }
+            ]
+        },
+        {
+            "type": "or",
+            "point": 500,
+            "items": [
+                {
+                    "type": "other",
+                    "id": -1,
+                    "name": "[베이직 패스] NO.7 포함 Top Price 1280 (1~5강, 105+)",
+                    "image": null,
+                    "expectedBp": 0,
+                    "expectedValue": {
+                        "[베이직 패스] NO.7 포함 Top Price 1280 (1~5강, 105+)": 1
+                    }
+                },
+                {
+                    "type": "other",
+                    "id": -1,
+                    "name": "[베이직 패스] 행운의 BP 카드 (1800억~9000억)",
+                    "image": null,
+                    "expectedBp": 0,
+                    "expectedValue": {
+                        "[베이직 패스] 행운의 BP 카드 (1800억~9000억)": 1
+                    }
+                }
+            ]
+        },
+        {
+            "type": "or",
+            "point": 1500,
+            "items": [
+                {
+                    "type": "other",
+                    "id": -1,
+                    "name": "[베이직 패스] NO.7 포함 Top Price 2750 (5~7강, 100+)",
+                    "image": null,
+                    "expectedBp": 0,
+                    "expectedValue": {
+                        "[베이직 패스] NO.7 포함 Top Price 2750 (5~7강, 100+)": 1
+                    }
+                },
+                {
+                    "type": "other",
+                    "id": -1,
+                    "name": "[베이직 패스] 행운의 BP 카드 (3000억~1.5조)",
+                    "image": null,
+                    "expectedBp": 0,
+                    "expectedValue": {
+                        "[베이직 패스] 행운의 BP 카드 (3000억~1.5조)": 1
+                    }
+                }
+            ]
+        },
+        {
+            "type": "or",
+            "point": 2500,
+            "items": [
+                {
+                    "type": "other",
+                    "id": -1,
+                    "name": "[베이직 패스] 25TOTS 포함 Top Price 2430 (3~7강, 104+)",
+                    "image": null,
+                    "expectedBp": 0,
+                    "expectedValue": {
+                        "[베이직 패스] 25TOTS 포함 Top Price 2430 (3~7강, 104+)": 1
+                    }
+                },
+                {
+                    "type": "other",
+                    "id": -1,
+                    "name": "[베이직 패스] 행운의 BP 카드 (6800억~3.4조)",
+                    "image": null,
+                    "expectedBp": 0,
+                    "expectedValue": {
+                        "[베이직 패스] 행운의 BP 카드 (6800억~3.4조)": 1
+                    }
+                }
+            ]
+        },
+        {
+            "type": "or",
+            "point": 3000,
+            "items": [
+                {
+                    "type": "other",
+                    "id": -1,
+                    "name": "[베이직 패스] 25TOTS 포함 Top Price 2300 (5~8강, 104+)",
+                    "image": null,
+                    "expectedBp": 0,
+                    "expectedValue": {
+                        "[베이직 패스] 25TOTS 포함 Top Price 2300 (5~8강, 104+)": 1
+                    }
+                },
+                {
+                    "type": "other",
+                    "id": -1,
+                    "name": "[베이직 패스] 행운의 BP 카드 (1.8조~9조)",
+                    "image": null,
+                    "expectedBp": 0,
+                    "expectedValue": {
+                        "[베이직 패스] 행운의 BP 카드 (1.8조~9조)": 1
+                    }
+                }
+            ]
+        },
+        {
+            "type": "or",
+            "point": 3500,
+            "items": [
+                {
+                    "type": "other",
+                    "id": -1,
+                    "name": "IM 베이직 상자",
+                    "image": null,
+                    "expectedBp": 0,
+                    "expectedValue": {
+                        "IM 베이직 상자": 1
+                    }
+                },
+                {
+                    "type": "other",
+                    "id": -1,
+                    "name": "IM 베이직 금고",
+                    "image": null,
+                    "expectedBp": 0,
+                    "expectedValue": {
+                        "IM 베이직 금고": 1
+                    }
+                }
+            ]
+        }
+    ]
+}
