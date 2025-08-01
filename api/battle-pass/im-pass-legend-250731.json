@@ -4,25 +4,17 @@
     "name": "IM PASS 레전드",
     "image": null,
     "price": 5900,
-    "efficiency": 0.0,
-    "expectedBp": 0,
+    "efficiency": 14562.17632939355,
+    "expectedBp": 8591684034342.194,
     "expectedValue": {
-        "[베이직 패스] LE 포함 Top Price 840 (1~4강, 105+)": 1,
-        "[베이직 패스] NO.7 포함 Top Price 1280 (1~5강, 105+)": 1,
-        "[베이직 패스] NO.7 포함 Top Price 2750 (5~7강, 100+)": 1,
-        "[베이직 패스] 25TOTS 포함 Top Price 2430 (3~7강, 104+)": 1,
-        "[베이직 패스] 25TOTS 포함 Top Price 2300 (5~8강, 104+)": 1,
-        "IM 베이직 상자": 1
+        "bp_player": 5753284034342.194,
+        "bp_card": 2838400000000.0
     },
-    "efficiency1": 0.0,
-    "expectedBp1": 0,
+    "efficiency1": 14562.17632939355,
+    "expectedBp1": 8591684034342.194,
     "expectedValue1": {
-        "[베이직 패스] LE 포함 Top Price 840 (1~4강, 105+)": 1,
-        "[베이직 패스] NO.7 포함 Top Price 1280 (1~5강, 105+)": 1,
-        "[베이직 패스] NO.7 포함 Top Price 2750 (5~7강, 100+)": 1,
-        "[베이직 패스] 25TOTS 포함 Top Price 2430 (3~7강, 104+)": 1,
-        "[베이직 패스] 25TOTS 포함 Top Price 2300 (5~8강, 104+)": 1,
-        "IM 베이직 상자": 1
+        "bp_player": 5753284034342.194,
+        "bp_card": 2838400000000.0
     },
     "breakpoints": [
         {
@@ -30,23 +22,23 @@
             "point": 100,
             "items": [
                 {
-                    "type": "other",
-                    "id": -1,
+                    "type": "player-pack",
+                    "id": "18234",
                     "name": "[베이직 패스] LE 포함 Top Price 840 (1~4강, 105+)",
                     "image": null,
-                    "expectedBp": 0,
+                    "expectedBp": 178154921642.53296,
                     "expectedValue": {
-                        "[베이직 패스] LE 포함 Top Price 840 (1~4강, 105+)": 1
+                        "bp_player": 178154921642.53296
                     }
                 },
                 {
-                    "type": "other",
-                    "id": -1,
+                    "type": "bp",
+                    "id": "18258",
                     "name": "[베이직 패스] 행운의 BP 카드 (1200억~6000억)",
                     "image": null,
-                    "expectedBp": 0,
+                    "expectedBp": 135600000000.0,
                     "expectedValue": {
-                        "[베이직 패스] 행운의 BP 카드 (1200억~6000억)": 1
+                        "bp_card": 135600000000.0
                     }
                 }
             ]
@@ -56,23 +48,23 @@
             "point": 500,
             "items": [
                 {
-                    "type": "other",
-                    "id": -1,
+                    "type": "player-pack",
+                    "id": "18235",
                     "name": "[베이직 패스] NO.7 포함 Top Price 1280 (1~5강, 105+)",
                     "image": null,
-                    "expectedBp": 0,
+                    "expectedBp": 247229594816.52475,
                     "expectedValue": {
-                        "[베이직 패스] NO.7 포함 Top Price 1280 (1~5강, 105+)": 1
+                        "bp_player": 247229594816.52475
                     }
                 },
                 {
-                    "type": "other",
-                    "id": -1,
+                    "type": "bp",
+                    "id": "18259",
                     "name": "[베이직 패스] 행운의 BP 카드 (1800억~9000억)",
                     "image": null,
-                    "expectedBp": 0,
+                    "expectedBp": 203400000000.0,
                     "expectedValue": {
-                        "[베이직 패스] 행운의 BP 카드 (1800억~9000억)": 1
+                        "bp_card": 203400000000.0
                     }
                 }
             ]
@@ -82,23 +74,23 @@
             "point": 1500,
             "items": [
                 {
-                    "type": "other",
-                    "id": -1,
+                    "type": "player-pack",
+                    "id": "18236",
                     "name": "[베이직 패스] NO.7 포함 Top Price 2750 (5~7강, 100+)",
                     "image": null,
-                    "expectedBp": 0,
+                    "expectedBp": 409728409851.8047,
                     "expectedValue": {
-                        "[베이직 패스] NO.7 포함 Top Price 2750 (5~7강, 100+)": 1
+                        "bp_player": 409728409851.8047
                     }
                 },
                 {
-                    "type": "other",
-                    "id": -1,
+                    "type": "bp",
+                    "id": "18260",
                     "name": "[베이직 패스] 행운의 BP 카드 (3000억~1.5조)",
                     "image": null,
-                    "expectedBp": 0,
+                    "expectedBp": 339000000000.0,
                     "expectedValue": {
-                        "[베이직 패스] 행운의 BP 카드 (3000억~1.5조)": 1
+                        "bp_card": 339000000000.0
                     }
                 }
             ]
@@ -108,23 +100,23 @@
             "point": 2500,
             "items": [
                 {
-                    "type": "other",
-                    "id": -1,
+                    "type": "player-pack",
+                    "id": "18237",
                     "name": "[베이직 패스] 25TOTS 포함 Top Price 2430 (3~7강, 104+)",
                     "image": null,
-                    "expectedBp": 0,
+                    "expectedBp": 782918446824.5728,
                     "expectedValue": {
-                        "[베이직 패스] 25TOTS 포함 Top Price 2430 (3~7강, 104+)": 1
+                        "bp_player": 782918446824.5728
                     }
                 },
                 {
-                    "type": "other",
-                    "id": -1,
+                    "type": "bp",
+                    "id": "18261",
                     "name": "[베이직 패스] 행운의 BP 카드 (6800억~3.4조)",
                     "image": null,
-                    "expectedBp": 0,
+                    "expectedBp": 804400000000.0,
                     "expectedValue": {
-                        "[베이직 패스] 행운의 BP 카드 (6800억~3.4조)": 1
+                        "bp_card": 804400000000.0
                     }
                 }
             ]
@@ -134,23 +126,23 @@
             "point": 3000,
             "items": [
                 {
-                    "type": "other",
-                    "id": -1,
+                    "type": "player-pack",
+                    "id": "18238",
                     "name": "[베이직 패스] 25TOTS 포함 Top Price 2300 (5~8강, 104+)",
                     "image": null,
-                    "expectedBp": 0,
+                    "expectedBp": 1876241593495.7368,
                     "expectedValue": {
-                        "[베이직 패스] 25TOTS 포함 Top Price 2300 (5~8강, 104+)": 1
+                        "bp_player": 1876241593495.7368
                     }
                 },
                 {
-                    "type": "other",
-                    "id": -1,
+                    "type": "bp",
+                    "id": "18262",
                     "name": "[베이직 패스] 행운의 BP 카드 (1.8조~9조)",
                     "image": null,
-                    "expectedBp": 0,
+                    "expectedBp": 2034000000000.0,
                     "expectedValue": {
-                        "[베이직 패스] 행운의 BP 카드 (1.8조~9조)": 1
+                        "bp_card": 2034000000000.0
                     }
                 }
             ]
@@ -160,23 +152,24 @@
             "point": 3500,
             "items": [
                 {
-                    "type": "other",
-                    "id": -1,
+                    "type": "box",
+                    "id": "18268",
                     "name": "IM 베이직 상자",
                     "image": null,
-                    "expectedBp": 0,
+                    "expectedBp": 4918171108031.332,
                     "expectedValue": {
-                        "IM 베이직 상자": 1
+                        "bp_player": 4918171108031.332
                     }
                 },
                 {
-                    "type": "other",
-                    "id": -1,
+                    "type": "box",
+                    "id": "18269",
                     "name": "IM 베이직 금고",
                     "image": null,
-                    "expectedBp": 0,
+                    "expectedBp": 4072899817098.5806,
                     "expectedValue": {
-                        "IM 베이직 금고": 1
+                        "bp_player": 24839317098.580536,
+                        "bp_card": 4048060500000.0
                     }
                 }
             ]

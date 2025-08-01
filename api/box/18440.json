@@ -1,0 +1,105 @@
+{
+    "type": "box",
+    "id": "18440",
+    "name": "[777 보너스] [열쇠 1개] 1조 찬스! 상자",
+    "image": null,
+    "expectedBp": 84167083419.7174,
+    "expectedValue": {
+        "bp_card": 10900000000.0,
+        "bp_player": 73267083419.7174
+    },
+    "expectedBp1": 84167083419.7174,
+    "expectedValue1": {
+        "bp_card": 10900000000.0,
+        "bp_player": 73267083419.7174
+    },
+    "percentile": {
+        "0": 168000000000000,
+        "1": 400000000000,
+        "2": 390000000000,
+        "5": 276000000000,
+        "10": 142000000000,
+        "20": 100000000000,
+        "30": 91100000000,
+        "40": 71800000000,
+        "50": 58100000000,
+        "60": 47700000000,
+        "70": 41000000000,
+        "80": 31900000000,
+        "90": 26300000000,
+        "100": 11500000000
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "bp",
+                "id": -1,
+                "name": "[777 보너스] BP 카드 1,000,000,000,000",
+                "image": null,
+                "expectedBp": 1000000000000,
+                "expectedValue": {
+                    "bp_card": 1000000000000
+                }
+            },
+            "amount": 1,
+            "probability": 0.001
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": -1,
+                "name": "[777 보너스] BP 카드 100,000,000,000",
+                "image": null,
+                "expectedBp": 100000000000,
+                "expectedValue": {
+                    "bp_card": 100000000000
+                }
+            },
+            "amount": 1,
+            "probability": 0.099
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "18429",
+                "name": "[24UCL 4~5강 포함] 최종 OVR 116+ 스페셜팩 (4~7강)",
+                "image": null,
+                "expectedBp": 99185132692.91129,
+                "expectedValue": {
+                    "bp_player": 99185132692.91129
+                }
+            },
+            "amount": 1,
+            "probability": 0.25
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "18430",
+                "name": "[24UCL 3~5강 포함] 최종 OVR 115+ 스페셜팩 (3~7강)",
+                "image": null,
+                "expectedBp": 77301085862.61517,
+                "expectedValue": {
+                    "bp_player": 77301085862.61517
+                }
+            },
+            "amount": 1,
+            "probability": 0.35
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "18431",
+                "name": "[24UCL 2~5강 포함] 최종 OVR 114+ 스페셜팩 (2~7강)",
+                "image": null,
+                "expectedBp": 71384733981.91426,
+                "expectedValue": {
+                    "bp_player": 71384733981.91426
+                }
+            },
+            "amount": 1,
+            "probability": 0.3
+        }
+    ],
+    "additionalInfoWithAmount": null
+}
