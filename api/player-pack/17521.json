@@ -3,25 +3,25 @@
     "id": "17521",
     "name": "BDO, BLD, GRU Top Price 45 선수팩 (9강, 113+)",
     "image": null,
-    "expectedBp": 334193975903614.25,
+    "expectedBp": 336392771084337.1,
     "expectedValue": {
-        "bp_player": 334193975903614.25
+        "bp_player": 336392771084337.1
     },
     "percentile": {
         "0": 5380000000000000,
-        "1": 1660000000000000,
-        "2": 1530000000000000,
-        "5": 545000000000000,
+        "1": 1680000000000000,
+        "2": 1600000000000000,
+        "5": 575000000000000,
         "10": 425000000000000,
-        "20": 360000000000000,
+        "20": 370000000000000,
         "30": 332000000000000,
-        "40": 293000000000000,
-        "50": 269000000000000,
-        "60": 260000000000000,
-        "70": 230000000000000,
-        "80": 229000000000000,
-        "90": 204000000000000,
-        "100": 198000000000000
+        "40": 299000000000000,
+        "50": 262000000000000,
+        "60": 250000000000000,
+        "70": 240000000000000,
+        "80": 230000000000000,
+        "90": 212000000000000,
+        "100": 206000000000000
     },
     "playerList": [
         {
@@ -101,6 +101,21 @@
         },
         {
             "player": {
+                "id": 176580,
+                "name": "루이스 수아레스",
+                "season": "GRU",
+                "season_no": 829,
+                "ovr": 134,
+                "position": "ST",
+                "nation": 60,
+                "upgrade": 9,
+                "pay": 30
+            },
+            "value": 1680000000000000,
+            "probability": 0.00481927710843374
+        },
+        {
+            "player": {
                 "id": 192181,
                 "name": "마르코 반바스텐",
                 "season": "BDO",
@@ -127,21 +142,6 @@
                 "pay": 31
             },
             "value": 1600000000000000,
-            "probability": 0.00481927710843374
-        },
-        {
-            "player": {
-                "id": 176580,
-                "name": "루이스 수아레스",
-                "season": "GRU",
-                "season_no": 829,
-                "ovr": 134,
-                "position": "ST",
-                "nation": 60,
-                "upgrade": 9,
-                "pay": 30
-            },
-            "value": 1530000000000000,
             "probability": 0.00481927710843374
         },
         {
@@ -191,6 +191,21 @@
         },
         {
             "player": {
+                "id": 190045,
+                "name": "요한 크루이프",
+                "season": "BDO",
+                "season_no": 827,
+                "ovr": 135,
+                "position": "CF",
+                "nation": 34,
+                "upgrade": 9,
+                "pay": 31
+            },
+            "value": 575000000000000,
+            "probability": 0.0120481927710843
+        },
+        {
+            "player": {
                 "id": 191189,
                 "name": "로타어 마테우스",
                 "season": "BDO",
@@ -221,32 +236,17 @@
         },
         {
             "player": {
-                "id": 190045,
-                "name": "요한 크루이프",
+                "id": 9676,
+                "name": "사뮈엘 에토",
                 "season": "BDO",
                 "season_no": 827,
-                "ovr": 135,
-                "position": "CF",
-                "nation": 34,
+                "ovr": 130,
+                "position": "ST",
+                "nation": 103,
                 "upgrade": 9,
-                "pay": 31
+                "pay": 27
             },
-            "value": 539000000000000,
-            "probability": 0.0120481927710843
-        },
-        {
-            "player": {
-                "id": 242519,
-                "name": "에우제비우",
-                "season": "BDO",
-                "season_no": 827,
-                "ovr": 134,
-                "position": "CF",
-                "nation": 38,
-                "upgrade": 9,
-                "pay": 30
-            },
-            "value": 430000000000000,
+            "value": 469000000000000,
             "probability": 0.0120481927710843
         },
         {
@@ -266,32 +266,62 @@
         },
         {
             "player": {
-                "id": 9676,
-                "name": "사뮈엘 에토",
+                "id": 1114,
+                "name": "로베르토 바조",
                 "season": "BDO",
                 "season_no": 827,
-                "ovr": 130,
-                "position": "ST",
-                "nation": 103,
+                "ovr": 132,
+                "position": "CF",
+                "nation": 27,
                 "upgrade": 9,
-                "pay": 27
+                "pay": 29
             },
-            "value": 415000000000000,
+            "value": 414000000000000,
             "probability": 0.0180722891566265
         },
         {
             "player": {
-                "id": 28130,
-                "name": "호나우지뉴",
+                "id": 242519,
+                "name": "에우제비우",
                 "season": "BDO",
                 "season_no": 827,
+                "ovr": 134,
+                "position": "CF",
+                "nation": 38,
+                "upgrade": 9,
+                "pay": 30
+            },
+            "value": 399000000000000,
+            "probability": 0.0180722891566265
+        },
+        {
+            "player": {
+                "id": 13743,
+                "name": "스티븐 제라드",
+                "season": "GRU",
+                "season_no": 829,
                 "ovr": 133,
-                "position": "LW",
-                "nation": 54,
+                "position": "CDM",
+                "nation": 14,
+                "upgrade": 9,
+                "pay": 30
+            },
+            "value": 384000000000000,
+            "probability": 0.0180722891566265
+        },
+        {
+            "player": {
+                "id": 54050,
+                "name": "웨인 루니",
+                "season": "GRU",
+                "season_no": 829,
+                "ovr": 133,
+                "position": "ST",
+                "nation": 14,
                 "upgrade": 9,
                 "pay": 29
             },
-            "value": 407000000000000,
+            "value": 380000000000000,
             "probability": 0.0180722891566265
         },
         {
@@ -307,47 +337,32 @@
                 "pay": 28
             },
             "value": 370000000000000,
-            "probability": 0.0180722891566265
-        },
-        {
-            "player": {
-                "id": 13743,
-                "name": "스티븐 제라드",
-                "season": "GRU",
-                "season_no": 829,
-                "ovr": 133,
-                "position": "CDM",
-                "nation": 14,
-                "upgrade": 9,
-                "pay": 30
-            },
-            "value": 370000000000000,
-            "probability": 0.0180722891566265
-        },
-        {
-            "player": {
-                "id": 1114,
-                "name": "로베르토 바조",
-                "season": "BDO",
-                "season_no": 827,
-                "ovr": 132,
-                "position": "CF",
-                "nation": 27,
-                "upgrade": 9,
-                "pay": 29
-            },
-            "value": 360000000000000,
             "probability": 0.0240963855421687
         },
         {
             "player": {
-                "id": 54050,
-                "name": "웨인 루니",
+                "id": 28130,
+                "name": "호나우지뉴",
+                "season": "BDO",
+                "season_no": 827,
+                "ovr": 133,
+                "position": "LW",
+                "nation": 54,
+                "upgrade": 9,
+                "pay": 29
+            },
+            "value": 366000000000000,
+            "probability": 0.0240963855421687
+        },
+        {
+            "player": {
+                "id": 190871,
+                "name": "네이마르 Jr.",
                 "season": "GRU",
                 "season_no": 829,
                 "ovr": 133,
-                "position": "ST",
-                "nation": 14,
+                "position": "LW",
+                "nation": 54,
                 "upgrade": 9,
                 "pay": 29
             },
@@ -367,21 +382,6 @@
                 "pay": 29
             },
             "value": 345000000000000,
-            "probability": 0.0240963855421687
-        },
-        {
-            "player": {
-                "id": 190871,
-                "name": "네이마르 Jr.",
-                "season": "GRU",
-                "season_no": 829,
-                "ovr": 133,
-                "position": "LW",
-                "nation": 54,
-                "upgrade": 9,
-                "pay": 29
-            },
-            "value": 339000000000000,
             "probability": 0.0240963855421687
         },
         {
@@ -411,7 +411,22 @@
                 "upgrade": 9,
                 "pay": 29
             },
-            "value": 325000000000000,
+            "value": 310000000000000,
+            "probability": 0.036144578313253
+        },
+        {
+            "player": {
+                "id": 138449,
+                "name": "카카",
+                "season": "BDO",
+                "season_no": 827,
+                "ovr": 132,
+                "position": "CAM",
+                "nation": 54,
+                "upgrade": 9,
+                "pay": 29
+            },
+            "value": 309000000000000,
             "probability": 0.036144578313253
         },
         {
@@ -427,36 +442,6 @@
                 "pay": 28
             },
             "value": 299000000000000,
-            "probability": 0.036144578313253
-        },
-        {
-            "player": {
-                "id": 138449,
-                "name": "카카",
-                "season": "BDO",
-                "season_no": 827,
-                "ovr": 132,
-                "position": "CAM",
-                "nation": 54,
-                "upgrade": 9,
-                "pay": 29
-            },
-            "value": 293000000000000,
-            "probability": 0.036144578313253
-        },
-        {
-            "player": {
-                "id": 192985,
-                "name": "케빈 더브라위너",
-                "season": "BLD",
-                "season_no": 828,
-                "ovr": 130,
-                "position": "CAM",
-                "nation": 7,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 291000000000000,
             "probability": 0.036144578313253
         },
         {
@@ -486,22 +471,22 @@
                 "upgrade": 9,
                 "pay": 29
             },
-            "value": 269000000000000,
+            "value": 262000000000000,
             "probability": 0.036144578313253
         },
         {
             "player": {
-                "id": 4000,
-                "name": "데니스 베르캄프",
-                "season": "GRU",
-                "season_no": 829,
-                "ovr": 132,
-                "position": "CF",
-                "nation": 34,
+                "id": 192985,
+                "name": "케빈 더브라위너",
+                "season": "BLD",
+                "season_no": 828,
+                "ovr": 130,
+                "position": "CAM",
+                "nation": 7,
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 265000000000000,
+            "value": 262000000000000,
             "probability": 0.036144578313253
         },
         {
@@ -521,6 +506,36 @@
         },
         {
             "player": {
+                "id": 31432,
+                "name": "디디에 드로그바",
+                "season": "BDO",
+                "season_no": 827,
+                "ovr": 130,
+                "position": "ST",
+                "nation": 108,
+                "upgrade": 9,
+                "pay": 28
+            },
+            "value": 259000000000000,
+            "probability": 0.036144578313253
+        },
+        {
+            "player": {
+                "id": 165153,
+                "name": "카림 벤제마",
+                "season": "GRU",
+                "season_no": 829,
+                "ovr": 132,
+                "position": "ST",
+                "nation": 18,
+                "upgrade": 9,
+                "pay": 29
+            },
+            "value": 250000000000000,
+            "probability": 0.036144578313253
+        },
+        {
+            "player": {
                 "id": 5471,
                 "name": "프랭크 램파드",
                 "season": "BDO",
@@ -531,22 +546,7 @@
                 "upgrade": 9,
                 "pay": 29
             },
-            "value": 260000000000000,
-            "probability": 0.036144578313253
-        },
-        {
-            "player": {
-                "id": 231747,
-                "name": "킬리안 음바페",
-                "season": "BLD",
-                "season_no": 828,
-                "ovr": 130,
-                "position": "ST",
-                "nation": 18,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 257000000000000,
+            "value": 245000000000000,
             "probability": 0.036144578313253
         },
         {
@@ -561,7 +561,52 @@
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 249000000000000,
+            "value": 240000000000000,
+            "probability": 0.0337349397590361
+        },
+        {
+            "player": {
+                "id": 242516,
+                "name": "코디 각포",
+                "season": "GRU",
+                "season_no": 829,
+                "ovr": 130,
+                "position": "LW",
+                "nation": 34,
+                "upgrade": 9,
+                "pay": 26
+            },
+            "value": 240000000000000,
+            "probability": 0.0337349397590361
+        },
+        {
+            "player": {
+                "id": 231747,
+                "name": "킬리안 음바페",
+                "season": "BLD",
+                "season_no": 828,
+                "ovr": 130,
+                "position": "ST",
+                "nation": 18,
+                "upgrade": 9,
+                "pay": 28
+            },
+            "value": 234000000000000,
+            "probability": 0.0337349397590361
+        },
+        {
+            "player": {
+                "id": 4000,
+                "name": "데니스 베르캄프",
+                "season": "GRU",
+                "season_no": 829,
+                "ovr": 132,
+                "position": "CF",
+                "nation": 34,
+                "upgrade": 9,
+                "pay": 28
+            },
+            "value": 232000000000000,
             "probability": 0.0337349397590361
         },
         {
@@ -581,36 +626,6 @@
         },
         {
             "player": {
-                "id": 31432,
-                "name": "디디에 드로그바",
-                "season": "BDO",
-                "season_no": 827,
-                "ovr": 130,
-                "position": "ST",
-                "nation": 108,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 230000000000000,
-            "probability": 0.0337349397590361
-        },
-        {
-            "player": {
-                "id": 165153,
-                "name": "카림 벤제마",
-                "season": "GRU",
-                "season_no": 829,
-                "ovr": 132,
-                "position": "ST",
-                "nation": 18,
-                "upgrade": 9,
-                "pay": 29
-            },
-            "value": 230000000000000,
-            "probability": 0.0337349397590361
-        },
-        {
-            "player": {
                 "id": 190048,
                 "name": "게르트 뮐러",
                 "season": "BDO",
@@ -621,52 +636,7 @@
                 "upgrade": 9,
                 "pay": 30
             },
-            "value": 229000000000000,
-            "probability": 0.0337349397590361
-        },
-        {
-            "player": {
-                "id": 4000,
-                "name": "데니스 베르캄프",
-                "season": "BDO",
-                "season_no": 827,
-                "ovr": 131,
-                "position": "CF",
-                "nation": 34,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 218000000000000,
-            "probability": 0.0337349397590361
-        },
-        {
-            "player": {
-                "id": 140601,
-                "name": "네마냐 비디치",
-                "season": "GRU",
-                "season_no": 829,
-                "ovr": 131,
-                "position": "CB",
-                "nation": 51,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 207000000000000,
-            "probability": 0.0337349397590361
-        },
-        {
-            "player": {
-                "id": 234378,
-                "name": "데클런 라이스",
-                "season": "GRU",
-                "season_no": 829,
-                "ovr": 131,
-                "position": "CM",
-                "nation": 14,
-                "upgrade": 9,
-                "pay": 27
-            },
-            "value": 204000000000000,
+            "value": 222000000000000,
             "probability": 0.0337349397590361
         },
         {
@@ -681,22 +651,52 @@
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 200000000000000,
+            "value": 220000000000000,
             "probability": 0.0337349397590361
         },
         {
             "player": {
-                "id": 242516,
-                "name": "코디 각포",
-                "season": "GRU",
-                "season_no": 829,
-                "ovr": 130,
-                "position": "LW",
+                "id": 4000,
+                "name": "데니스 베르캄프",
+                "season": "BDO",
+                "season_no": 827,
+                "ovr": 131,
+                "position": "CF",
                 "nation": 34,
                 "upgrade": 9,
-                "pay": 26
+                "pay": 28
             },
-            "value": 198000000000000,
+            "value": 212000000000000,
+            "probability": 0.0337349397590361
+        },
+        {
+            "player": {
+                "id": 107715,
+                "name": "루시우",
+                "season": "GRU",
+                "season_no": 829,
+                "ovr": 131,
+                "position": "CB",
+                "nation": 54,
+                "upgrade": 9,
+                "pay": 28
+            },
+            "value": 209000000000000,
+            "probability": 0.0337349397590361
+        },
+        {
+            "player": {
+                "id": 167134,
+                "name": "J. 파팽",
+                "season": "BDO",
+                "season_no": 827,
+                "ovr": 132,
+                "position": "ST",
+                "nation": 18,
+                "upgrade": 9,
+                "pay": 29
+            },
+            "value": 206000000000000,
             "probability": 0.0337349397590361
         }
     ]
