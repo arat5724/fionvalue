@@ -1,0 +1,79 @@
+{
+    "type": "box",
+    "id": "18966",
+    "name": "[IM 패스] 25IM-FB 찬스! 미션 달성 보너스 상자",
+    "image": null,
+    "expectedBp": 8038750000.0,
+    "expectedValue": {
+        "bp_player": 8038750000.0,
+        "TC 카드 2,000": 0.49,
+        "SC 카드 2,000": 0.5
+    },
+    "expectedBp1": 8038750000.0,
+    "expectedValue1": {
+        "bp_player": 8038750000.0,
+        "TC 카드 2,000": 0.49,
+        "SC 카드 2,000": 0.5
+    },
+    "percentile": {
+        "0": 3170000000000,
+        "1": 204000000000,
+        "2": 0,
+        "5": 0,
+        "10": 0,
+        "20": 0,
+        "30": 0,
+        "40": 0,
+        "50": 0,
+        "60": 0,
+        "70": 0,
+        "80": 0,
+        "90": 0,
+        "100": 0
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "18967",
+                "name": "[IM 패스] 25IM-FB 멀티 강화 스페셜팩 (5~7강)",
+                "image": null,
+                "expectedBp": 803875000000.0,
+                "expectedValue": {
+                    "bp_player": 803875000000.0
+                }
+            },
+            "amount": 1,
+            "probability": 0.01
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "TC 카드 2,000",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "TC 카드 2,000": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.49
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "SC 카드 2,000",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "SC 카드 2,000": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.5
+        }
+    ],
+    "additionalInfoWithAmount": null
+}
