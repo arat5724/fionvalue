@@ -1,0 +1,105 @@
+{
+    "type": "box",
+    "id": "19143",
+    "name": "[1조 BP 포함] 훈련 완료 상자",
+    "image": null,
+    "expectedBp": 274517354267.43045,
+    "expectedValue": {
+        "bp_card": 82000000000.0,
+        "bp_player": 192517354267.43045
+    },
+    "expectedBp1": 274517354267.43045,
+    "expectedValue1": {
+        "bp_card": 82000000000.0,
+        "bp_player": 192517354267.43045
+    },
+    "percentile": {
+        "0": 315000000000000,
+        "1": 1030000000000,
+        "2": 998000000000,
+        "5": 552000000000,
+        "10": 509000000000,
+        "20": 431000000000,
+        "30": 358000000000,
+        "40": 200000000000,
+        "50": 200000000000,
+        "60": 200000000000,
+        "70": 142000000000,
+        "80": 100000000000,
+        "90": 100000000000,
+        "100": 100000000000
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "bp",
+                "id": -1,
+                "name": "[챔피언] BP 카드 1,000,000,000,000",
+                "image": null,
+                "expectedBp": 1000000000000,
+                "expectedValue": {
+                    "bp_card": 1000000000000
+                }
+            },
+            "amount": 1,
+            "probability": 0.002
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "19112",
+                "name": "[25HEROES 5강 포함] 최종 OVR 120~125 스페셜팩 (5~8강)",
+                "image": null,
+                "expectedBp": 528248230853.81195,
+                "expectedValue": {
+                    "bp_player": 528248230853.81195
+                }
+            },
+            "amount": 1,
+            "probability": 0.198
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "19113",
+                "name": "[25HEROES 5강 포함] 최종 OVR 119~124 스페셜팩 (5~8강)",
+                "image": null,
+                "expectedBp": 351696818233.50275,
+                "expectedValue": {
+                    "bp_player": 351696818233.50275
+                }
+            },
+            "amount": 1,
+            "probability": 0.25
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": -1,
+                "name": "[챔피언] BP 카드 200,000,000,000",
+                "image": null,
+                "expectedBp": 200000000000,
+                "expectedValue": {
+                    "bp_card": 200000000000
+                }
+            },
+            "amount": 1,
+            "probability": 0.25
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": -1,
+                "name": "[챔피언] BP 카드 100,000,000,000",
+                "image": null,
+                "expectedBp": 100000000000,
+                "expectedValue": {
+                    "bp_card": 100000000000
+                }
+            },
+            "amount": 1,
+            "probability": 0.3
+        }
+    ],
+    "additionalInfoWithAmount": null
+}

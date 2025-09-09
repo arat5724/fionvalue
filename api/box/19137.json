@@ -1,0 +1,63 @@
+{
+    "type": "box",
+    "id": "19137",
+    "name": "[HG 10강 포함] 훈련 성공+ 상자",
+    "image": null,
+    "expectedBp": 1185729485593.7136,
+    "expectedValue": {
+        "bp_player": 1185729485593.7136,
+        "[챔피언] [성공+] CC 포함 Top Price 300 스페셜팩 (9강, 100+)": 0.875
+    },
+    "expectedBp1": 1185729485593.7136,
+    "expectedValue1": {
+        "bp_player": 1185729485593.7136,
+        "[챔피언] [성공+] CC 포함 Top Price 300 스페셜팩 (9강, 100+)": 0.875
+    },
+    "percentile": {
+        "0": 434000000000000,
+        "1": 15500000000000,
+        "2": 13000000000000,
+        "5": 9370000000000,
+        "10": 6290000000000,
+        "20": 0,
+        "30": 0,
+        "40": 0,
+        "50": 0,
+        "60": 0,
+        "70": 0,
+        "80": 0,
+        "90": 0,
+        "100": 0
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "19114",
+                "name": "[챔피언] [대성공] HG 포함 Top Price 350 스페셜팩 (10강, 105+)",
+                "image": null,
+                "expectedBp": 9485835884749.709,
+                "expectedValue": {
+                    "bp_player": 9485835884749.709
+                }
+            },
+            "amount": 1,
+            "probability": 0.125
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[챔피언] [성공+] CC 포함 Top Price 300 스페셜팩 (9강, 100+)",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[챔피언] [성공+] CC 포함 Top Price 300 스페셜팩 (9강, 100+)": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.875
+        }
+    ],
+    "additionalInfoWithAmount": null
+}

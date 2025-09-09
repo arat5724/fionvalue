@@ -1,0 +1,105 @@
+{
+    "type": "box",
+    "id": "19141",
+    "name": "[3조 BP 포함] 훈련 달성 상자",
+    "image": null,
+    "expectedBp": 712158005603.6555,
+    "expectedValue": {
+        "bp_card": 104000000000.0,
+        "bp_player": 608158005603.6555
+    },
+    "expectedBp1": 712158005603.6555,
+    "expectedValue1": {
+        "bp_card": 104000000000.0,
+        "bp_player": 608158005603.6555
+    },
+    "percentile": {
+        "0": 871000000000000,
+        "1": 1960000000000,
+        "2": 1930000000000,
+        "5": 1170000000000,
+        "10": 1020000000000,
+        "20": 1000000000000,
+        "30": 960000000000,
+        "40": 799000000000,
+        "50": 538000000000,
+        "60": 518000000000,
+        "70": 480000000000,
+        "80": 446000000000,
+        "90": 396000000000,
+        "100": 142000000000
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "bp",
+                "id": -1,
+                "name": "[챔피언] BP 카드 3,000,000,000,000",
+                "image": null,
+                "expectedBp": 3000000000000,
+                "expectedValue": {
+                    "bp_card": 3000000000000
+                }
+            },
+            "amount": 1,
+            "probability": 0.002
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": -1,
+                "name": "[챔피언] BP 카드 1,000,000,000,000",
+                "image": null,
+                "expectedBp": 1000000000000,
+                "expectedValue": {
+                    "bp_card": 1000000000000
+                }
+            },
+            "amount": 1,
+            "probability": 0.098
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "19109",
+                "name": "[25HEROES 5강 포함] 최종 OVR 121~126 스페셜팩 (5~8강)",
+                "image": null,
+                "expectedBp": 766981101259.0017,
+                "expectedValue": {
+                    "bp_player": 766981101259.0017
+                }
+            },
+            "amount": 1,
+            "probability": 0.4
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "19110",
+                "name": "[GRU 5~7강 포함] 최종 OVR 120+ 스페셜팩 (5~8강)",
+                "image": null,
+                "expectedBp": 670357355494.1063,
+                "expectedValue": {
+                    "bp_player": 670357355494.1063
+                }
+            },
+            "amount": 1,
+            "probability": 0.25
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "19111",
+                "name": "[GRU 5~7강 포함] 최종 OVR 119+ 스페셜팩 (5~8강)",
+                "image": null,
+                "expectedBp": 535104904906.1127,
+                "expectedValue": {
+                    "bp_player": 535104904906.1127
+                }
+            },
+            "amount": 1,
+            "probability": 0.25
+        }
+    ],
+    "additionalInfoWithAmount": null
+}
