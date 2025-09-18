@@ -3,25 +3,25 @@
     "id": "18968",
     "name": "[IM 패스] 25IM-S&P 멀티 OVR 스페셜팩 (5~7강)",
     "image": null,
-    "expectedBp": 639466666666.6661,
+    "expectedBp": 796166666666.6659,
     "expectedValue": {
-        "bp_player": 639466666666.6661
+        "bp_player": 796166666666.6659
     },
     "percentile": {
-        "0": 1860000000000,
-        "1": 1860000000000,
-        "2": 1860000000000,
-        "5": 1570000000000,
-        "10": 1080000000000,
-        "20": 1070000000000,
-        "30": 702000000000,
-        "40": 493000000000,
-        "50": 490000000000,
-        "60": 482000000000,
-        "70": 305000000000,
-        "80": 255000000000,
-        "90": 199000000000,
-        "100": 116000000000
+        "0": 2020000000000,
+        "1": 2020000000000,
+        "2": 2020000000000,
+        "5": 1440000000000,
+        "10": 1400000000000,
+        "20": 1350000000000,
+        "30": 1040000000000,
+        "40": 662000000000,
+        "50": 628000000000,
+        "60": 612000000000,
+        "70": 439000000000,
+        "80": 275000000000,
+        "90": 259000000000,
+        "100": 114000000000
     },
     "playerList": [
         {
@@ -30,13 +30,13 @@
                 "name": "마이콘",
                 "season": "25IM-S&P",
                 "season_no": 113,
-                "ovr": 122,
+                "ovr": 123,
                 "position": "RB",
                 "nation": 54,
                 "upgrade": 6,
                 "pay": 28
             },
-            "value": 1570000000000,
+            "value": 1430000000000,
             "probability": 0.0333333333333333
         },
         {
@@ -45,13 +45,13 @@
                 "name": "마이콘",
                 "season": "25IM-S&P",
                 "season_no": 113,
-                "ovr": 120,
+                "ovr": 121,
                 "position": "RB",
                 "nation": 54,
                 "upgrade": 5,
                 "pay": 28
             },
-            "value": 305000000000,
+            "value": 439000000000,
             "probability": 0.0333333333333333
         },
         {
@@ -66,7 +66,7 @@
                 "upgrade": 6,
                 "pay": 29
             },
-            "value": 1070000000000,
+            "value": 1360000000000,
             "probability": 0.0333333333333333
         },
         {
@@ -75,13 +75,13 @@
                 "name": "애슐리 콜",
                 "season": "25IM-S&P",
                 "season_no": 113,
-                "ovr": 123,
+                "ovr": 124,
                 "position": "LB",
                 "nation": 14,
                 "upgrade": 6,
                 "pay": 28
             },
-            "value": 1070000000000,
+            "value": 1440000000000,
             "probability": 0.0333333333333333
         },
         {
@@ -90,58 +90,193 @@
                 "name": "클로드 마켈렐레",
                 "season": "25IM-S&P",
                 "season_no": 113,
-                "ovr": 123,
+                "ovr": 124,
                 "position": "CDM",
                 "nation": 18,
                 "upgrade": 6,
                 "pay": 28
             },
-            "value": 1080000000000,
+            "value": 1340000000000,
             "probability": 0.0333333333333333
         },
         {
             "player": {
                 "id": 388,
                 "name": "솔 캠벨",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 123,
+                "position": "CB",
+                "nation": 14,
+                "upgrade": 6,
+                "pay": 28
+            },
+            "value": 932000000000,
+            "probability": 0.0333333333333333
+        },
+        {
+            "player": {
+                "id": 39943,
+                "name": "박지성",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 123,
+                "position": "CM",
+                "nation": 167,
+                "upgrade": 6,
+                "pay": 28
+            },
+            "value": 1350000000000,
+            "probability": 0.0333333333333333
+        },
+        {
+            "player": {
+                "id": 140601,
+                "name": "네마냐 비디치",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 124,
+                "position": "CB",
+                "nation": 51,
+                "upgrade": 6,
+                "pay": 28
+            },
+            "value": 2020000000000,
+            "probability": 0.0333333333333333
+        },
+        {
+            "player": {
+                "id": 121944,
+                "name": "B. 슈바인슈타이거",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 124,
+                "position": "CM",
+                "nation": 21,
+                "upgrade": 6,
+                "pay": 28
+            },
+            "value": 1360000000000,
+            "probability": 0.0333333333333333
+        },
+        {
+            "player": {
+                "id": 274967,
+                "name": "욘 아르네 리세",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 124,
+                "position": "LB",
+                "nation": 36,
+                "upgrade": 7,
+                "pay": 26
+            },
+            "value": 1040000000000,
+            "probability": 0.0333333333333333
+        },
+        {
+            "player": {
+                "id": 183277,
+                "name": "에덴 아자르",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 123,
+                "position": "LW",
+                "nation": 7,
+                "upgrade": 6,
+                "pay": 29
+            },
+            "value": 1300000000000,
+            "probability": 0.0333333333333333
+        },
+        {
+            "player": {
+                "id": 173731,
+                "name": "가레스 베일",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 121,
+                "position": "LW",
+                "nation": 50,
+                "upgrade": 5,
+                "pay": 29
+            },
+            "value": 618000000000,
+            "probability": 0.0333333333333333
+        },
+        {
+            "player": {
+                "id": 34079,
+                "name": "애슐리 콜",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 122,
+                "position": "LB",
+                "nation": 14,
+                "upgrade": 5,
+                "pay": 28
+            },
+            "value": 653000000000,
+            "probability": 0.0333333333333333
+        },
+        {
+            "player": {
+                "id": 1668,
+                "name": "클로드 마켈렐레",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 122,
+                "position": "CDM",
+                "nation": 18,
+                "upgrade": 5,
+                "pay": 28
+            },
+            "value": 610000000000,
+            "probability": 0.0333333333333333
+        },
+        {
+            "player": {
+                "id": 388,
+                "name": "솔 캠벨",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 121,
+                "position": "CB",
+                "nation": 14,
+                "upgrade": 5,
+                "pay": 28
+            },
+            "value": 422000000000,
+            "probability": 0.0333333333333333
+        },
+        {
+            "player": {
+                "id": 39943,
+                "name": "박지성",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 121,
+                "position": "CM",
+                "nation": 167,
+                "upgrade": 5,
+                "pay": 28
+            },
+            "value": 612000000000,
+            "probability": 0.0333333333333333
+        },
+        {
+            "player": {
+                "id": 140601,
+                "name": "네마냐 비디치",
                 "season": "25IM-S&P",
                 "season_no": 113,
                 "ovr": 122,
                 "position": "CB",
-                "nation": 14,
-                "upgrade": 6,
-                "pay": 28
-            },
-            "value": 702000000000,
-            "probability": 0.0333333333333333
-        },
-        {
-            "player": {
-                "id": 39943,
-                "name": "박지성",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 123,
-                "position": "CM",
-                "nation": 167,
-                "upgrade": 6,
-                "pay": 28
-            },
-            "value": 1110000000000,
-            "probability": 0.0333333333333333
-        },
-        {
-            "player": {
-                "id": 140601,
-                "name": "네마냐 비디치",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 123,
-                "position": "CB",
                 "nation": 51,
-                "upgrade": 6,
+                "upgrade": 5,
                 "pay": 28
             },
-            "value": 1860000000000,
+            "value": 662000000000,
             "probability": 0.0333333333333333
         },
         {
@@ -150,148 +285,13 @@
                 "name": "B. 슈바인슈타이거",
                 "season": "25IM-S&P",
                 "season_no": 113,
-                "ovr": 123,
-                "position": "CM",
-                "nation": 21,
-                "upgrade": 6,
-                "pay": 28
-            },
-            "value": 1060000000000,
-            "probability": 0.0333333333333333
-        },
-        {
-            "player": {
-                "id": 274967,
-                "name": "욘 아르네 리세",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 123,
-                "position": "LB",
-                "nation": 36,
-                "upgrade": 7,
-                "pay": 26
-            },
-            "value": 694000000000,
-            "probability": 0.0333333333333333
-        },
-        {
-            "player": {
-                "id": 183277,
-                "name": "에덴 아자르",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 123,
-                "position": "LW",
-                "nation": 7,
-                "upgrade": 6,
-                "pay": 29
-            },
-            "value": 1050000000000,
-            "probability": 0.0333333333333333
-        },
-        {
-            "player": {
-                "id": 173731,
-                "name": "가레스 베일",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 121,
-                "position": "LW",
-                "nation": 50,
-                "upgrade": 5,
-                "pay": 29
-            },
-            "value": 487000000000,
-            "probability": 0.0333333333333333
-        },
-        {
-            "player": {
-                "id": 34079,
-                "name": "애슐리 콜",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 121,
-                "position": "LB",
-                "nation": 14,
-                "upgrade": 5,
-                "pay": 28
-            },
-            "value": 486000000000,
-            "probability": 0.0333333333333333
-        },
-        {
-            "player": {
-                "id": 1668,
-                "name": "클로드 마켈렐레",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 121,
-                "position": "CDM",
-                "nation": 18,
-                "upgrade": 5,
-                "pay": 28
-            },
-            "value": 491000000000,
-            "probability": 0.0333333333333333
-        },
-        {
-            "player": {
-                "id": 388,
-                "name": "솔 캠벨",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 120,
-                "position": "CB",
-                "nation": 14,
-                "upgrade": 5,
-                "pay": 28
-            },
-            "value": 287000000000,
-            "probability": 0.0333333333333333
-        },
-        {
-            "player": {
-                "id": 39943,
-                "name": "박지성",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 121,
-                "position": "CM",
-                "nation": 167,
-                "upgrade": 5,
-                "pay": 28
-            },
-            "value": 493000000000,
-            "probability": 0.0333333333333333
-        },
-        {
-            "player": {
-                "id": 140601,
-                "name": "네마냐 비디치",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 121,
-                "position": "CB",
-                "nation": 51,
-                "upgrade": 5,
-                "pay": 28
-            },
-            "value": 493000000000,
-            "probability": 0.0333333333333333
-        },
-        {
-            "player": {
-                "id": 121944,
-                "name": "B. 슈바인슈타이거",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 121,
+                "ovr": 122,
                 "position": "CM",
                 "nation": 21,
                 "upgrade": 5,
                 "pay": 28
             },
-            "value": 482000000000,
+            "value": 618000000000,
             "probability": 0.0333333333333333
         },
         {
@@ -300,13 +300,13 @@
                 "name": "마이클 캐릭",
                 "season": "25IM-S&P",
                 "season_no": 113,
-                "ovr": 121,
+                "ovr": 122,
                 "position": "CDM",
                 "nation": 14,
                 "upgrade": 6,
                 "pay": 27
             },
-            "value": 490000000000,
+            "value": 666000000000,
             "probability": 0.0333333333333333
         },
         {
@@ -315,13 +315,13 @@
                 "name": "지우베르투",
                 "season": "25IM-S&P",
                 "season_no": 113,
-                "ovr": 121,
+                "ovr": 122,
                 "position": "CDM",
                 "nation": 54,
                 "upgrade": 6,
                 "pay": 27
             },
-            "value": 481000000000,
+            "value": 630000000000,
             "probability": 0.0333333333333333
         },
         {
@@ -330,13 +330,13 @@
                 "name": "C. 마르키시오",
                 "season": "25IM-S&P",
                 "season_no": 113,
-                "ovr": 121,
+                "ovr": 122,
                 "position": "CM",
                 "nation": 27,
                 "upgrade": 6,
                 "pay": 26
             },
-            "value": 492000000000,
+            "value": 628000000000,
             "probability": 0.0333333333333333
         },
         {
@@ -345,13 +345,13 @@
                 "name": "이영표",
                 "season": "25IM-S&P",
                 "season_no": 113,
-                "ovr": 121,
+                "ovr": 122,
                 "position": "LB",
                 "nation": 167,
                 "upgrade": 7,
                 "pay": 25
             },
-            "value": 1070000000000,
+            "value": 1400000000000,
             "probability": 0.0333333333333333
         },
         {
@@ -366,7 +366,7 @@
                 "upgrade": 5,
                 "pay": 29
             },
-            "value": 475000000000,
+            "value": 589000000000,
             "probability": 0.0333333333333333
         },
         {
@@ -375,13 +375,13 @@
                 "name": "욘 아르네 리세",
                 "season": "25IM-S&P",
                 "season_no": 113,
-                "ovr": 120,
+                "ovr": 121,
                 "position": "LB",
                 "nation": 36,
                 "upgrade": 6,
                 "pay": 26
             },
-            "value": 289000000000,
+            "value": 431000000000,
             "probability": 0.0333333333333333
         },
         {
@@ -390,13 +390,13 @@
                 "name": "마이클 캐릭",
                 "season": "25IM-S&P",
                 "season_no": 113,
-                "ovr": 119,
+                "ovr": 120,
                 "position": "CDM",
                 "nation": 14,
                 "upgrade": 5,
                 "pay": 27
             },
-            "value": 199000000000,
+            "value": 259000000000,
             "probability": 0.0333333333333333
         },
         {
@@ -405,13 +405,13 @@
                 "name": "지우베르투",
                 "season": "25IM-S&P",
                 "season_no": 113,
-                "ovr": 119,
+                "ovr": 120,
                 "position": "CDM",
                 "nation": 54,
                 "upgrade": 5,
                 "pay": 27
             },
-            "value": 202000000000,
+            "value": 264000000000,
             "probability": 0.0333333333333333
         },
         {
@@ -420,13 +420,13 @@
                 "name": "C. 마르키시오",
                 "season": "25IM-S&P",
                 "season_no": 113,
-                "ovr": 119,
+                "ovr": 120,
                 "position": "CM",
                 "nation": 27,
                 "upgrade": 5,
                 "pay": 26
             },
-            "value": 202000000000,
+            "value": 275000000000,
             "probability": 0.0333333333333333
         },
         {
@@ -435,13 +435,13 @@
                 "name": "이영표",
                 "season": "25IM-S&P",
                 "season_no": 113,
-                "ovr": 118,
+                "ovr": 119,
                 "position": "LB",
                 "nation": 167,
                 "upgrade": 6,
                 "pay": 25
             },
-            "value": 255000000000,
+            "value": 261000000000,
             "probability": 0.0333333333333333
         },
         {
@@ -450,13 +450,13 @@
                 "name": "욘 아르네 리세",
                 "season": "25IM-S&P",
                 "season_no": 113,
-                "ovr": 118,
+                "ovr": 119,
                 "position": "LB",
                 "nation": 36,
                 "upgrade": 5,
                 "pay": 26
             },
-            "value": 123000000000,
+            "value": 162000000000,
             "probability": 0.0333333333333333
         },
         {
@@ -465,13 +465,13 @@
                 "name": "이영표",
                 "season": "25IM-S&P",
                 "season_no": 113,
-                "ovr": 116,
+                "ovr": 117,
                 "position": "LB",
                 "nation": 167,
                 "upgrade": 5,
                 "pay": 25
             },
-            "value": 116000000000,
+            "value": 114000000000,
             "probability": 0.0333333333333333
         }
     ]
