@@ -3,9 +3,9 @@
     "id": "18824",
     "name": "[레전더리][2000조+] CH, DCB 포함 Top Price 20 (8~9강, 115+)",
     "image": null,
-    "expectedBp": 5137164179104479.0,
+    "expectedBp": 5091641791044777.0,
     "expectedValue": {
-        "bp_player": 5137164179104479.0
+        "bp_player": 5091641791044777.0
     },
     "percentile": {
         "0": 18100000000000000,
@@ -19,8 +19,8 @@
         "50": 3960000000000000,
         "60": 3960000000000000,
         "70": 3700000000000000,
-        "80": 3100000000000000,
-        "90": 3000000000000000,
+        "80": 2950000000000000,
+        "90": 2790000000000000,
         "100": 2750000000000000
     },
     "playerList": [
@@ -103,21 +103,6 @@
             "player": {
                 "id": 20801,
                 "name": "크리스티아누 호날두",
-                "season": "BLD",
-                "season_no": 828,
-                "ovr": 135,
-                "position": "LW",
-                "nation": 38,
-                "upgrade": 9,
-                "pay": 31
-            },
-            "value": 7000000000000000,
-            "probability": 0.0447761194029851
-        },
-        {
-            "player": {
-                "id": 20801,
-                "name": "크리스티아누 호날두",
                 "season": "CH",
                 "season_no": 845,
                 "ovr": 135,
@@ -141,7 +126,22 @@
                 "upgrade": 9,
                 "pay": 32
             },
-            "value": 6320000000000000,
+            "value": 6950000000000000,
+            "probability": 0.0447761194029851
+        },
+        {
+            "player": {
+                "id": 20801,
+                "name": "크리스티아누 호날두",
+                "season": "BLD",
+                "season_no": 828,
+                "ovr": 135,
+                "position": "LW",
+                "nation": 38,
+                "upgrade": 9,
+                "pay": 31
+            },
+            "value": 6020000000000000,
             "probability": 0.0447761194029851
         },
         {
@@ -201,7 +201,7 @@
                 "upgrade": 8,
                 "pay": 31
             },
-            "value": 4060000000000000,
+            "value": 4010000000000000,
             "probability": 0.059701492537313404
         },
         {
@@ -281,21 +281,6 @@
         },
         {
             "player": {
-                "id": 13128,
-                "name": "안드리 셰우첸코",
-                "season": "NO7",
-                "season_no": 839,
-                "ovr": 136,
-                "position": "ST",
-                "nation": 49,
-                "upgrade": 9,
-                "pay": 31
-            },
-            "value": 3100000000000000,
-            "probability": 0.0746268656716418
-        },
-        {
-            "player": {
                 "id": 1397,
                 "name": "지네딘 지단",
                 "season": "CH",
@@ -306,19 +291,34 @@
                 "upgrade": 9,
                 "pay": 33
             },
-            "value": 3000000000000000,
+            "value": 2950000000000000,
             "probability": 0.0746268656716418
         },
         {
             "player": {
-                "id": 165153,
-                "name": "카림 벤제마",
-                "season": "DCB",
-                "season_no": 846,
+                "id": 13128,
+                "name": "안드리 셰우첸코",
+                "season": "NO7",
+                "season_no": 839,
                 "ovr": 136,
                 "position": "ST",
-                "nation": 18,
+                "nation": 49,
                 "upgrade": 9,
+                "pay": 31
+            },
+            "value": 2790000000000000,
+            "probability": 0.0746268656716418
+        },
+        {
+            "player": {
+                "id": 20801,
+                "name": "크리스티아누 호날두",
+                "season": "CU",
+                "season_no": 825,
+                "ovr": 132,
+                "position": "LW",
+                "nation": 38,
+                "upgrade": 8,
                 "pay": 31
             },
             "value": 2750000000000000,
