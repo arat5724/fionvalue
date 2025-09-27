@@ -1,0 +1,64 @@
+{
+    "type": "box",
+    "id": "19569",
+    "name": "[AG][25.09] ICON TM 의뢰 상자",
+    "image": null,
+    "expectedBp": 351077324725.0238,
+    "expectedValue": {
+        "bp_player": 71678259191.04332,
+        "bp_card": 279399065533.98047
+    },
+    "expectedBp1": 351077324725.0238,
+    "expectedValue1": {
+        "bp_player": 71678259191.04332,
+        "bp_card": 279399065533.98047
+    },
+    "percentile": {
+        "0": 445000000000000,
+        "1": 714500000000,
+        "2": 668900000000,
+        "5": 583000000000,
+        "10": 502100000000,
+        "20": 412200000000,
+        "30": 368200000000,
+        "40": 335700000000,
+        "50": 312700000000,
+        "60": 295400000000,
+        "70": 276600000000,
+        "80": 253100000000,
+        "90": 228000000000,
+        "100": 189400000000
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "19419",
+                "name": "[AG][25.09] ICON The Moment 선수팩 (1강)",
+                "image": null,
+                "expectedBp": 12793825285234.105,
+                "expectedValue": {
+                    "bp_player": 12793825285234.105
+                }
+            },
+            "amount": 1,
+            "probability": 0.0005
+        },
+        {
+            "item": {
+                "type": "box",
+                "id": "19568",
+                "name": "[AG][25.09] ICON 5강 + BP 상자",
+                "image": null,
+                "expectedBp": 344852838501.65753,
+                "expectedValue": {
+                    "bp_player": 65314003550.20137,
+                    "bp_card": 279538834951.4562
+                }
+            },
+            "amount": 1,
+            "probability": 0.9995
+        }
+    ],
+    "additionalInfoWithAmount": null
+}

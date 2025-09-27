@@ -1,0 +1,79 @@
+{
+    "type": "box",
+    "id": "19559",
+    "name": "[AG][특수 클래스 한정][25.09] 스페셜 에이전트 의뢰 1 리워드 상자",
+    "image": null,
+    "expectedBp": 544593828715.3649,
+    "expectedValue": {
+        "[AG][CU 포함] 멀티 클래스 Top Price 500 스페셜팩 (8강)": 0.0001,
+        "[AG][NO.7 포함] 멀티 클래스 최종 OVR 122+ 선수팩 (3~7강)": 0.6498999999999999,
+        "bp_card": 544593828715.3649
+    },
+    "expectedBp1": 544593828715.3649,
+    "expectedValue1": {
+        "[AG][CU 포함] 멀티 클래스 Top Price 500 스페셜팩 (8강)": 0.0001,
+        "[AG][NO.7 포함] 멀티 클래스 최종 OVR 122+ 선수팩 (3~7강)": 0.6498999999999999,
+        "bp_card": 544593828715.3649
+    },
+    "percentile": {
+        "0": 10000000000000,
+        "1": 2700000000000,
+        "2": 2500000000000,
+        "5": 2000000000000,
+        "10": 1700000000000,
+        "20": 1400000000000,
+        "30": 1100000000000,
+        "40": 0,
+        "50": 0,
+        "60": 0,
+        "70": 0,
+        "80": 0,
+        "90": 0,
+        "100": 0
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[AG][CU 포함] 멀티 클래스 Top Price 500 스페셜팩 (8강)",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[AG][CU 포함] 멀티 클래스 Top Price 500 스페셜팩 (8강)": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.0001
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[AG][NO.7 포함] 멀티 클래스 최종 OVR 122+ 선수팩 (3~7강)",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[AG][NO.7 포함] 멀티 클래스 최종 OVR 122+ 선수팩 (3~7강)": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.6498999999999999
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "19425",
+                "name": "[AG] 행운의 BP 카드 (7500억~10조 BP)",
+                "image": null,
+                "expectedBp": 1555982367758.1855,
+                "expectedValue": {
+                    "bp_card": 1555982367758.1855
+                }
+            },
+            "amount": 1,
+            "probability": 0.35
+        }
+    ],
+    "additionalInfoWithAmount": null
+}

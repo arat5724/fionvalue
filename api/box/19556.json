@@ -1,0 +1,79 @@
+{
+    "type": "box",
+    "id": "19556",
+    "name": "[AG][25.10][25TOTS 찬스] 25IM-S&P 플래티넘 의뢰 상자",
+    "image": null,
+    "expectedBp": 333016155779.60425,
+    "expectedValue": {
+        "bp_player": 333016155779.60425,
+        "[AG][25.10][NO.7 포함] 멀티 클래스 Top Price 900 스페셜팩 (8강)": 0.620833333333333,
+        "[AG][25.10][NO.7 포함] 멀티 클래스 Top Price 400 스페셜팩 (1~7강)": 0.375
+    },
+    "expectedBp1": 333016155779.60425,
+    "expectedValue1": {
+        "bp_player": 333016155779.60425,
+        "[AG][25.10][NO.7 포함] 멀티 클래스 Top Price 900 스페셜팩 (8강)": 0.620833333333333,
+        "[AG][25.10][NO.7 포함] 멀티 클래스 Top Price 400 스페셜팩 (1~7강)": 0.375
+    },
+    "percentile": {
+        "0": 3750000000000000,
+        "1": 0,
+        "2": 0,
+        "5": 0,
+        "10": 0,
+        "20": 0,
+        "30": 0,
+        "40": 0,
+        "50": 0,
+        "60": 0,
+        "70": 0,
+        "80": 0,
+        "90": 0,
+        "100": 0
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "19392",
+                "name": "[AG][25.10] 플래티넘 25TOTS 클래스 Top Price ALL 선수팩 (8강)",
+                "image": null,
+                "expectedBp": 79923877387104.95,
+                "expectedValue": {
+                    "bp_player": 79923877387104.95
+                }
+            },
+            "amount": 1,
+            "probability": 0.00416666666666667
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[AG][25.10][NO.7 포함] 멀티 클래스 Top Price 900 스페셜팩 (8강)",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[AG][25.10][NO.7 포함] 멀티 클래스 Top Price 900 스페셜팩 (8강)": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.620833333333333
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[AG][25.10][NO.7 포함] 멀티 클래스 Top Price 400 스페셜팩 (1~7강)",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[AG][25.10][NO.7 포함] 멀티 클래스 Top Price 400 스페셜팩 (1~7강)": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.375
+        }
+    ],
+    "additionalInfoWithAmount": null
+}

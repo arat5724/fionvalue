@@ -1,0 +1,134 @@
+{
+    "type": "general-product",
+    "id": "44485",
+    "name": "[최대 9강, 최소 5강] WS 확정 획득 패키지",
+    "image": "/assets/image/item/14485_s.png",
+    "price": 14900,
+    "efficiency": 56149.23331161472,
+    "expectedBp": 83662357634305.94,
+    "expectedValue": {
+        "bp_player": 59942357634305.93,
+        "bp_card": 23720000000000.0
+    },
+    "efficiency1": 56149.23331161472,
+    "expectedBp1": 83662357634305.94,
+    "expectedValue1": {
+        "bp_player": 59942357634305.93,
+        "bp_card": 23720000000000.0
+    },
+    "percentile": null,
+    "itemList": [
+        {
+            "item": {
+                "type": "box",
+                "id": "19268",
+                "name": "[최대 9강, 최소 5강] WS 100% 상자",
+                "image": "/assets/image/item/201708505_s.png",
+                "expectedBp": 8143368417875.482,
+                "expectedValue": {
+                    "bp_player": 8143368417875.482
+                }
+            },
+            "amount": 1
+        },
+        {
+            "item": {
+                "type": "box",
+                "id": "19269",
+                "name": "[최대 9강, 최소 5강] 'CH or DCB' 100% 상자",
+                "image": "/assets/image/item/201708507_s.png",
+                "expectedBp": 3725363982791.343,
+                "expectedValue": {
+                    "bp_player": 3725363982791.343
+                }
+            },
+            "amount": 1
+        },
+        {
+            "item": {
+                "type": "box",
+                "id": "19270",
+                "name": "[25TOTS 10강 기회] '8~11강' or BP 상자",
+                "image": "/assets/image/item/201708508_s.png",
+                "expectedBp": 54261788158452.195,
+                "expectedValue": {
+                    "bp_player": 40541788158452.195,
+                    "bp_card": 13720000000000.0
+                }
+            },
+            "amount": 1
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "19236",
+                "name": "WS Top Price 390 (5~6강, 113+)",
+                "image": "/assets/image/item/200231617_s.png",
+                "expectedBp": 5366111811023.625,
+                "expectedValue": {
+                    "bp_player": 5366111811023.625
+                }
+            },
+            "amount": 1
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "19235",
+                "name": "WS Top Price 350 (1~4강, 116+)",
+                "image": "/assets/image/item/200231616_s.png",
+                "expectedBp": 1082862632081.6448,
+                "expectedValue": {
+                    "bp_player": 1082862632081.6448
+                }
+            },
+            "amount": 2
+        },
+        {
+            "item": {
+                "type": "key",
+                "id": "[25.09] 교환권 (2개=전체 수수료 50% 할인 쿠폰)(~25.11.06)",
+                "name": "[25.09] 교환권 (2개=전체 수수료 50% 할인 쿠폰)(~25.11.06)",
+                "image": "/assets/image/item/201801506_s.png",
+                "expectedBp": 10000000000000.0,
+                "expectedValue": {
+                    "bp_card": 10000000000000.0
+                }
+            },
+            "amount": 1
+        }
+    ],
+    "additionalInfoWithAmount": [
+        {
+            "name": "[25.09] 교환권 (2개=전체 수수료 50% 할인 쿠폰)(~25.11.06)",
+            "itemList": [
+                {
+                    "amount": 2,
+                    "item": {
+                        "type": "box",
+                        "id": "19275",
+                        "name": "[교환권 2개] 전체 수수료 50% 할인 쿠폰 (~25.11.06) 상자",
+                        "image": null,
+                        "expectedBp": 0,
+                        "expectedValue": {
+                            "전체 수수료 50% 할인 쿠폰 (~25.11.06)": 1.0
+                        }
+                    }
+                },
+                {
+                    "amount": 1,
+                    "item": {
+                        "type": "box",
+                        "id": "19276",
+                        "name": "[교환권 1개] 10조 BP 상자",
+                        "image": null,
+                        "expectedBp": 10000000000000.0,
+                        "expectedValue": {
+                            "bp_card": 10000000000000.0
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

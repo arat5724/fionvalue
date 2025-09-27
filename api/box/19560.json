@@ -1,0 +1,79 @@
+{
+    "type": "box",
+    "id": "19560",
+    "name": "[AG][특수 클래스 한정][25.09] 스페셜 에이전트 의뢰 2 리워드 상자",
+    "image": null,
+    "expectedBp": 137037760416.66672,
+    "expectedValue": {
+        "[AG][CU 포함] 멀티 클래스 Top Price 750 스페셜팩 (8강)": 0.0001,
+        "[AG][NO.7 포함] 멀티 클래스 최종 OVR 116+ 선수팩 (3~7강)": 0.6498999999999999,
+        "bp_card": 137037760416.66672
+    },
+    "expectedBp1": 137037760416.66672,
+    "expectedValue1": {
+        "[AG][CU 포함] 멀티 클래스 Top Price 750 스페셜팩 (8강)": 0.0001,
+        "[AG][NO.7 포함] 멀티 클래스 최종 OVR 116+ 선수팩 (3~7강)": 0.6498999999999999,
+        "bp_card": 137037760416.66672
+    },
+    "percentile": {
+        "0": 5000000000000,
+        "1": 675000000000,
+        "2": 600000000000,
+        "5": 500000000000,
+        "10": 400000000000,
+        "20": 350000000000,
+        "30": 275000000000,
+        "40": 0,
+        "50": 0,
+        "60": 0,
+        "70": 0,
+        "80": 0,
+        "90": 0,
+        "100": 0
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[AG][CU 포함] 멀티 클래스 Top Price 750 스페셜팩 (8강)",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[AG][CU 포함] 멀티 클래스 Top Price 750 스페셜팩 (8강)": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.0001
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[AG][NO.7 포함] 멀티 클래스 최종 OVR 116+ 선수팩 (3~7강)",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[AG][NO.7 포함] 멀티 클래스 최종 OVR 116+ 선수팩 (3~7강)": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.6498999999999999
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "19426",
+                "name": "[AG] 행운의 BP 카드 (2500억~5조 BP)",
+                "image": null,
+                "expectedBp": 391536458333.3335,
+                "expectedValue": {
+                    "bp_card": 391536458333.3335
+                }
+            },
+            "amount": 1,
+            "probability": 0.35
+        }
+    ],
+    "additionalInfoWithAmount": null
+}

@@ -1,0 +1,63 @@
+{
+    "type": "box",
+    "id": "19379",
+    "name": "[마일리지] WS or 25FSL or BP 상자",
+    "image": "/assets/image/item/201708526_s.png",
+    "expectedBp": 126691508075.11284,
+    "expectedValue": {
+        "bp_player": 78691508075.11284,
+        "bp_card": 48000000000.0
+    },
+    "expectedBp1": 126691508075.11284,
+    "expectedValue1": {
+        "bp_player": 78691508075.11284,
+        "bp_card": 48000000000.0
+    },
+    "percentile": {
+        "0": 1190000000000000,
+        "1": 760000000000,
+        "2": 485000000000,
+        "5": 368000000000,
+        "10": 244000000000,
+        "20": 150000000000,
+        "30": 143000000000,
+        "40": 100000000000,
+        "50": 96500000000,
+        "60": 75600000000,
+        "70": 50000000000,
+        "80": 50000000000,
+        "90": 50000000000,
+        "100": 50000000000
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "19368",
+                "name": "[마일리지] WS, 25FSL Top Price 190 (1강, 113+)",
+                "image": "/assets/image/item/200237258_s.png",
+                "expectedBp": 196728770187.7821,
+                "expectedValue": {
+                    "bp_player": 196728770187.7821
+                }
+            },
+            "amount": 1,
+            "probability": 0.4
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "19375",
+                "name": "[마일리지] 행운의 BP 카드 (500억~1500억)",
+                "image": null,
+                "expectedBp": 80000000000.0,
+                "expectedValue": {
+                    "bp_card": 80000000000.0
+                }
+            },
+            "amount": 1,
+            "probability": 0.6
+        }
+    ],
+    "additionalInfoWithAmount": null
+}

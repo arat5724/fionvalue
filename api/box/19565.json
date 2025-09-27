@@ -1,0 +1,77 @@
+{
+    "type": "box",
+    "id": "19565",
+    "name": "[AG][5조 BP 찬스][25.09] 위클리 2인 트레이드 의뢰 상자",
+    "image": null,
+    "expectedBp": 20934517634.85478,
+    "expectedValue": {
+        "bp_card": 20934517634.85478,
+        "[AG][24EP 포함] 멀티 클래스 Top Price 8500 선수팩 (1~8강, 100+)": 0.6498999999999999
+    },
+    "expectedBp1": 20934517634.85478,
+    "expectedValue1": {
+        "bp_card": 20934517634.85478,
+        "[AG][24EP 포함] 멀티 클래스 Top Price 8500 선수팩 (1~8강, 100+)": 0.6498999999999999
+    },
+    "percentile": {
+        "0": 5000000000000,
+        "1": 85000000000,
+        "2": 70000000000,
+        "5": 60000000000,
+        "10": 52500000000,
+        "20": 45000000000,
+        "30": 37500000000,
+        "40": 0,
+        "50": 0,
+        "60": 0,
+        "70": 0,
+        "80": 0,
+        "90": 0,
+        "100": 0
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "bp",
+                "id": -1,
+                "name": "[AG] BP 카드 5,000,000,000,000",
+                "image": null,
+                "expectedBp": 5000000000000,
+                "expectedValue": {
+                    "bp_card": 5000000000000
+                }
+            },
+            "amount": 1,
+            "probability": 0.0001
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[AG][24EP 포함] 멀티 클래스 Top Price 8500 선수팩 (1~8강, 100+)",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[AG][24EP 포함] 멀티 클래스 Top Price 8500 선수팩 (1~8강, 100+)": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.6498999999999999
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "19432",
+                "name": "[AG] 행운의 BP 카드 (350억~5조 BP)",
+                "image": null,
+                "expectedBp": 58384336099.58508,
+                "expectedValue": {
+                    "bp_card": 58384336099.58508
+                }
+            },
+            "amount": 1,
+            "probability": 0.35
+        }
+    ],
+    "additionalInfoWithAmount": null
+}
