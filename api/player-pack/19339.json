@@ -3,27 +3,42 @@
     "id": "19339",
     "name": "[패스] 25FSL Top Price All (9강)",
     "image": null,
-    "expectedBp": 51203021701489.01,
+    "expectedBp": 53651210061951.11,
     "expectedValue": {
-        "bp_player": 51203021701489.01
+        "bp_player": 53651210061951.11
     },
     "percentile": {
-        "0": 1390000000000000,
-        "1": 87600000000000,
-        "2": 87600000000000,
+        "0": 1770000000000000,
+        "1": 89200000000000,
+        "2": 89200000000000,
         "5": 84000000000000,
-        "10": 65000000000000,
-        "20": 55500000000000,
-        "30": 54800000000000,
-        "40": 52500000000000,
-        "50": 51800000000000,
+        "10": 69900000000000,
+        "20": 63800000000000,
+        "30": 57900000000000,
+        "40": 55000000000000,
+        "50": 54800000000000,
         "60": 48600000000000,
         "70": 46100000000000,
-        "80": 40700000000000,
-        "90": 37600000000000,
+        "80": 41900000000000,
+        "90": 38100000000000,
         "100": 21200000000000
     },
     "playerList": [
+        {
+            "player": {
+                "id": 37576,
+                "name": "호나우두",
+                "season": "25FSL",
+                "season_no": 850,
+                "ovr": 133,
+                "position": "ST",
+                "nation": 54,
+                "upgrade": 9,
+                "pay": 30
+            },
+            "value": 1770000000000000,
+            "probability": 1.2462608436e-08
+        },
         {
             "player": {
                 "id": 214100,
@@ -41,21 +56,6 @@
         },
         {
             "player": {
-                "id": 37576,
-                "name": "호나우두",
-                "season": "25FSL",
-                "season_no": 850,
-                "ovr": 133,
-                "position": "ST",
-                "nation": 54,
-                "upgrade": 9,
-                "pay": 30
-            },
-            "value": 1220000000000000,
-            "probability": 1.2462608436e-08
-        },
-        {
-            "player": {
                 "id": 191208,
                 "name": "차범근",
                 "season": "25FSL",
@@ -66,7 +66,22 @@
                 "upgrade": 9,
                 "pay": 27
             },
-            "value": 509000000000000,
+            "value": 680000000000000,
+            "probability": 1.3708869279500002e-07
+        },
+        {
+            "player": {
+                "id": 1625,
+                "name": "티에리 앙리",
+                "season": "25FSL",
+                "season_no": 850,
+                "ovr": 132,
+                "position": "ST",
+                "nation": 18,
+                "upgrade": 9,
+                "pay": 29
+            },
+            "value": 113000000000000,
             "probability": 1.3708869279500002e-07
         },
         {
@@ -82,21 +97,6 @@
                 "pay": 30
             },
             "value": 89200000000000,
-            "probability": 1.3708869279500002e-07
-        },
-        {
-            "player": {
-                "id": 1625,
-                "name": "티에리 앙리",
-                "season": "25FSL",
-                "season_no": 850,
-                "ovr": 132,
-                "position": "ST",
-                "nation": 18,
-                "upgrade": 9,
-                "pay": 29
-            },
-            "value": 87600000000000,
             "probability": 0.0249252168718195
         },
         {
@@ -131,6 +131,21 @@
         },
         {
             "player": {
+                "id": 226764,
+                "name": "조지 베스트",
+                "season": "25FSL",
+                "season_no": 850,
+                "ovr": 132,
+                "position": "RW",
+                "nation": 35,
+                "upgrade": 9,
+                "pay": 29
+            },
+            "value": 69900000000000,
+            "probability": 0.0324027819333653
+        },
+        {
+            "player": {
                 "id": 7763,
                 "name": "안드레아 피를로",
                 "season": "25FSL",
@@ -142,7 +157,7 @@
                 "pay": 29
             },
             "value": 65000000000000,
-            "probability": 0.0324027819333653
+            "probability": 0.0448653903692751
         },
         {
             "player": {
@@ -156,8 +171,23 @@
                 "upgrade": 9,
                 "pay": 29
             },
-            "value": 58000000000000,
+            "value": 63800000000000,
             "probability": 0.0448653903692751
+        },
+        {
+            "player": {
+                "id": 1040,
+                "name": "호베르투 카를루스",
+                "season": "25FSL",
+                "season_no": 850,
+                "ovr": 131,
+                "position": "LB",
+                "nation": 54,
+                "upgrade": 9,
+                "pay": 28
+            },
+            "value": 62200000000000,
+            "probability": 0.046111651212866
         },
         {
             "player": {
@@ -171,52 +201,7 @@
                 "upgrade": 9,
                 "pay": 29
             },
-            "value": 55500000000000,
-            "probability": 0.0448653903692751
-        },
-        {
-            "player": {
-                "id": 13743,
-                "name": "스티븐 제라드",
-                "season": "25FSL",
-                "season_no": 850,
-                "ovr": 132,
-                "position": "CM",
-                "nation": 14,
-                "upgrade": 9,
-                "pay": 29
-            },
-            "value": 55000000000000,
-            "probability": 0.046111651212866
-        },
-        {
-            "player": {
-                "id": 5471,
-                "name": "프랭크 램파드",
-                "season": "25FSL",
-                "season_no": 850,
-                "ovr": 132,
-                "position": "CAM",
-                "nation": 14,
-                "upgrade": 9,
-                "pay": 29
-            },
-            "value": 54800000000000,
-            "probability": 0.046111651212866
-        },
-        {
-            "player": {
-                "id": 28130,
-                "name": "호나우지뉴",
-                "season": "25FSL",
-                "season_no": 850,
-                "ovr": 132,
-                "position": "LW",
-                "nation": 54,
-                "upgrade": 9,
-                "pay": 29
-            },
-            "value": 54800000000000,
+            "value": 61000000000000,
             "probability": 0.046111651212866
         },
         {
@@ -231,38 +216,8 @@
                 "upgrade": 9,
                 "pay": 29
             },
-            "value": 52600000000000,
+            "value": 57900000000000,
             "probability": 0.046111651212866
-        },
-        {
-            "player": {
-                "id": 226764,
-                "name": "조지 베스트",
-                "season": "25FSL",
-                "season_no": 850,
-                "ovr": 132,
-                "position": "RW",
-                "nation": 35,
-                "upgrade": 9,
-                "pay": 29
-            },
-            "value": 52500000000000,
-            "probability": 0.0415004860915794
-        },
-        {
-            "player": {
-                "id": 9676,
-                "name": "사뮈엘 에토",
-                "season": "25FSL",
-                "season_no": 850,
-                "ovr": 132,
-                "position": "ST",
-                "nation": 103,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 51800000000000,
-            "probability": 0.0415004860915794
         },
         {
             "player": {
@@ -273,6 +228,66 @@
                 "ovr": 132,
                 "position": "LM",
                 "nation": 12,
+                "upgrade": 9,
+                "pay": 28
+            },
+            "value": 57000000000000,
+            "probability": 0.046111651212866
+        },
+        {
+            "player": {
+                "id": 13743,
+                "name": "스티븐 제라드",
+                "season": "25FSL",
+                "season_no": 850,
+                "ovr": 132,
+                "position": "CM",
+                "nation": 14,
+                "upgrade": 9,
+                "pay": 29
+            },
+            "value": 55000000000000,
+            "probability": 0.0415004860915794
+        },
+        {
+            "player": {
+                "id": 28130,
+                "name": "호나우지뉴",
+                "season": "25FSL",
+                "season_no": 850,
+                "ovr": 132,
+                "position": "LW",
+                "nation": 54,
+                "upgrade": 9,
+                "pay": 29
+            },
+            "value": 54800000000000,
+            "probability": 0.0415004860915794
+        },
+        {
+            "player": {
+                "id": 5471,
+                "name": "프랭크 램파드",
+                "season": "25FSL",
+                "season_no": 850,
+                "ovr": 132,
+                "position": "CAM",
+                "nation": 14,
+                "upgrade": 9,
+                "pay": 29
+            },
+            "value": 54800000000000,
+            "probability": 0.037387825307729196
+        },
+        {
+            "player": {
+                "id": 9676,
+                "name": "사뮈엘 에토",
+                "season": "25FSL",
+                "season_no": 850,
+                "ovr": 132,
+                "position": "ST",
+                "nation": 103,
                 "upgrade": 9,
                 "pay": 28
             },
@@ -292,21 +307,6 @@
                 "pay": 29
             },
             "value": 51800000000000,
-            "probability": 0.037387825307729196
-        },
-        {
-            "player": {
-                "id": 1040,
-                "name": "호베르투 카를루스",
-                "season": "25FSL",
-                "season_no": 850,
-                "ovr": 131,
-                "position": "LB",
-                "nation": 54,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 51500000000000,
             "probability": 0.0331505384395199
         },
         {
@@ -386,6 +386,21 @@
         },
         {
             "player": {
+                "id": 5003,
+                "name": "카푸",
+                "season": "25FSL",
+                "season_no": 850,
+                "ovr": 131,
+                "position": "RB",
+                "nation": 54,
+                "upgrade": 9,
+                "pay": 27
+            },
+            "value": 41900000000000,
+            "probability": 0.0428713730195295
+        },
+        {
+            "player": {
                 "id": 54050,
                 "name": "웨인 루니",
                 "season": "25FSL",
@@ -401,18 +416,18 @@
         },
         {
             "player": {
-                "id": 5003,
-                "name": "카푸",
+                "id": 140601,
+                "name": "네마냐 비디치",
                 "season": "25FSL",
                 "season_no": 850,
                 "ovr": 131,
-                "position": "RB",
-                "nation": 54,
+                "position": "CB",
+                "nation": 51,
                 "upgrade": 9,
-                "pay": 27
+                "pay": 28
             },
-            "value": 38100000000000,
-            "probability": 0.0428713730195295
+            "value": 38600000000000,
+            "probability": 0.0321535297646471
         },
         {
             "player": {
@@ -442,7 +457,7 @@
                 "pay": 28
             },
             "value": 37600000000000,
-            "probability": 0.0321535297646471
+            "probability": 0.0215603125941238
         },
         {
             "player": {
@@ -457,21 +472,6 @@
                 "pay": 28
             },
             "value": 36100000000000,
-            "probability": 0.0215603125941238
-        },
-        {
-            "player": {
-                "id": 140601,
-                "name": "네마냐 비디치",
-                "season": "25FSL",
-                "season_no": 850,
-                "ovr": 131,
-                "position": "CB",
-                "nation": 51,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 35100000000000,
             "probability": 0.0215603125941238
         },
         {
