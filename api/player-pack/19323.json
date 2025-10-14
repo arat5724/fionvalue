@@ -3,25 +3,25 @@
     "id": "19323",
     "name": "[패스] 25FSL Top Price 34 (1~4강, 113+)",
     "image": null,
-    "expectedBp": 483291744568.7434,
+    "expectedBp": 576739952415.1733,
     "expectedValue": {
-        "bp_player": 483291744568.7434
+        "bp_player": 576739952415.1733
     },
     "percentile": {
-        "0": 13200000000000,
-        "1": 7420000000000,
-        "2": 5410000000000,
-        "5": 606000000000,
-        "10": 289000000000,
-        "20": 224000000000,
-        "30": 220000000000,
-        "40": 217000000000,
-        "50": 216000000000,
-        "60": 215000000000,
-        "70": 215000000000,
-        "80": 214000000000,
-        "90": 210000000000,
-        "100": 166000000000
+        "0": 15800000000000,
+        "1": 9990000000000,
+        "2": 7220000000000,
+        "5": 685000000000,
+        "10": 310000000000,
+        "20": 234000000000,
+        "30": 231000000000,
+        "40": 230000000000,
+        "50": 229000000000,
+        "60": 229000000000,
+        "70": 228000000000,
+        "80": 226000000000,
+        "90": 220000000000,
+        "100": 172000000000
     },
     "playerList": [
         {
@@ -36,7 +36,22 @@
                 "upgrade": 4,
                 "pay": 30
             },
-            "value": 13200000000000,
+            "value": 15800000000000,
+            "probability": 2.45941836723e-07
+        },
+        {
+            "player": {
+                "id": 214100,
+                "name": "루드 굴리트",
+                "season": "25FSL",
+                "season_no": 850,
+                "ovr": 116,
+                "position": "CF",
+                "nation": 34,
+                "upgrade": 3,
+                "pay": 30
+            },
+            "value": 15000000000000,
             "probability": 2.45941836723e-07
         },
         {
@@ -51,22 +66,7 @@
                 "upgrade": 2,
                 "pay": 30
             },
-            "value": 12000000000000,
-            "probability": 2.45941836723e-07
-        },
-        {
-            "player": {
-                "id": 214100,
-                "name": "루드 굴리트",
-                "season": "25FSL",
-                "season_no": 850,
-                "ovr": 116,
-                "position": "CF",
-                "nation": 34,
-                "upgrade": 3,
-                "pay": 30
-            },
-            "value": 12000000000000,
+            "value": 13400000000000,
             "probability": 0.00491883673446299
         },
         {
@@ -81,7 +81,7 @@
                 "upgrade": 1,
                 "pay": 30
             },
-            "value": 11900000000000,
+            "value": 13100000000000,
             "probability": 0.00491883673446299
         },
         {
@@ -96,7 +96,7 @@
                 "upgrade": 4,
                 "pay": 30
             },
-            "value": 7420000000000,
+            "value": 9990000000000,
             "probability": 0.006148545918078741
         },
         {
@@ -111,23 +111,8 @@
                 "upgrade": 3,
                 "pay": 30
             },
-            "value": 5410000000000,
+            "value": 7220000000000,
             "probability": 0.006148545918078741
-        },
-        {
-            "player": {
-                "id": 37576,
-                "name": "호나우두",
-                "season": "25FSL",
-                "season_no": 850,
-                "ovr": 117,
-                "position": "ST",
-                "nation": 54,
-                "upgrade": 2,
-                "pay": 30
-            },
-            "value": 4500000000000,
-            "probability": 0.00737825510169449
         },
         {
             "player": {
@@ -141,23 +126,23 @@
                 "upgrade": 1,
                 "pay": 30
             },
-            "value": 4240000000000,
+            "value": 6960000000000,
             "probability": 0.00737825510169449
         },
         {
             "player": {
-                "id": 1397,
-                "name": "지네딘 지단",
+                "id": 37576,
+                "name": "호나우두",
                 "season": "25FSL",
                 "season_no": 850,
-                "ovr": 120,
-                "position": "CAM",
-                "nation": 18,
-                "upgrade": 4,
+                "ovr": 117,
+                "position": "ST",
+                "nation": 54,
+                "upgrade": 2,
                 "pay": 30
             },
-            "value": 673000000000,
-            "probability": 0.00860796428531024
+            "value": 6960000000000,
+            "probability": 0.00737825510169449
         },
         {
             "player": {
@@ -171,7 +156,22 @@
                 "upgrade": 4,
                 "pay": 29
             },
-            "value": 606000000000,
+            "value": 948000000000,
+            "probability": 0.00860796428531024
+        },
+        {
+            "player": {
+                "id": 1397,
+                "name": "지네딘 지단",
+                "season": "25FSL",
+                "season_no": 850,
+                "ovr": 120,
+                "position": "CAM",
+                "nation": 18,
+                "upgrade": 4,
+                "pay": 30
+            },
+            "value": 685000000000,
             "probability": 0.00860796428531024
         },
         {
@@ -186,7 +186,7 @@
                 "upgrade": 4,
                 "pay": 27
             },
-            "value": 473000000000,
+            "value": 551000000000,
             "probability": 0.0110673826525417
         },
         {
@@ -201,7 +201,7 @@
                 "upgrade": 4,
                 "pay": 28
             },
-            "value": 357000000000,
+            "value": 506000000000,
             "probability": 0.0110673826525417
         },
         {
@@ -216,8 +216,38 @@
                 "upgrade": 4,
                 "pay": 30
             },
-            "value": 289000000000,
+            "value": 310000000000,
             "probability": 0.039350693875704
+        },
+        {
+            "player": {
+                "id": 140601,
+                "name": "네마냐 비디치",
+                "season": "25FSL",
+                "season_no": 850,
+                "ovr": 116,
+                "position": "CB",
+                "nation": 51,
+                "upgrade": 3,
+                "pay": 28
+            },
+            "value": 246000000000,
+            "probability": 0.039350693875704
+        },
+        {
+            "player": {
+                "id": 5589,
+                "name": "루이스 피구",
+                "season": "25FSL",
+                "season_no": 850,
+                "ovr": 119,
+                "position": "RW",
+                "nation": 38,
+                "upgrade": 4,
+                "pay": 29
+            },
+            "value": 234000000000,
+            "probability": 0.0491883673446299
         },
         {
             "player": {
@@ -231,8 +261,53 @@
                 "upgrade": 4,
                 "pay": 29
             },
-            "value": 268000000000,
-            "probability": 0.039350693875704
+            "value": 233000000000,
+            "probability": 0.0491883673446299
+        },
+        {
+            "player": {
+                "id": 1625,
+                "name": "티에리 앙리",
+                "season": "25FSL",
+                "season_no": 850,
+                "ovr": 119,
+                "position": "ST",
+                "nation": 18,
+                "upgrade": 4,
+                "pay": 29
+            },
+            "value": 231000000000,
+            "probability": 0.07304472550677539
+        },
+        {
+            "player": {
+                "id": 242519,
+                "name": "에우제비우",
+                "season": "25FSL",
+                "season_no": 850,
+                "ovr": 119,
+                "position": "CF",
+                "nation": 38,
+                "upgrade": 4,
+                "pay": 29
+            },
+            "value": 231000000000,
+            "probability": 0.07304472550677539
+        },
+        {
+            "player": {
+                "id": 167198,
+                "name": "에릭 칸토나",
+                "season": "25FSL",
+                "season_no": 850,
+                "ovr": 119,
+                "position": "CF",
+                "nation": 18,
+                "upgrade": 4,
+                "pay": 29
+            },
+            "value": 230000000000,
+            "probability": 0.0649286448949115
         },
         {
             "player": {
@@ -246,67 +321,7 @@
                 "upgrade": 4,
                 "pay": 29
             },
-            "value": 224000000000,
-            "probability": 0.0491883673446299
-        },
-        {
-            "player": {
-                "id": 1109,
-                "name": "파올로 말디니",
-                "season": "25FSL",
-                "season_no": 850,
-                "ovr": 119,
-                "position": "LB",
-                "nation": 27,
-                "upgrade": 4,
-                "pay": 29
-            },
-            "value": 222000000000,
-            "probability": 0.0491883673446299
-        },
-        {
-            "player": {
-                "id": 191189,
-                "name": "로타어 마테우스",
-                "season": "25FSL",
-                "season_no": 850,
-                "ovr": 119,
-                "position": "CM",
-                "nation": 21,
-                "upgrade": 4,
-                "pay": 29
-            },
-            "value": 220000000000,
-            "probability": 0.07304472550677539
-        },
-        {
-            "player": {
-                "id": 28130,
-                "name": "호나우지뉴",
-                "season": "25FSL",
-                "season_no": 850,
-                "ovr": 119,
-                "position": "LW",
-                "nation": 54,
-                "upgrade": 4,
-                "pay": 29
-            },
-            "value": 219000000000,
-            "probability": 0.07304472550677539
-        },
-        {
-            "player": {
-                "id": 5471,
-                "name": "프랭크 램파드",
-                "season": "25FSL",
-                "season_no": 850,
-                "ovr": 119,
-                "position": "CAM",
-                "nation": 14,
-                "upgrade": 4,
-                "pay": 29
-            },
-            "value": 217000000000,
+            "value": 229000000000,
             "probability": 0.0649286448949115
         },
         {
@@ -321,22 +336,22 @@
                 "upgrade": 4,
                 "pay": 28
             },
-            "value": 216000000000,
-            "probability": 0.0649286448949115
+            "value": 229000000000,
+            "probability": 0.0576733607115786
         },
         {
             "player": {
-                "id": 1625,
-                "name": "티에리 앙리",
+                "id": 28130,
+                "name": "호나우지뉴",
                 "season": "25FSL",
                 "season_no": 850,
                 "ovr": 119,
-                "position": "ST",
-                "nation": 18,
+                "position": "LW",
+                "nation": 54,
                 "upgrade": 4,
                 "pay": 29
             },
-            "value": 216000000000,
+            "value": 229000000000,
             "probability": 0.0576733607115786
         },
         {
@@ -351,8 +366,53 @@
                 "upgrade": 4,
                 "pay": 28
             },
-            "value": 215000000000,
-            "probability": 0.0576733607115786
+            "value": 229000000000,
+            "probability": 0.050172134691522506
+        },
+        {
+            "player": {
+                "id": 5471,
+                "name": "프랭크 램파드",
+                "season": "25FSL",
+                "season_no": 850,
+                "ovr": 119,
+                "position": "CAM",
+                "nation": 14,
+                "upgrade": 4,
+                "pay": 29
+            },
+            "value": 228000000000,
+            "probability": 0.050172134691522506
+        },
+        {
+            "player": {
+                "id": 191189,
+                "name": "로타어 마테우스",
+                "season": "25FSL",
+                "season_no": 850,
+                "ovr": 119,
+                "position": "CM",
+                "nation": 21,
+                "upgrade": 4,
+                "pay": 29
+            },
+            "value": 227000000000,
+            "probability": 0.041810112242935495
+        },
+        {
+            "player": {
+                "id": 1109,
+                "name": "파올로 말디니",
+                "season": "25FSL",
+                "season_no": 850,
+                "ovr": 119,
+                "position": "LB",
+                "nation": 27,
+                "upgrade": 4,
+                "pay": 29
+            },
+            "value": 226000000000,
+            "probability": 0.041810112242935495
         },
         {
             "player": {
@@ -366,82 +426,7 @@
                 "upgrade": 4,
                 "pay": 29
             },
-            "value": 215000000000,
-            "probability": 0.050172134691522506
-        },
-        {
-            "player": {
-                "id": 167198,
-                "name": "에릭 칸토나",
-                "season": "25FSL",
-                "season_no": 850,
-                "ovr": 119,
-                "position": "CF",
-                "nation": 18,
-                "upgrade": 4,
-                "pay": 29
-            },
-            "value": 215000000000,
-            "probability": 0.050172134691522506
-        },
-        {
-            "player": {
-                "id": 5589,
-                "name": "루이스 피구",
-                "season": "25FSL",
-                "season_no": 850,
-                "ovr": 119,
-                "position": "RW",
-                "nation": 38,
-                "upgrade": 4,
-                "pay": 29
-            },
-            "value": 214000000000,
-            "probability": 0.041810112242935495
-        },
-        {
-            "player": {
-                "id": 138449,
-                "name": "카카",
-                "season": "25FSL",
-                "season_no": 850,
-                "ovr": 119,
-                "position": "CAM",
-                "nation": 54,
-                "upgrade": 4,
-                "pay": 29
-            },
-            "value": 214000000000,
-            "probability": 0.041810112242935495
-        },
-        {
-            "player": {
-                "id": 242519,
-                "name": "에우제비우",
-                "season": "25FSL",
-                "season_no": 850,
-                "ovr": 119,
-                "position": "CF",
-                "nation": 38,
-                "upgrade": 4,
-                "pay": 29
-            },
-            "value": 213000000000,
-            "probability": 0.0334480897943484
-        },
-        {
-            "player": {
-                "id": 1397,
-                "name": "지네딘 지단",
-                "season": "25FSL",
-                "season_no": 850,
-                "ovr": 118,
-                "position": "CAM",
-                "nation": 18,
-                "upgrade": 3,
-                "pay": 30
-            },
-            "value": 213000000000,
+            "value": 225000000000,
             "probability": 0.0334480897943484
         },
         {
@@ -456,68 +441,23 @@
                 "upgrade": 4,
                 "pay": 28
             },
-            "value": 210000000000,
-            "probability": 0.025454980100846
+            "value": 222000000000,
+            "probability": 0.0334480897943484
         },
         {
             "player": {
-                "id": 1397,
-                "name": "지네딘 지단",
+                "id": 138449,
+                "name": "카카",
                 "season": "25FSL",
                 "season_no": 850,
-                "ovr": 117,
+                "ovr": 119,
                 "position": "CAM",
-                "nation": 18,
-                "upgrade": 2,
-                "pay": 30
-            },
-            "value": 185000000000,
-            "probability": 0.025454980100846
-        },
-        {
-            "player": {
-                "id": 1397,
-                "name": "지네딘 지단",
-                "season": "25FSL",
-                "season_no": 850,
-                "ovr": 116,
-                "position": "CAM",
-                "nation": 18,
-                "upgrade": 1,
-                "pay": 30
-            },
-            "value": 185000000000,
-            "probability": 0.0172159285706205
-        },
-        {
-            "player": {
-                "id": 7763,
-                "name": "안드레아 피를로",
-                "season": "25FSL",
-                "season_no": 850,
-                "ovr": 117,
-                "position": "CM",
-                "nation": 27,
-                "upgrade": 3,
+                "nation": 54,
+                "upgrade": 4,
                 "pay": 29
             },
-            "value": 178000000000,
-            "probability": 0.0172159285706205
-        },
-        {
-            "player": {
-                "id": 1419,
-                "name": "파트리크 비에이라",
-                "season": "25FSL",
-                "season_no": 850,
-                "ovr": 118,
-                "position": "CM",
-                "nation": 18,
-                "upgrade": 4,
-                "pay": 28
-            },
-            "value": 172000000000,
-            "probability": 0.00959173163220284
+            "value": 220000000000,
+            "probability": 0.025454980100846
         },
         {
             "player": {
@@ -525,13 +465,73 @@
                 "name": "네마냐 비디치",
                 "season": "25FSL",
                 "season_no": 850,
-                "ovr": 116,
+                "ovr": 115,
                 "position": "CB",
                 "nation": 51,
-                "upgrade": 3,
+                "upgrade": 2,
                 "pay": 28
             },
-            "value": 166000000000,
+            "value": 196000000000,
+            "probability": 0.025454980100846
+        },
+        {
+            "player": {
+                "id": 140601,
+                "name": "네마냐 비디치",
+                "season": "25FSL",
+                "season_no": 850,
+                "ovr": 114,
+                "position": "CB",
+                "nation": 51,
+                "upgrade": 1,
+                "pay": 28
+            },
+            "value": 196000000000,
+            "probability": 0.0172159285706205
+        },
+        {
+            "player": {
+                "id": 214098,
+                "name": "프랑크 레이카르트",
+                "season": "25FSL",
+                "season_no": 850,
+                "ovr": 118,
+                "position": "CDM",
+                "nation": 34,
+                "upgrade": 4,
+                "pay": 28
+            },
+            "value": 182000000000,
+            "probability": 0.0172159285706205
+        },
+        {
+            "player": {
+                "id": 1040,
+                "name": "호베르투 카를루스",
+                "season": "25FSL",
+                "season_no": 850,
+                "ovr": 118,
+                "position": "LB",
+                "nation": 54,
+                "upgrade": 4,
+                "pay": 28
+            },
+            "value": 180000000000,
+            "probability": 0.00959173163220284
+        },
+        {
+            "player": {
+                "id": 1397,
+                "name": "지네딘 지단",
+                "season": "25FSL",
+                "season_no": 850,
+                "ovr": 118,
+                "position": "CAM",
+                "nation": 18,
+                "upgrade": 3,
+                "pay": 30
+            },
+            "value": 172000000000,
             "probability": 0.00959173163220284
         }
     ]
