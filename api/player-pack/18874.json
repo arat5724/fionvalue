@@ -3,42 +3,27 @@
     "id": "18874",
     "name": "[에센셜 패스] 25IM-S&P Top Price 40 (1~4강, 114+)",
     "image": null,
-    "expectedBp": 696964667855.5508,
+    "expectedBp": 699207200178.3328,
     "expectedValue": {
-        "bp_player": 696964667855.5508
+        "bp_player": 699207200178.3328
     },
     "percentile": {
-        "0": 1780000000000,
-        "1": 1780000000000,
-        "2": 1780000000000,
-        "5": 1360000000000,
-        "10": 1340000000000,
-        "20": 1060000000000,
-        "30": 912000000000,
-        "40": 577000000000,
-        "50": 523000000000,
-        "60": 491000000000,
-        "70": 471000000000,
-        "80": 372000000000,
-        "90": 363000000000,
-        "100": 336000000000
+        "0": 1660000000000,
+        "1": 1660000000000,
+        "2": 1660000000000,
+        "5": 1280000000000,
+        "10": 1090000000000,
+        "20": 1010000000000,
+        "30": 970000000000,
+        "40": 575000000000,
+        "50": 535000000000,
+        "60": 500000000000,
+        "70": 473000000000,
+        "80": 424000000000,
+        "90": 393000000000,
+        "100": 340000000000
     },
     "playerList": [
-        {
-            "player": {
-                "id": 28130,
-                "name": "호나우지뉴",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 123,
-                "position": "LW",
-                "nation": 54,
-                "upgrade": 4,
-                "pay": 30
-            },
-            "value": 1780000000000,
-            "probability": 0.022291573785109202
-        },
         {
             "player": {
                 "id": 13038,
@@ -51,22 +36,52 @@
                 "upgrade": 4,
                 "pay": 29
             },
-            "value": 1380000000000,
+            "value": 1660000000000,
             "probability": 0.022291573785109202
         },
         {
             "player": {
-                "id": 54050,
-                "name": "웨인 루니",
+                "id": 28130,
+                "name": "호나우지뉴",
                 "season": "25IM-S&P",
                 "season_no": 113,
-                "ovr": 121,
-                "position": "CF",
+                "ovr": 123,
+                "position": "LW",
+                "nation": 54,
+                "upgrade": 4,
+                "pay": 30
+            },
+            "value": 1460000000000,
+            "probability": 0.022291573785109202
+        },
+        {
+            "player": {
+                "id": 5479,
+                "name": "카시야스",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 122,
+                "position": "GK",
+                "nation": 45,
+                "upgrade": 4,
+                "pay": 25
+            },
+            "value": 1280000000000,
+            "probability": 0.0317654926437807
+        },
+        {
+            "player": {
+                "id": 7289,
+                "name": "리오 퍼디난드",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 122,
+                "position": "CB",
                 "nation": 14,
                 "upgrade": 4,
                 "pay": 30
             },
-            "value": 1360000000000,
+            "value": 1090000000000,
             "probability": 0.0317654926437807
         },
         {
@@ -81,37 +96,7 @@
                 "upgrade": 4,
                 "pay": 30
             },
-            "value": 1340000000000,
-            "probability": 0.0317654926437807
-        },
-        {
-            "player": {
-                "id": 1625,
-                "name": "티에리 앙리",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 121,
-                "position": "ST",
-                "nation": 18,
-                "upgrade": 4,
-                "pay": 30
-            },
-            "value": 1130000000000,
-            "probability": 0.030093624609897496
-        },
-        {
-            "player": {
-                "id": 7289,
-                "name": "리오 퍼디난드",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 122,
-                "position": "CB",
-                "nation": 14,
-                "upgrade": 4,
-                "pay": 30
-            },
-            "value": 1100000000000,
+            "value": 1090000000000,
             "probability": 0.030093624609897496
         },
         {
@@ -126,23 +111,8 @@
                 "upgrade": 3,
                 "pay": 30
             },
-            "value": 1080000000000,
-            "probability": 0.028421756576014298
-        },
-        {
-            "player": {
-                "id": 5479,
-                "name": "카시야스",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 122,
-                "position": "GK",
-                "nation": 45,
-                "upgrade": 4,
-                "pay": 25
-            },
-            "value": 1060000000000,
-            "probability": 0.028421756576014298
+            "value": 1070000000000,
+            "probability": 0.030093624609897496
         },
         {
             "player": {
@@ -156,8 +126,23 @@
                 "upgrade": 4,
                 "pay": 30
             },
-            "value": 1020000000000,
-            "probability": 0.0267498885421311
+            "value": 1010000000000,
+            "probability": 0.028421756576014298
+        },
+        {
+            "player": {
+                "id": 1625,
+                "name": "티에리 앙리",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 121,
+                "position": "ST",
+                "nation": 18,
+                "upgrade": 4,
+                "pay": 30
+            },
+            "value": 1010000000000,
+            "probability": 0.028421756576014298
         },
         {
             "player": {
@@ -171,7 +156,7 @@
                 "upgrade": 4,
                 "pay": 29
             },
-            "value": 1010000000000,
+            "value": 1000000000000,
             "probability": 0.0267498885421311
         },
         {
@@ -186,7 +171,37 @@
                 "upgrade": 4,
                 "pay": 30
             },
-            "value": 912000000000,
+            "value": 985000000000,
+            "probability": 0.0267498885421311
+        },
+        {
+            "player": {
+                "id": 54050,
+                "name": "웨인 루니",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 121,
+                "position": "CF",
+                "nation": 14,
+                "upgrade": 4,
+                "pay": 30
+            },
+            "value": 970000000000,
+            "probability": 0.029201961658493102
+        },
+        {
+            "player": {
+                "id": 1088,
+                "name": "알레산드로 네스타",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 120,
+                "position": "CB",
+                "nation": 27,
+                "upgrade": 3,
+                "pay": 29
+            },
+            "value": 851000000000,
             "probability": 0.029201961658493102
         },
         {
@@ -201,53 +216,8 @@
                 "upgrade": 4,
                 "pay": 27
             },
-            "value": 766000000000,
-            "probability": 0.029201961658493102
-        },
-        {
-            "player": {
-                "id": 1088,
-                "name": "알레산드로 네스타",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 120,
-                "position": "CB",
-                "nation": 27,
-                "upgrade": 3,
-                "pay": 29
-            },
-            "value": 704000000000,
+            "value": 834000000000,
             "probability": 0.0312082032991529
-        },
-        {
-            "player": {
-                "id": 13038,
-                "name": "카를레스 푸욜",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 120,
-                "position": "CB",
-                "nation": 45,
-                "upgrade": 3,
-                "pay": 29
-            },
-            "value": 617000000000,
-            "probability": 0.0312082032991529
-        },
-        {
-            "player": {
-                "id": 1088,
-                "name": "알레산드로 네스타",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 119,
-                "position": "CB",
-                "nation": 27,
-                "upgrade": 2,
-                "pay": 29
-            },
-            "value": 577000000000,
-            "probability": 0.028979045920642
         },
         {
             "player": {
@@ -261,7 +231,37 @@
                 "upgrade": 3,
                 "pay": 30
             },
-            "value": 562000000000,
+            "value": 582000000000,
+            "probability": 0.0312082032991529
+        },
+        {
+            "player": {
+                "id": 1088,
+                "name": "알레산드로 네스타",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 118,
+                "position": "CB",
+                "nation": 27,
+                "upgrade": 1,
+                "pay": 29
+            },
+            "value": 575000000000,
+            "probability": 0.028979045920642
+        },
+        {
+            "player": {
+                "id": 1088,
+                "name": "알레산드로 네스타",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 119,
+                "position": "CB",
+                "nation": 27,
+                "upgrade": 2,
+                "pay": 29
+            },
+            "value": 575000000000,
             "probability": 0.028979045920642
         },
         {
@@ -281,21 +281,6 @@
         },
         {
             "player": {
-                "id": 1088,
-                "name": "알레산드로 네스타",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 118,
-                "position": "CB",
-                "nation": 27,
-                "upgrade": 1,
-                "pay": 29
-            },
-            "value": 523000000000,
-            "probability": 0.030093624609897496
-        },
-        {
-            "player": {
                 "id": 1179,
                 "name": "잔루이지 부폰",
                 "season": "25IM-S&P",
@@ -306,8 +291,8 @@
                 "upgrade": 3,
                 "pay": 27
             },
-            "value": 517000000000,
-            "probability": 0.0336602764155149
+            "value": 535000000000,
+            "probability": 0.030093624609897496
         },
         {
             "player": {
@@ -321,7 +306,7 @@
                 "upgrade": 1,
                 "pay": 30
             },
-            "value": 505000000000,
+            "value": 521000000000,
             "probability": 0.0336602764155149
         },
         {
@@ -336,8 +321,8 @@
                 "upgrade": 1,
                 "pay": 27
             },
-            "value": 491000000000,
-            "probability": 0.0334373606776638
+            "value": 500000000000,
+            "probability": 0.0336602764155149
         },
         {
             "player": {
@@ -351,53 +336,8 @@
                 "upgrade": 2,
                 "pay": 27
             },
-            "value": 491000000000,
+            "value": 500000000000,
             "probability": 0.0334373606776638
-        },
-        {
-            "player": {
-                "id": 7289,
-                "name": "리오 퍼디난드",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 119,
-                "position": "CB",
-                "nation": 14,
-                "upgrade": 2,
-                "pay": 30
-            },
-            "value": 475000000000,
-            "probability": 0.030093624609897496
-        },
-        {
-            "player": {
-                "id": 7289,
-                "name": "리오 퍼디난드",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 118,
-                "position": "CB",
-                "nation": 14,
-                "upgrade": 1,
-                "pay": 30
-            },
-            "value": 471000000000,
-            "probability": 0.030093624609897496
-        },
-        {
-            "player": {
-                "id": 138449,
-                "name": "카카",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 119,
-                "position": "CAM",
-                "nation": 54,
-                "upgrade": 3,
-                "pay": 30
-            },
-            "value": 467000000000,
-            "probability": 0.0267498885421311
         },
         {
             "player": {
@@ -405,13 +345,73 @@
                 "name": "카를레스 푸욜",
                 "season": "25IM-S&P",
                 "season_no": 113,
-                "ovr": 119,
+                "ovr": 120,
                 "position": "CB",
                 "nation": 45,
-                "upgrade": 2,
+                "upgrade": 3,
                 "pay": 29
             },
-            "value": 386000000000,
+            "value": 500000000000,
+            "probability": 0.0334373606776638
+        },
+        {
+            "player": {
+                "id": 5479,
+                "name": "카시야스",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 120,
+                "position": "GK",
+                "nation": 45,
+                "upgrade": 3,
+                "pay": 25
+            },
+            "value": 483000000000,
+            "probability": 0.030093624609897496
+        },
+        {
+            "player": {
+                "id": 5479,
+                "name": "카시야스",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 118,
+                "position": "GK",
+                "nation": 45,
+                "upgrade": 1,
+                "pay": 25
+            },
+            "value": 473000000000,
+            "probability": 0.030093624609897496
+        },
+        {
+            "player": {
+                "id": 5479,
+                "name": "카시야스",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 119,
+                "position": "GK",
+                "nation": 45,
+                "upgrade": 2,
+                "pay": 25
+            },
+            "value": 473000000000,
+            "probability": 0.0267498885421311
+        },
+        {
+            "player": {
+                "id": 34079,
+                "name": "애슐리 콜",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 120,
+                "position": "LB",
+                "nation": 14,
+                "upgrade": 4,
+                "pay": 28
+            },
+            "value": 463000000000,
             "probability": 0.0267498885421311
         },
         {
@@ -426,38 +426,23 @@
                 "upgrade": 3,
                 "pay": 30
             },
-            "value": 374000000000,
+            "value": 452000000000,
             "probability": 0.0273071778867588
         },
         {
             "player": {
-                "id": 34079,
-                "name": "애슐리 콜",
+                "id": 7289,
+                "name": "리오 퍼디난드",
                 "season": "25IM-S&P",
                 "season_no": 113,
-                "ovr": 118,
-                "position": "LB",
+                "ovr": 119,
+                "position": "CB",
                 "nation": 14,
-                "upgrade": 3,
-                "pay": 28
+                "upgrade": 2,
+                "pay": 30
             },
-            "value": 372000000000,
+            "value": 424000000000,
             "probability": 0.0273071778867588
-        },
-        {
-            "player": {
-                "id": 34079,
-                "name": "애슐리 콜",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 120,
-                "position": "LB",
-                "nation": 14,
-                "upgrade": 4,
-                "pay": 28
-            },
-            "value": 372000000000,
-            "probability": 0.0234061524743647
         },
         {
             "player": {
@@ -471,98 +456,8 @@
                 "upgrade": 4,
                 "pay": 28
             },
-            "value": 370000000000,
+            "value": 407000000000,
             "probability": 0.0234061524743647
-        },
-        {
-            "player": {
-                "id": 5479,
-                "name": "카시야스",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 119,
-                "position": "GK",
-                "nation": 45,
-                "upgrade": 2,
-                "pay": 25
-            },
-            "value": 363000000000,
-            "probability": 0.0208426214890771
-        },
-        {
-            "player": {
-                "id": 5479,
-                "name": "카시야스",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 120,
-                "position": "GK",
-                "nation": 45,
-                "upgrade": 3,
-                "pay": 25
-            },
-            "value": 363000000000,
-            "probability": 0.0208426214890771
-        },
-        {
-            "player": {
-                "id": 31432,
-                "name": "디디에 드로그바",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 119,
-                "position": "ST",
-                "nation": 108,
-                "upgrade": 3,
-                "pay": 30
-            },
-            "value": 360000000000,
-            "probability": 0.0178332590280874
-        },
-        {
-            "player": {
-                "id": 21146,
-                "name": "마이클 캐릭",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 118,
-                "position": "CDM",
-                "nation": 14,
-                "upgrade": 4,
-                "pay": 27
-            },
-            "value": 341000000000,
-            "probability": 0.0178332590280874
-        },
-        {
-            "player": {
-                "id": 21146,
-                "name": "마이클 캐릭",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 115,
-                "position": "CDM",
-                "nation": 14,
-                "upgrade": 2,
-                "pay": 27
-            },
-            "value": 341000000000,
-            "probability": 0.013374944271065501
-        },
-        {
-            "player": {
-                "id": 21146,
-                "name": "마이클 캐릭",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 114,
-                "position": "CDM",
-                "nation": 14,
-                "upgrade": 1,
-                "pay": 27
-            },
-            "value": 341000000000,
-            "probability": 0.013374944271065501
         },
         {
             "player": {
@@ -576,8 +471,143 @@
                 "upgrade": 3,
                 "pay": 27
             },
-            "value": 341000000000,
+            "value": 401000000000,
+            "probability": 0.0234061524743647
+        },
+        {
+            "player": {
+                "id": 21146,
+                "name": "마이클 캐릭",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 118,
+                "position": "CDM",
+                "nation": 14,
+                "upgrade": 4,
+                "pay": 27
+            },
+            "value": 401000000000,
+            "probability": 0.0208426214890771
+        },
+        {
+            "player": {
+                "id": 21146,
+                "name": "마이클 캐릭",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 115,
+                "position": "CDM",
+                "nation": 14,
+                "upgrade": 2,
+                "pay": 27
+            },
+            "value": 393000000000,
+            "probability": 0.0208426214890771
+        },
+        {
+            "player": {
+                "id": 21146,
+                "name": "마이클 캐릭",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 114,
+                "position": "CDM",
+                "nation": 14,
+                "upgrade": 1,
+                "pay": 27
+            },
+            "value": 393000000000,
+            "probability": 0.0178332590280874
+        },
+        {
+            "player": {
+                "id": 121944,
+                "name": "B. 슈바인슈타이거",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 120,
+                "position": "CM",
+                "nation": 21,
+                "upgrade": 4,
+                "pay": 28
+            },
+            "value": 388000000000,
+            "probability": 0.0178332590280874
+        },
+        {
+            "player": {
+                "id": 34079,
+                "name": "애슐리 콜",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 118,
+                "position": "LB",
+                "nation": 14,
+                "upgrade": 3,
+                "pay": 28
+            },
+            "value": 380000000000,
+            "probability": 0.013374944271065501
+        },
+        {
+            "player": {
+                "id": 7289,
+                "name": "리오 퍼디난드",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 118,
+                "position": "CB",
+                "nation": 14,
+                "upgrade": 1,
+                "pay": 30
+            },
+            "value": 378000000000,
+            "probability": 0.013374944271065501
+        },
+        {
+            "player": {
+                "id": 138449,
+                "name": "카카",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 119,
+                "position": "CAM",
+                "nation": 54,
+                "upgrade": 3,
+                "pay": 30
+            },
+            "value": 366000000000,
             "probability": 0.00947391885867142
+        },
+        {
+            "player": {
+                "id": 138449,
+                "name": "카카",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 118,
+                "position": "CAM",
+                "nation": 54,
+                "upgrade": 2,
+                "pay": 30
+            },
+            "value": 358000000000,
+            "probability": 0.00947391885867142
+        },
+        {
+            "player": {
+                "id": 13038,
+                "name": "카를레스 푸욜",
+                "season": "25IM-S&P",
+                "season_no": 113,
+                "ovr": 119,
+                "position": "CB",
+                "nation": 45,
+                "upgrade": 2,
+                "pay": 29
+            },
+            "value": 347000000000,
+            "probability": 0.00501560410164958
         },
         {
             "player": {
@@ -592,36 +622,6 @@
                 "pay": 28
             },
             "value": 340000000000,
-            "probability": 0.00947391885867142
-        },
-        {
-            "player": {
-                "id": 5479,
-                "name": "카시야스",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 118,
-                "position": "GK",
-                "nation": 45,
-                "upgrade": 1,
-                "pay": 25
-            },
-            "value": 338000000000,
-            "probability": 0.00501560410164958
-        },
-        {
-            "player": {
-                "id": 1668,
-                "name": "클로드 마켈렐레",
-                "season": "25IM-S&P",
-                "season_no": 113,
-                "ovr": 118,
-                "position": "CDM",
-                "nation": 18,
-                "upgrade": 3,
-                "pay": 28
-            },
-            "value": 336000000000,
             "probability": 0.00501560410164958
         }
     ]
