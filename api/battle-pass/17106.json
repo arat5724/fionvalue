@@ -4,17 +4,23 @@
     "name": "25FSL 확정 획득! 프리미엄 FSL 배틀패스",
     "image": "/assets/image/item/17106_s.png",
     "price": 4900,
-    "efficiency": 79000.1079092489,
-    "expectedBp": 38710052875531.96,
+    "efficiency": 0.0,
+    "expectedBp": 0,
     "expectedValue": {
-        "bp_player": 5810052875531.963,
-        "bp_card": 32900000000000.0
+        "[패스] DCB 포함 Top Price 200 (1~4강, 112+)": 1,
+        "[패스] CH 포함 Top Price 770 (3~6강, 110+)": 1,
+        "[패스][최대 8강] 25FSL 확정 획득 + 3조 BP 상자": 1,
+        "[패스] 25TOTS 포함 Top Price 1470 (7~8강, 104+)": 1,
+        "[패스] 25FSL 9강 기회 상자": 1
     },
-    "efficiency1": 79000.1079092489,
-    "expectedBp1": 38710052875531.96,
+    "efficiency1": 0.0,
+    "expectedBp1": 0,
     "expectedValue1": {
-        "bp_player": 5810052875531.963,
-        "bp_card": 32900000000000.0
+        "[패스] DCB 포함 Top Price 200 (1~4강, 112+)": 1,
+        "[패스] CH 포함 Top Price 770 (3~6강, 110+)": 1,
+        "[패스][최대 8강] 25FSL 확정 획득 + 3조 BP 상자": 1,
+        "[패스] 25TOTS 포함 Top Price 1470 (7~8강, 104+)": 1,
+        "[패스] 25FSL 9강 기회 상자": 1
     },
     "breakpoints": [
         {
@@ -22,23 +28,23 @@
             "point": 100,
             "items": [
                 {
-                    "type": "player-pack",
-                    "id": "19324",
+                    "type": "other",
+                    "id": -1,
                     "name": "[패스] DCB 포함 Top Price 200 (1~4강, 112+)",
                     "image": "/assets/image/item/200232238_s.png",
-                    "expectedBp": 1040668384524.9331,
+                    "expectedBp": 0,
                     "expectedValue": {
-                        "bp_player": 1040668384524.9331
+                        "[패스] DCB 포함 Top Price 200 (1~4강, 112+)": 1
                     }
                 },
                 {
-                    "type": "bp",
-                    "id": "19353",
+                    "type": "other",
+                    "id": -1,
                     "name": "[패스] 행운의 BP 카드 (5000억~2.5조)",
                     "image": "/assets/image/item/200332151_s.png",
-                    "expectedBp": 610000000000.0,
+                    "expectedBp": 0,
                     "expectedValue": {
-                        "bp_card": 610000000000.0
+                        "[패스] 행운의 BP 카드 (5000억~2.5조)": 1
                     }
                 }
             ]
@@ -48,23 +54,23 @@
             "point": 500,
             "items": [
                 {
-                    "type": "player-pack",
-                    "id": "19325",
+                    "type": "other",
+                    "id": -1,
                     "name": "[패스] CH 포함 Top Price 770 (3~6강, 110+)",
                     "image": "/assets/image/item/200232239_s.png",
-                    "expectedBp": 2480484285259.017,
+                    "expectedBp": 0,
                     "expectedValue": {
-                        "bp_player": 2480484285259.017
+                        "[패스] CH 포함 Top Price 770 (3~6강, 110+)": 1
                     }
                 },
                 {
-                    "type": "bp",
-                    "id": "19354",
+                    "type": "other",
+                    "id": -1,
                     "name": "[패스] 행운의 BP 카드 (1.3조~6.5조)",
                     "image": "/assets/image/item/200332152_s.png",
-                    "expectedBp": 1690000000000.0,
+                    "expectedBp": 0,
                     "expectedValue": {
-                        "bp_card": 1690000000000.0
+                        "[패스] 행운의 BP 카드 (1.3조~6.5조)": 1
                     }
                 }
             ]
@@ -74,14 +80,13 @@
             "point": 1600,
             "items": [
                 {
-                    "type": "box",
-                    "id": "19361",
+                    "type": "other",
+                    "id": -1,
                     "name": "[패스][최대 8강] 25FSL 확정 획득 + 3조 BP 상자",
                     "image": "/assets/image/item/201708563_s.png",
-                    "expectedBp": 5288900205748.013,
+                    "expectedBp": 0,
                     "expectedValue": {
-                        "bp_player": 2288900205748.0127,
-                        "bp_card": 3000000000000.0
+                        "[패스][최대 8강] 25FSL 확정 획득 + 3조 BP 상자": 1
                     }
                 }
             ]
@@ -91,23 +96,23 @@
             "point": 2000,
             "items": [
                 {
-                    "type": "player-pack",
-                    "id": "19326",
+                    "type": "other",
+                    "id": -1,
                     "name": "[패스] 25TOTS 포함 Top Price 1470 (7~8강, 104+)",
                     "image": "/assets/image/item/200232240_s.png",
-                    "expectedBp": 8865997647575.922,
+                    "expectedBp": 0,
                     "expectedValue": {
-                        "bp_player": 8865997647575.922
+                        "[패스] 25TOTS 포함 Top Price 1470 (7~8강, 104+)": 1
                     }
                 },
                 {
-                    "type": "bp",
-                    "id": "19355",
+                    "type": "other",
+                    "id": -1,
                     "name": "[패스] 행운의 BP 카드 (8조~40조)",
                     "image": "/assets/image/item/200332153_s.png",
-                    "expectedBp": 10400000000000.0,
+                    "expectedBp": 0,
                     "expectedValue": {
-                        "bp_card": 10400000000000.0
+                        "[패스] 행운의 BP 카드 (8조~40조)": 1
                     }
                 }
             ]
@@ -117,23 +122,23 @@
             "point": 2500,
             "items": [
                 {
-                    "type": "box",
-                    "id": "19359",
+                    "type": "other",
+                    "id": -1,
                     "name": "[패스] 25FSL 9강 기회 상자",
                     "image": "/assets/image/item/201708561_s.png",
-                    "expectedBp": 19077031126188.305,
+                    "expectedBp": 0,
                     "expectedValue": {
-                        "bp_player": 19077031126188.305
+                        "[패스] 25FSL 9강 기회 상자": 1
                     }
                 },
                 {
-                    "type": "bp",
-                    "id": "19356",
+                    "type": "other",
+                    "id": -1,
                     "name": "[패스] 행운의 BP 카드 (15조~75조)",
                     "image": "/assets/image/item/200332154_s.png",
-                    "expectedBp": 19500000000000.0,
+                    "expectedBp": 0,
                     "expectedValue": {
-                        "bp_card": 19500000000000.0
+                        "[패스] 행운의 BP 카드 (15조~75조)": 1
                     }
                 }
             ]

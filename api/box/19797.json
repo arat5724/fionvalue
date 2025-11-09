@@ -1,0 +1,61 @@
+{
+    "type": "box",
+    "id": "19797",
+    "name": "[마일리지][미니 보너스] 25DP or 25PL 상자",
+    "image": "/assets/image/item/201708757_s.png",
+    "expectedBp": 33599991272.96766,
+    "expectedValue": {
+        "bp_player": 33599991272.96766
+    },
+    "expectedBp1": 33599991272.96766,
+    "expectedValue1": {
+        "bp_player": 33599991272.96766
+    },
+    "percentile": {
+        "0": 28300000000000,
+        "1": 149000000000,
+        "2": 125000000000,
+        "5": 96000000000,
+        "10": 77700000000,
+        "20": 73100000000,
+        "30": 69000000000,
+        "40": 34700000000,
+        "50": 2134300000,
+        "60": 1412000000,
+        "70": 1042000000,
+        "80": 764000000,
+        "90": 472900000,
+        "100": 242000
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "19787",
+                "name": "[마일리지][미니 보너스] 25DP Top Price 125 (1강, 115+)",
+                "image": "/assets/image/item/200237265_s.png",
+                "expectedBp": 81963327452.36407,
+                "expectedValue": {
+                    "bp_player": 81963327452.36407
+                }
+            },
+            "amount": 1,
+            "probability": 0.4
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "19789",
+                "name": "[마일리지][미니 보너스] 25PL Top Price 490 (1강)",
+                "image": null,
+                "expectedBp": 678883576.6850207,
+                "expectedValue": {
+                    "bp_player": 678883576.6850207
+                }
+            },
+            "amount": 2,
+            "probability": 0.6
+        }
+    ],
+    "additionalInfoWithAmount": null
+}
