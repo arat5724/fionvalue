@@ -3,24 +3,24 @@
     "id": "20048",
     "name": "DCB Top Price 40 선수팩 (9강, 112+)",
     "image": null,
-    "expectedBp": 574426347305389.0,
+    "expectedBp": 571911377245508.8,
     "expectedValue": {
-        "bp_player": 574426347305389.0
+        "bp_player": 571911377245508.8
     },
     "percentile": {
         "0": 9140000000000000,
-        "1": 1320000000000000,
-        "2": 1310000000000000,
-        "5": 1270000000000000,
-        "10": 904000000000000,
+        "1": 1380000000000000,
+        "2": 1330000000000000,
+        "5": 1210000000000000,
+        "10": 859000000000000,
         "20": 700000000000000,
-        "30": 615000000000000,
-        "40": 540000000000000,
-        "50": 463000000000000,
-        "60": 429000000000000,
-        "70": 411000000000000,
-        "80": 302000000000000,
-        "90": 267000000000000,
+        "30": 630000000000000,
+        "40": 564000000000000,
+        "50": 448000000000000,
+        "60": 411000000000000,
+        "70": 392000000000000,
+        "80": 310000000000000,
+        "90": 260000000000000,
         "100": 235000000000000
     },
     "playerList": [
@@ -51,7 +51,7 @@
                 "upgrade": 9,
                 "pay": 31
             },
-            "value": 2550000000000000,
+            "value": 2700000000000000,
             "probability": 0.00239520958083832
         },
         {
@@ -66,7 +66,7 @@
                 "upgrade": 9,
                 "pay": 31
             },
-            "value": 2200000000000000,
+            "value": 2230000000000000,
             "probability": 0.00239520958083832
         },
         {
@@ -81,7 +81,22 @@
                 "upgrade": 9,
                 "pay": 30
             },
-            "value": 2050000000000000,
+            "value": 2000000000000000,
+            "probability": 0.00239520958083832
+        },
+        {
+            "player": {
+                "id": 192985,
+                "name": "케빈 더브라위너",
+                "season": "DCB",
+                "season_no": 846,
+                "ovr": 134,
+                "position": "CM",
+                "nation": 7,
+                "upgrade": 9,
+                "pay": 30
+            },
+            "value": 1380000000000000,
             "probability": 0.00239520958083832
         },
         {
@@ -96,8 +111,8 @@
                 "upgrade": 9,
                 "pay": 30
             },
-            "value": 1320000000000000,
-            "probability": 0.00239520958083832
+            "value": 1330000000000000,
+            "probability": 0.00958083832335329
         },
         {
             "player": {
@@ -110,21 +125,6 @@
                 "nation": 38,
                 "upgrade": 9,
                 "pay": 31
-            },
-            "value": 1310000000000000,
-            "probability": 0.00958083832335329
-        },
-        {
-            "player": {
-                "id": 192985,
-                "name": "케빈 더브라위너",
-                "season": "DCB",
-                "season_no": 846,
-                "ovr": 134,
-                "position": "CM",
-                "nation": 7,
-                "upgrade": 9,
-                "pay": 30
             },
             "value": 1300000000000000,
             "probability": 0.00958083832335329
@@ -141,22 +141,7 @@
                 "upgrade": 9,
                 "pay": 31
             },
-            "value": 1300000000000000,
-            "probability": 0.00958083832335329
-        },
-        {
-            "player": {
-                "id": 250,
-                "name": "데이비드 베컴",
-                "season": "DCB",
-                "season_no": 846,
-                "ovr": 136,
-                "position": "CM",
-                "nation": 14,
-                "upgrade": 9,
-                "pay": 30
-            },
-            "value": 1270000000000000,
+            "value": 1220000000000000,
             "probability": 0.00958083832335329
         },
         {
@@ -176,6 +161,36 @@
         },
         {
             "player": {
+                "id": 5661,
+                "name": "페르난도 모리엔테스",
+                "season": "DCB",
+                "season_no": 846,
+                "ovr": 134,
+                "position": "ST",
+                "nation": 45,
+                "upgrade": 9,
+                "pay": 29
+            },
+            "value": 1210000000000000,
+            "probability": 0.00958083832335329
+        },
+        {
+            "player": {
+                "id": 250,
+                "name": "데이비드 베컴",
+                "season": "DCB",
+                "season_no": 846,
+                "ovr": 136,
+                "position": "CM",
+                "nation": 14,
+                "upgrade": 9,
+                "pay": 30
+            },
+            "value": 1170000000000000,
+            "probability": 0.0143712574850299
+        },
+        {
+            "player": {
                 "id": 183277,
                 "name": "에덴 아자르",
                 "season": "DCB",
@@ -187,51 +202,6 @@
                 "pay": 30
             },
             "value": 1110000000000000,
-            "probability": 0.0143712574850299
-        },
-        {
-            "player": {
-                "id": 5661,
-                "name": "페르난도 모리엔테스",
-                "season": "DCB",
-                "season_no": 846,
-                "ovr": 134,
-                "position": "ST",
-                "nation": 45,
-                "upgrade": 9,
-                "pay": 29
-            },
-            "value": 1100000000000000,
-            "probability": 0.0143712574850299
-        },
-        {
-            "player": {
-                "id": 177003,
-                "name": "루카 모드리치",
-                "season": "DCB",
-                "season_no": 846,
-                "ovr": 135,
-                "position": "CM",
-                "nation": 10,
-                "upgrade": 9,
-                "pay": 30
-            },
-            "value": 904000000000000,
-            "probability": 0.0143712574850299
-        },
-        {
-            "player": {
-                "id": 190460,
-                "name": "크리스티안 에릭센",
-                "season": "DCB",
-                "season_no": 846,
-                "ovr": 132,
-                "position": "CAM",
-                "nation": 13,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 900000000000000,
             "probability": 0.0143712574850299
         },
         {
@@ -261,7 +231,37 @@
                 "upgrade": 9,
                 "pay": 30
             },
-            "value": 770000000000000,
+            "value": 850000000000000,
+            "probability": 0.0143712574850299
+        },
+        {
+            "player": {
+                "id": 177003,
+                "name": "루카 모드리치",
+                "season": "DCB",
+                "season_no": 846,
+                "ovr": 135,
+                "position": "CM",
+                "nation": 10,
+                "upgrade": 9,
+                "pay": 30
+            },
+            "value": 814000000000000,
+            "probability": 0.0143712574850299
+        },
+        {
+            "player": {
+                "id": 190460,
+                "name": "크리스티안 에릭센",
+                "season": "DCB",
+                "season_no": 846,
+                "ovr": 132,
+                "position": "CAM",
+                "nation": 13,
+                "upgrade": 9,
+                "pay": 28
+            },
+            "value": 810000000000000,
             "probability": 0.0179640718562874
         },
         {
@@ -336,7 +336,22 @@
                 "upgrade": 9,
                 "pay": 30
             },
-            "value": 661000000000000,
+            "value": 664000000000000,
+            "probability": 0.029940119760478997
+        },
+        {
+            "player": {
+                "id": 243812,
+                "name": "호드리구",
+                "season": "DCB",
+                "season_no": 846,
+                "ovr": 133,
+                "position": "RW",
+                "nation": 54,
+                "upgrade": 9,
+                "pay": 28
+            },
+            "value": 638000000000000,
             "probability": 0.029940119760478997
         },
         {
@@ -351,7 +366,7 @@
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 655000000000000,
+            "value": 630000000000000,
             "probability": 0.029940119760478997
         },
         {
@@ -371,21 +386,6 @@
         },
         {
             "player": {
-                "id": 243812,
-                "name": "호드리구",
-                "season": "DCB",
-                "season_no": 846,
-                "ovr": 133,
-                "position": "RW",
-                "nation": 54,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 614000000000000,
-            "probability": 0.029940119760478997
-        },
-        {
-            "player": {
                 "id": 5471,
                 "name": "프랭크 램파드",
                 "season": "DCB",
@@ -398,6 +398,21 @@
             },
             "value": 567000000000000,
             "probability": 0.029940119760478997
+        },
+        {
+            "player": {
+                "id": 5740,
+                "name": "야프 스탐",
+                "season": "DCB",
+                "season_no": 846,
+                "ovr": 133,
+                "position": "CB",
+                "nation": 34,
+                "upgrade": 9,
+                "pay": 28
+            },
+            "value": 564000000000000,
+            "probability": 0.0419161676646707
         },
         {
             "player": {
@@ -431,36 +446,6 @@
         },
         {
             "player": {
-                "id": 5740,
-                "name": "야프 스탐",
-                "season": "DCB",
-                "season_no": 846,
-                "ovr": 133,
-                "position": "CB",
-                "nation": 34,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 512000000000000,
-            "probability": 0.0419161676646707
-        },
-        {
-            "player": {
-                "id": 184943,
-                "name": "하미레스",
-                "season": "DCB",
-                "season_no": 846,
-                "ovr": 134,
-                "position": "LM",
-                "nation": 54,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 463000000000000,
-            "probability": 0.0419161676646707
-        },
-        {
-            "player": {
                 "id": 228618,
                 "name": "페를랑 멘디",
                 "season": "DCB",
@@ -476,21 +461,6 @@
         },
         {
             "player": {
-                "id": 192505,
-                "name": "로멜루 루카쿠",
-                "season": "DCB",
-                "season_no": 846,
-                "ovr": 129,
-                "position": "ST",
-                "nation": 7,
-                "upgrade": 9,
-                "pay": 27
-            },
-            "value": 429000000000000,
-            "probability": 0.0419161676646707
-        },
-        {
-            "player": {
                 "id": 176944,
                 "name": "마루안 펠라이니",
                 "season": "DCB",
@@ -501,7 +471,7 @@
                 "upgrade": 9,
                 "pay": 27
             },
-            "value": 416000000000000,
+            "value": 430000000000000,
             "probability": 0.0419161676646707
         },
         {
@@ -531,7 +501,37 @@
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 370000000000000,
+            "value": 407000000000000,
+            "probability": 0.0419161676646707
+        },
+        {
+            "player": {
+                "id": 192505,
+                "name": "로멜루 루카쿠",
+                "season": "DCB",
+                "season_no": 846,
+                "ovr": 129,
+                "position": "ST",
+                "nation": 7,
+                "upgrade": 9,
+                "pay": 27
+            },
+            "value": 392000000000000,
+            "probability": 0.0419161676646707
+        },
+        {
+            "player": {
+                "id": 184943,
+                "name": "하미레스",
+                "season": "DCB",
+                "season_no": 846,
+                "ovr": 134,
+                "position": "LM",
+                "nation": 54,
+                "upgrade": 9,
+                "pay": 28
+            },
+            "value": 378000000000000,
             "probability": 0.0419161676646707
         },
         {
@@ -561,22 +561,7 @@
                 "upgrade": 9,
                 "pay": 27
             },
-            "value": 302000000000000,
-            "probability": 0.0419161676646707
-        },
-        {
-            "player": {
-                "id": 193747,
-                "name": "코케",
-                "season": "DCB",
-                "season_no": 846,
-                "ovr": 130,
-                "position": "CDM",
-                "nation": 45,
-                "upgrade": 9,
-                "pay": 27
-            },
-            "value": 275000000000000,
+            "value": 310000000000000,
             "probability": 0.0419161676646707
         },
         {
@@ -607,6 +592,21 @@
                 "pay": 27
             },
             "value": 260000000000000,
+            "probability": 0.0419161676646707
+        },
+        {
+            "player": {
+                "id": 193747,
+                "name": "코케",
+                "season": "DCB",
+                "season_no": 846,
+                "ovr": 130,
+                "position": "CDM",
+                "nation": 45,
+                "upgrade": 9,
+                "pay": 27
+            },
+            "value": 248000000000000,
             "probability": 0.0419161676646707
         },
         {
