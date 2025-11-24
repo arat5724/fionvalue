@@ -4,57 +4,43 @@
     "name": "[WS, FAC, 25DP 모두 드림 or BP] 반반 상자 + 미니 보너스",
     "image": "/assets/image/item/14509_s.png",
     "price": 4900,
-    "efficiency": 0.0,
-    "expectedBp": 0,
+    "efficiency": 92573.26207303503,
+    "expectedBp": 45360898415787.164,
     "expectedValue": {
-        "[WS, FAC, 25DP 모두 드림 or BP] 반반 상자": 1,
-        "[미니 보너스] 25KB 1~8강 선수팩": 1
+        "bp_player": 31835898415787.164,
+        "bp_card": 13525000000000.0
     },
-    "efficiency1": 0.0,
-    "expectedBp1": 0,
+    "efficiency1": 92573.26207303503,
+    "expectedBp1": 45360898415787.164,
     "expectedValue1": {
-        "[WS, FAC, 25DP 모두 드림 or BP] 반반 상자": 1,
-        "[미니 보너스] 25KB 1~8강 선수팩": 1
+        "bp_player": 31835898415787.164,
+        "bp_card": 13525000000000.0
     },
-    "percentile": {
-        "0": 0,
-        "1": 0,
-        "2": 0,
-        "5": 0,
-        "10": 0,
-        "20": 0,
-        "30": 0,
-        "40": 0,
-        "50": 0,
-        "60": 0,
-        "70": 0,
-        "80": 0,
-        "90": 0,
-        "100": 0
-    },
+    "percentile": null,
     "itemList": [
         {
             "item": {
-                "type": "other",
-                "id": -1,
+                "type": "box",
+                "id": "20247",
                 "name": "[WS, FAC, 25DP 모두 드림 or BP] 반반 상자",
                 "image": "/assets/image/item/201708863_s.png",
-                "expectedBp": 0,
+                "expectedBp": 44276277947865.44,
                 "expectedValue": {
-                    "[WS, FAC, 25DP 모두 드림 or BP] 반반 상자": 1
+                    "bp_player": 30751277947865.44,
+                    "bp_card": 13525000000000.0
                 }
             },
             "amount": 1
         },
         {
             "item": {
-                "type": "other",
-                "id": -1,
+                "type": "player-pack",
+                "id": "20223",
                 "name": "[미니 보너스] 25KB 1~8강 선수팩",
                 "image": "/assets/image/item/200231696_s.png",
-                "expectedBp": 0,
+                "expectedBp": 1084620467921.722,
                 "expectedValue": {
-                    "[미니 보너스] 25KB 1~8강 선수팩": 1
+                    "bp_player": 1084620467921.722
                 }
             },
             "amount": 1

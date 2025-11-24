@@ -4,57 +4,56 @@
     "name": "[마일리지][FAC, 25KB 기회] 고급 패키지",
     "image": "/assets/image/item/31497_s.png",
     "price": 25000,
-    "efficiency": 0.0,
-    "expectedBp": 0,
+    "efficiency": 2014.1837044140375,
+    "expectedBp": 5035459261035.094,
     "expectedValue": {
-        "[마일리지] NO.7, LE 포함 Top Price 380 (5~6강, 112+)": 1,
-        "[마일리지] 행운의 BP 카드 (1.5조~4조)": 1,
-        "[마일리지] FAC or 25KB or BP 상자": 1
+        "bp_player": 3315959261035.0933,
+        "bp_card": 1719500000000.0
     },
-    "efficiency1": 0.0,
-    "expectedBp1": 0,
+    "efficiency1": 2014.1837044140375,
+    "expectedBp1": 5035459261035.094,
     "expectedValue1": {
-        "[마일리지] NO.7, LE 포함 Top Price 380 (5~6강, 112+)": 1,
-        "[마일리지] 행운의 BP 카드 (1.5조~4조)": 1,
-        "[마일리지] FAC or 25KB or BP 상자": 1
+        "bp_player": 3315959261035.0933,
+        "bp_card": 1719500000000.0
     },
     "percentile": null,
     "itemList": [
         {
             "item": {
-                "type": "other",
-                "id": -1,
+                "type": "player-pack",
+                "id": "20186",
                 "name": "[마일리지] NO.7, LE 포함 Top Price 380 (5~6강, 112+)",
                 "image": "/assets/image/item/200237275_s.png",
-                "expectedBp": 0,
+                "expectedBp": 3221600721706.687,
                 "expectedValue": {
-                    "[마일리지] NO.7, LE 포함 Top Price 380 (5~6강, 112+)": 1
+                    "bp_player": 3221600721706.687
                 }
             },
             "amount": 1
         },
         {
             "item": {
-                "type": "other",
-                "id": -1,
+                "type": "bp",
+                "id": "20191",
                 "name": "[마일리지] 행운의 BP 카드 (1.5조~4조)",
                 "image": "/assets/image/item/200337091_s.png",
-                "expectedBp": 0,
+                "expectedBp": 1700000000000.0,
                 "expectedValue": {
-                    "[마일리지] 행운의 BP 카드 (1.5조~4조)": 1
+                    "bp_card": 1700000000000.0
                 }
             },
             "amount": 1
         },
         {
             "item": {
-                "type": "other",
-                "id": -1,
+                "type": "box",
+                "id": "20195",
                 "name": "[마일리지] FAC or 25KB or BP 상자",
                 "image": "/assets/image/item/201708871_s.png",
-                "expectedBp": 0,
+                "expectedBp": 113858539328.40607,
                 "expectedValue": {
-                    "[마일리지] FAC or 25KB or BP 상자": 1
+                    "bp_player": 94358539328.40607,
+                    "bp_card": 19500000000.0
                 }
             },
             "amount": 1

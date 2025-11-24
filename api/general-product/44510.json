@@ -4,57 +4,43 @@
     "name": "[묶음할인] FAC 에디션 상자 X 4 + 미니보너스",
     "image": "/assets/image/item/14510_s.png",
     "price": 7300,
-    "efficiency": 0.0,
-    "expectedBp": 0,
+    "efficiency": 82695.52706589847,
+    "expectedBp": 60367734758105.88,
     "expectedValue": {
-        "FAC 에디션 상자": 4,
-        "[미니 보너스] 25KB 1~8강 선수팩": 2
+        "bp_player": 41931734758105.88,
+        "bp_card": 18436000000000.0
     },
-    "efficiency1": 0.0,
-    "expectedBp1": 0,
+    "efficiency1": 82695.52706589847,
+    "expectedBp1": 60367734758105.88,
     "expectedValue1": {
-        "FAC 에디션 상자": 4,
-        "[미니 보너스] 25KB 1~8강 선수팩": 2
+        "bp_player": 41931734758105.88,
+        "bp_card": 18436000000000.0
     },
-    "percentile": {
-        "0": 0,
-        "1": 0,
-        "2": 0,
-        "5": 0,
-        "10": 0,
-        "20": 0,
-        "30": 0,
-        "40": 0,
-        "50": 0,
-        "60": 0,
-        "70": 0,
-        "80": 0,
-        "90": 0,
-        "100": 0
-    },
+    "percentile": null,
     "itemList": [
         {
             "item": {
-                "type": "other",
-                "id": -1,
+                "type": "box",
+                "id": "20249",
                 "name": "FAC 에디션 상자",
                 "image": "/assets/image/item/201708865_s.png",
-                "expectedBp": 0,
+                "expectedBp": 14549623455565.61,
                 "expectedValue": {
-                    "FAC 에디션 상자": 1
+                    "bp_player": 9940623455565.61,
+                    "bp_card": 4609000000000.0
                 }
             },
             "amount": 4
         },
         {
             "item": {
-                "type": "other",
-                "id": -1,
+                "type": "player-pack",
+                "id": "20223",
                 "name": "[미니 보너스] 25KB 1~8강 선수팩",
                 "image": "/assets/image/item/200231696_s.png",
-                "expectedBp": 0,
+                "expectedBp": 1084620467921.722,
                 "expectedValue": {
-                    "[미니 보너스] 25KB 1~8강 선수팩": 1
+                    "bp_player": 1084620467921.722
                 }
             },
             "amount": 2

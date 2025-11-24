@@ -4,59 +4,58 @@
     "name": "[FAC 5강 이상 확정 + FAC 9강 기회] FAC 프리미엄 패키지",
     "image": "/assets/image/item/14506_s.png",
     "price": 14900,
-    "efficiency": 0.0,
-    "expectedBp": 0,
+    "efficiency": 74122.9217128568,
+    "expectedBp": 110443153352156.62,
     "expectedValue": {
-        "[11강 기회] 프리미엄 상자": 1,
-        "[9강 기회] FAC 올인원 모두 드림 상자": 1,
-        "[미니 보너스] 25KB 1~9강 선수팩": 1,
+        "bp_player": 93814653352156.62,
+        "bp_card": 16628499999999.998,
         "[25.11] 교환 티켓 (2개=전체 수수료 50% 할인 쿠폰)(~25.12.04)": 1
     },
-    "efficiency1": 0.0,
-    "expectedBp1": 0,
+    "efficiency1": 74122.9217128568,
+    "expectedBp1": 110443153352156.62,
     "expectedValue1": {
-        "[11강 기회] 프리미엄 상자": 1,
-        "[9강 기회] FAC 올인원 모두 드림 상자": 1,
-        "[미니 보너스] 25KB 1~9강 선수팩": 1,
+        "bp_player": 93814653352156.62,
+        "bp_card": 16628499999999.998,
         "[25.11] 교환 티켓 (2개=전체 수수료 50% 할인 쿠폰)(~25.12.04)": 1
     },
     "percentile": null,
     "itemList": [
         {
             "item": {
-                "type": "other",
-                "id": -1,
+                "type": "box",
+                "id": "20244",
                 "name": "[11강 기회] 프리미엄 상자",
                 "image": "/assets/image/item/201708860_s.png",
-                "expectedBp": 0,
+                "expectedBp": 89656184346943.88,
                 "expectedValue": {
-                    "[11강 기회] 프리미엄 상자": 1
+                    "bp_player": 73027684346943.88,
+                    "bp_card": 16628499999999.998
                 }
             },
             "amount": 1
         },
         {
             "item": {
-                "type": "other",
-                "id": -1,
+                "type": "box",
+                "id": "20245",
                 "name": "[9강 기회] FAC 올인원 모두 드림 상자",
                 "image": "/assets/image/item/201708861_s.png",
-                "expectedBp": 0,
+                "expectedBp": 17625641567926.133,
                 "expectedValue": {
-                    "[9강 기회] FAC 올인원 모두 드림 상자": 1
+                    "bp_player": 17625641567926.133
                 }
             },
             "amount": 1
         },
         {
             "item": {
-                "type": "other",
-                "id": -1,
+                "type": "player-pack",
+                "id": "20208",
                 "name": "[미니 보너스] 25KB 1~9강 선수팩",
                 "image": "/assets/image/item/200231681_s.png",
-                "expectedBp": 0,
+                "expectedBp": 3161327437286.62,
                 "expectedValue": {
-                    "[미니 보너스] 25KB 1~9강 선수팩": 1
+                    "bp_player": 3161327437286.62
                 }
             },
             "amount": 1

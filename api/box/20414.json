@@ -1,0 +1,77 @@
+{
+    "type": "box",
+    "id": "20414",
+    "name": "[AG][5조 BP 찬스][25.11] 위클리 2인 트레이드 의뢰 상자",
+    "image": null,
+    "expectedBp": 34736447774.349915,
+    "expectedValue": {
+        "bp_card": 34736447774.349915,
+        "[AG][GRU 포함] 멀티 클래스 Top Price 9500 선수팩 (1~8강)": 0.6498999999999999
+    },
+    "expectedBp1": 34736447774.349915,
+    "expectedValue1": {
+        "bp_card": 34736447774.349915,
+        "[AG][GRU 포함] 멀티 클래스 Top Price 9500 선수팩 (1~8강)": 0.6498999999999999
+    },
+    "percentile": {
+        "0": 5000000000000,
+        "1": 275000000000,
+        "2": 200000000000,
+        "5": 100000000000,
+        "10": 85000000000,
+        "20": 70000000000,
+        "30": 60000000000,
+        "40": 0,
+        "50": 0,
+        "60": 0,
+        "70": 0,
+        "80": 0,
+        "90": 0,
+        "100": 0
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "bp",
+                "id": -1,
+                "name": "[AG] BP 카드 5,000,000,000,000",
+                "image": null,
+                "expectedBp": 5000000000000,
+                "expectedValue": {
+                    "bp_card": 5000000000000
+                }
+            },
+            "amount": 1,
+            "probability": 0.0001
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[AG][GRU 포함] 멀티 클래스 Top Price 9500 선수팩 (1~8강)",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[AG][GRU 포함] 멀티 클래스 Top Price 9500 선수팩 (1~8강)": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.6498999999999999
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "20285",
+                "name": "[AG] 행운의 BP 카드 (600억~5조 BP)",
+                "image": null,
+                "expectedBp": 97818422212.42833,
+                "expectedValue": {
+                    "bp_card": 97818422212.42833
+                }
+            },
+            "amount": 1,
+            "probability": 0.35
+        }
+    ],
+    "additionalInfoWithAmount": null
+}
