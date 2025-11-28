@@ -3,57 +3,27 @@
     "id": "20138",
     "name": "[열쇠 800개][동일확률] 25KB Top Price All (9강)",
     "image": null,
-    "expectedBp": 209338000000000.0,
+    "expectedBp": 367030000000000.0,
     "expectedValue": {
-        "bp_player": 209338000000000.0
+        "bp_player": 367030000000000.0
     },
     "percentile": {
-        "0": 763000000000000,
-        "1": 763000000000000,
-        "2": 763000000000000,
-        "5": 590000000000000,
-        "10": 400000000000000,
-        "20": 331000000000000,
-        "30": 244000000000000,
-        "40": 213000000000000,
-        "50": 154000000000000,
-        "60": 120000000000000,
-        "70": 97300000000000,
-        "80": 84400000000000,
-        "90": 65800000000000,
-        "100": 41800000000000
+        "0": 1300000000000000,
+        "1": 1300000000000000,
+        "2": 1300000000000000,
+        "5": 782000000000000,
+        "10": 747000000000000,
+        "20": 523000000000000,
+        "30": 455000000000000,
+        "40": 393000000000000,
+        "50": 284000000000000,
+        "60": 254000000000000,
+        "70": 184000000000000,
+        "80": 145000000000000,
+        "90": 103000000000000,
+        "100": 73500000000000
     },
     "playerList": [
-        {
-            "player": {
-                "id": 227659,
-                "name": "김진규",
-                "season": "25KB",
-                "season_no": 853,
-                "ovr": 134,
-                "position": "CM",
-                "nation": 167,
-                "upgrade": 9,
-                "pay": 29
-            },
-            "value": 763000000000000,
-            "probability": 0.02
-        },
-        {
-            "player": {
-                "id": 242004,
-                "name": "전진우",
-                "season": "25KB",
-                "season_no": 853,
-                "ovr": 134,
-                "position": "RW",
-                "nation": 167,
-                "upgrade": 9,
-                "pay": 29
-            },
-            "value": 696000000000000,
-            "probability": 0.02
-        },
         {
             "player": {
                 "id": 245054,
@@ -66,7 +36,22 @@
                 "upgrade": 9,
                 "pay": 30
             },
-            "value": 590000000000000,
+            "value": 1300000000000000,
+            "probability": 0.02
+        },
+        {
+            "player": {
+                "id": 227659,
+                "name": "김진규",
+                "season": "25KB",
+                "season_no": 853,
+                "ovr": 134,
+                "position": "CM",
+                "nation": 167,
+                "upgrade": 9,
+                "pay": 29
+            },
+            "value": 1220000000000000,
             "probability": 0.02
         },
         {
@@ -81,22 +66,22 @@
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 431000000000000,
+            "value": 782000000000000,
             "probability": 0.02
         },
         {
             "player": {
-                "id": 199231,
-                "name": "김태환",
+                "id": 242004,
+                "name": "전진우",
                 "season": "25KB",
                 "season_no": 853,
-                "ovr": 132,
-                "position": "RB",
+                "ovr": 134,
+                "position": "RW",
                 "nation": 167,
                 "upgrade": 9,
-                "pay": 27
+                "pay": 29
             },
-            "value": 400000000000000,
+            "value": 766000000000000,
             "probability": 0.02
         },
         {
@@ -111,52 +96,7 @@
                 "upgrade": 9,
                 "pay": 30
             },
-            "value": 400000000000000,
-            "probability": 0.02
-        },
-        {
-            "player": {
-                "id": 213317,
-                "name": "김진수",
-                "season": "25KB",
-                "season_no": 853,
-                "ovr": 133,
-                "position": "LB",
-                "nation": 167,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 396000000000000,
-            "probability": 0.02
-        },
-        {
-            "player": {
-                "id": 272992,
-                "name": "모따",
-                "season": "25KB",
-                "season_no": 853,
-                "ovr": 134,
-                "position": "ST",
-                "nation": 54,
-                "upgrade": 9,
-                "pay": 29
-            },
-            "value": 376000000000000,
-            "probability": 0.02
-        },
-        {
-            "player": {
-                "id": 245848,
-                "name": "카이오",
-                "season": "25KB",
-                "season_no": 853,
-                "ovr": 132,
-                "position": "CB",
-                "nation": 54,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 361000000000000,
+            "value": 747000000000000,
             "probability": 0.02
         },
         {
@@ -171,22 +111,22 @@
                 "upgrade": 9,
                 "pay": 29
             },
-            "value": 337000000000000,
+            "value": 711000000000000,
             "probability": 0.02
         },
         {
             "player": {
-                "id": 262447,
-                "name": "콤파뇨",
+                "id": 245848,
+                "name": "카이오",
                 "season": "25KB",
                 "season_no": 853,
-                "ovr": 133,
-                "position": "ST",
-                "nation": 27,
+                "ovr": 132,
+                "position": "CB",
+                "nation": 54,
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 331000000000000,
+            "value": 683000000000000,
             "probability": 0.02
         },
         {
@@ -201,82 +141,37 @@
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 329000000000000,
+            "value": 642000000000000,
             "probability": 0.02
         },
         {
             "player": {
-                "id": 243672,
-                "name": "김태현",
+                "id": 262447,
+                "name": "콤파뇨",
                 "season": "25KB",
                 "season_no": 853,
                 "ovr": 133,
-                "position": "LB",
-                "nation": 167,
+                "position": "ST",
+                "nation": 27,
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 325000000000000,
+            "value": 586000000000000,
             "probability": 0.02
         },
         {
             "player": {
-                "id": 73466,
-                "name": "야잔",
-                "season": "25KB",
-                "season_no": 853,
-                "ovr": 132,
-                "position": "CB",
-                "nation": 164,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 262000000000000,
-            "probability": 0.02
-        },
-        {
-            "player": {
-                "id": 222582,
-                "name": "김영빈",
-                "season": "25KB",
-                "season_no": 853,
-                "ovr": 132,
-                "position": "CB",
-                "nation": 167,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 244000000000000,
-            "probability": 0.02
-        },
-        {
-            "player": {
-                "id": 233078,
-                "name": "싸박",
+                "id": 272992,
+                "name": "모따",
                 "season": "25KB",
                 "season_no": 853,
                 "ovr": 134,
                 "position": "ST",
-                "nation": null,
+                "nation": 54,
                 "upgrade": 9,
                 "pay": 29
             },
-            "value": 236000000000000,
-            "probability": 0.02
-        },
-        {
-            "player": {
-                "id": 261115,
-                "name": "이호재",
-                "season": "25KB",
-                "season_no": 853,
-                "ovr": 134,
-                "position": "ST",
-                "nation": 167,
-                "upgrade": 9,
-                "pay": 29
-            },
-            "value": 226000000000000,
+            "value": 581000000000000,
             "probability": 0.02
         },
         {
@@ -291,43 +186,43 @@
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 220000000000000,
+            "value": 523000000000000,
             "probability": 0.02
         },
         {
             "player": {
-                "id": 238570,
-                "name": "송범근",
-                "season": "25KB",
-                "season_no": 853,
-                "ovr": 134,
-                "position": "GK",
-                "nation": 167,
-                "upgrade": 9,
-                "pay": 26
-            },
-            "value": 218000000000000,
-            "probability": 0.02
-        },
-        {
-            "player": {
-                "id": 261078,
-                "name": "어정원",
+                "id": 73466,
+                "name": "야잔",
                 "season": "25KB",
                 "season_no": 853,
                 "ovr": 132,
-                "position": "LB",
-                "nation": 167,
+                "position": "CB",
+                "nation": 164,
                 "upgrade": 9,
-                "pay": 27
+                "pay": 28
             },
-            "value": 213000000000000,
+            "value": 496000000000000,
             "probability": 0.02
         },
         {
             "player": {
-                "id": 227791,
-                "name": "이태희",
+                "id": 261115,
+                "name": "이호재",
+                "season": "25KB",
+                "season_no": 853,
+                "ovr": 134,
+                "position": "ST",
+                "nation": 167,
+                "upgrade": 9,
+                "pay": 29
+            },
+            "value": 477000000000000,
+            "probability": 0.02
+        },
+        {
+            "player": {
+                "id": 199231,
+                "name": "김태환",
                 "season": "25KB",
                 "season_no": 853,
                 "ovr": 132,
@@ -336,7 +231,22 @@
                 "upgrade": 9,
                 "pay": 27
             },
-            "value": 200000000000000,
+            "value": 471000000000000,
+            "probability": 0.02
+        },
+        {
+            "player": {
+                "id": 222582,
+                "name": "김영빈",
+                "season": "25KB",
+                "season_no": 853,
+                "ovr": 132,
+                "position": "CB",
+                "nation": 167,
+                "upgrade": 9,
+                "pay": 28
+            },
+            "value": 455000000000000,
             "probability": 0.02
         },
         {
@@ -351,7 +261,37 @@
                 "upgrade": 9,
                 "pay": 27
             },
-            "value": 197000000000000,
+            "value": 448000000000000,
+            "probability": 0.02
+        },
+        {
+            "player": {
+                "id": 261078,
+                "name": "어정원",
+                "season": "25KB",
+                "season_no": 853,
+                "ovr": 132,
+                "position": "LB",
+                "nation": 167,
+                "upgrade": 9,
+                "pay": 27
+            },
+            "value": 436000000000000,
+            "probability": 0.02
+        },
+        {
+            "player": {
+                "id": 213317,
+                "name": "김진수",
+                "season": "25KB",
+                "season_no": 853,
+                "ovr": 133,
+                "position": "LB",
+                "nation": 167,
+                "upgrade": 9,
+                "pay": 28
+            },
+            "value": 435000000000000,
             "probability": 0.02
         },
         {
@@ -366,22 +306,52 @@
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 190000000000000,
+            "value": 407000000000000,
             "probability": 0.02
         },
         {
             "player": {
-                "id": 240280,
-                "name": "마테우스",
+                "id": 243672,
+                "name": "김태현",
                 "season": "25KB",
                 "season_no": 853,
                 "ovr": 133,
-                "position": "CAM",
-                "nation": 54,
+                "position": "LB",
+                "nation": 167,
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 157000000000000,
+            "value": 393000000000000,
+            "probability": 0.02
+        },
+        {
+            "player": {
+                "id": 233078,
+                "name": "싸박",
+                "season": "25KB",
+                "season_no": 853,
+                "ovr": 134,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 9,
+                "pay": 29
+            },
+            "value": 365000000000000,
+            "probability": 0.02
+        },
+        {
+            "player": {
+                "id": 227791,
+                "name": "이태희",
+                "season": "25KB",
+                "season_no": 853,
+                "ovr": 132,
+                "position": "RB",
+                "nation": 167,
+                "upgrade": 9,
+                "pay": 27
+            },
+            "value": 329000000000000,
             "probability": 0.02
         },
         {
@@ -396,52 +366,37 @@
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 154000000000000,
+            "value": 318000000000000,
             "probability": 0.02
         },
         {
             "player": {
-                "id": 233286,
-                "name": "황인재",
+                "id": 238570,
+                "name": "송범근",
                 "season": "25KB",
                 "season_no": 853,
-                "ovr": 132,
+                "ovr": 134,
                 "position": "GK",
                 "nation": 167,
                 "upgrade": 9,
-                "pay": 24
+                "pay": 26
             },
-            "value": 140000000000000,
+            "value": 290000000000000,
             "probability": 0.02
         },
         {
             "player": {
-                "id": 260396,
-                "name": "박상혁",
+                "id": 240280,
+                "name": "마테우스",
                 "season": "25KB",
                 "season_no": 853,
-                "ovr": 132,
-                "position": "ST",
-                "nation": 167,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 139000000000000,
-            "probability": 0.02
-        },
-        {
-            "player": {
-                "id": 207494,
-                "name": "제시 린가드",
-                "season": "25KB",
-                "season_no": 853,
-                "ovr": 131,
+                "ovr": 133,
                 "position": "CAM",
-                "nation": 14,
+                "nation": 54,
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 124000000000000,
+            "value": 284000000000000,
             "probability": 0.02
         },
         {
@@ -456,7 +411,7 @@
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 124000000000000,
+            "value": 267000000000000,
             "probability": 0.02
         },
         {
@@ -471,22 +426,22 @@
                 "upgrade": 9,
                 "pay": 27
             },
-            "value": 120000000000000,
+            "value": 260000000000000,
             "probability": 0.02
         },
         {
             "player": {
-                "id": 227632,
-                "name": "전민광",
+                "id": 260396,
+                "name": "박상혁",
                 "season": "25KB",
                 "season_no": 853,
                 "ovr": 132,
-                "position": "CB",
+                "position": "ST",
                 "nation": 167,
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 109000000000000,
+            "value": 260000000000000,
             "probability": 0.02
         },
         {
@@ -501,22 +456,37 @@
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 105000000000000,
+            "value": 258000000000000,
             "probability": 0.02
         },
         {
             "player": {
-                "id": 260474,
-                "name": "김봉수",
+                "id": 207494,
+                "name": "제시 린가드",
+                "season": "25KB",
+                "season_no": 853,
+                "ovr": 131,
+                "position": "CAM",
+                "nation": 14,
+                "upgrade": 9,
+                "pay": 28
+            },
+            "value": 254000000000000,
+            "probability": 0.02
+        },
+        {
+            "player": {
+                "id": 233286,
+                "name": "황인재",
                 "season": "25KB",
                 "season_no": 853,
                 "ovr": 132,
-                "position": "CDM",
+                "position": "GK",
                 "nation": 167,
                 "upgrade": 9,
-                "pay": 27
+                "pay": 24
             },
-            "value": 99600000000000,
+            "value": 232000000000000,
             "probability": 0.02
         },
         {
@@ -531,7 +501,7 @@
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 99200000000000,
+            "value": 213000000000000,
             "probability": 0.02
         },
         {
@@ -546,52 +516,22 @@
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 97300000000000,
+            "value": 206000000000000,
             "probability": 0.02
         },
         {
             "player": {
-                "id": 232232,
-                "name": "김정현",
-                "season": "25KB",
-                "season_no": 853,
-                "ovr": 132,
-                "position": "CDM",
-                "nation": 167,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 90200000000000,
-            "probability": 0.02
-        },
-        {
-            "player": {
-                "id": 77661,
-                "name": "루안",
-                "season": "25KB",
-                "season_no": 853,
-                "ovr": 133,
-                "position": "CAM",
-                "nation": null,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 89900000000000,
-            "probability": 0.02
-        },
-        {
-            "player": {
-                "id": 263034,
-                "name": "안톤",
+                "id": 227632,
+                "name": "전민광",
                 "season": "25KB",
                 "season_no": 853,
                 "ovr": 132,
                 "position": "CB",
-                "nation": 5,
+                "nation": 167,
                 "upgrade": 9,
-                "pay": 27
+                "pay": 28
             },
-            "value": 88000000000000,
+            "value": 199000000000000,
             "probability": 0.02
         },
         {
@@ -606,22 +546,22 @@
                 "upgrade": 9,
                 "pay": 27
             },
-            "value": 87900000000000,
+            "value": 184000000000000,
             "probability": 0.02
         },
         {
             "player": {
-                "id": 210941,
-                "name": "이창근",
+                "id": 263034,
+                "name": "안톤",
                 "season": "25KB",
                 "season_no": 853,
                 "ovr": 132,
-                "position": "GK",
-                "nation": 167,
+                "position": "CB",
+                "nation": 5,
                 "upgrade": 9,
-                "pay": 24
+                "pay": 27
             },
-            "value": 84400000000000,
+            "value": 180000000000000,
             "probability": 0.02
         },
         {
@@ -636,7 +576,97 @@
                 "upgrade": 9,
                 "pay": 28
             },
-            "value": 82500000000000,
+            "value": 171000000000000,
+            "probability": 0.02
+        },
+        {
+            "player": {
+                "id": 232232,
+                "name": "김정현",
+                "season": "25KB",
+                "season_no": 853,
+                "ovr": 132,
+                "position": "CDM",
+                "nation": 167,
+                "upgrade": 9,
+                "pay": 28
+            },
+            "value": 165000000000000,
+            "probability": 0.02
+        },
+        {
+            "player": {
+                "id": 242821,
+                "name": "김승섭",
+                "season": "25KB",
+                "season_no": 853,
+                "ovr": 131,
+                "position": "LW",
+                "nation": 167,
+                "upgrade": 9,
+                "pay": 27
+            },
+            "value": 161000000000000,
+            "probability": 0.02
+        },
+        {
+            "player": {
+                "id": 260474,
+                "name": "김봉수",
+                "season": "25KB",
+                "season_no": 853,
+                "ovr": 132,
+                "position": "CDM",
+                "nation": 167,
+                "upgrade": 9,
+                "pay": 27
+            },
+            "value": 145000000000000,
+            "probability": 0.02
+        },
+        {
+            "player": {
+                "id": 77661,
+                "name": "루안",
+                "season": "25KB",
+                "season_no": 853,
+                "ovr": 133,
+                "position": "CAM",
+                "nation": null,
+                "upgrade": 9,
+                "pay": 28
+            },
+            "value": 144000000000000,
+            "probability": 0.02
+        },
+        {
+            "player": {
+                "id": 263845,
+                "name": "박승욱",
+                "season": "25KB",
+                "season_no": 853,
+                "ovr": 131,
+                "position": "CB",
+                "nation": 167,
+                "upgrade": 9,
+                "pay": 26
+            },
+            "value": 134000000000000,
+            "probability": 0.02
+        },
+        {
+            "player": {
+                "id": 274035,
+                "name": "이승원",
+                "season": "25KB",
+                "season_no": 853,
+                "ovr": 131,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 9,
+                "pay": 27
+            },
+            "value": 132000000000000,
             "probability": 0.02
         },
         {
@@ -651,7 +681,82 @@
                 "upgrade": 9,
                 "pay": 25
             },
-            "value": 78000000000000,
+            "value": 130000000000000,
+            "probability": 0.02
+        },
+        {
+            "player": {
+                "id": 247844,
+                "name": "이재원",
+                "season": "25KB",
+                "season_no": 853,
+                "ovr": 131,
+                "position": "CDM",
+                "nation": 167,
+                "upgrade": 9,
+                "pay": 27
+            },
+            "value": 103000000000000,
+            "probability": 0.02
+        },
+        {
+            "player": {
+                "id": 210941,
+                "name": "이창근",
+                "season": "25KB",
+                "season_no": 853,
+                "ovr": 132,
+                "position": "GK",
+                "nation": 167,
+                "upgrade": 9,
+                "pay": 24
+            },
+            "value": 95100000000000,
+            "probability": 0.02
+        },
+        {
+            "player": {
+                "id": 274437,
+                "name": "조르지",
+                "season": "25KB",
+                "season_no": 853,
+                "ovr": 130,
+                "position": "ST",
+                "nation": 54,
+                "upgrade": 9,
+                "pay": 27
+            },
+            "value": 85100000000000,
+            "probability": 0.02
+        },
+        {
+            "player": {
+                "id": 193144,
+                "name": "남태희",
+                "season": "25KB",
+                "season_no": 853,
+                "ovr": 130,
+                "position": "CAM",
+                "nation": 167,
+                "upgrade": 9,
+                "pay": 27
+            },
+            "value": 79300000000000,
+            "probability": 0.02
+        },
+        {
+            "player": {
+                "id": 221767,
+                "name": "최경록",
+                "season": "25KB",
+                "season_no": 853,
+                "ovr": 130,
+                "position": "CM",
+                "nation": 167,
+                "upgrade": 9,
+                "pay": 27
+            },
+            "value": 75500000000000,
             "probability": 0.02
         },
         {
@@ -667,111 +772,6 @@
                 "pay": 24
             },
             "value": 73500000000000,
-            "probability": 0.02
-        },
-        {
-            "player": {
-                "id": 242821,
-                "name": "김승섭",
-                "season": "25KB",
-                "season_no": 853,
-                "ovr": 131,
-                "position": "LW",
-                "nation": 167,
-                "upgrade": 9,
-                "pay": 27
-            },
-            "value": 69700000000000,
-            "probability": 0.02
-        },
-        {
-            "player": {
-                "id": 274035,
-                "name": "이승원",
-                "season": "25KB",
-                "season_no": 853,
-                "ovr": 131,
-                "position": "CM",
-                "nation": null,
-                "upgrade": 9,
-                "pay": 27
-            },
-            "value": 65800000000000,
-            "probability": 0.02
-        },
-        {
-            "player": {
-                "id": 263845,
-                "name": "박승욱",
-                "season": "25KB",
-                "season_no": 853,
-                "ovr": 131,
-                "position": "CB",
-                "nation": 167,
-                "upgrade": 9,
-                "pay": 26
-            },
-            "value": 64200000000000,
-            "probability": 0.02
-        },
-        {
-            "player": {
-                "id": 247844,
-                "name": "이재원",
-                "season": "25KB",
-                "season_no": 853,
-                "ovr": 131,
-                "position": "CDM",
-                "nation": 167,
-                "upgrade": 9,
-                "pay": 27
-            },
-            "value": 57300000000000,
-            "probability": 0.02
-        },
-        {
-            "player": {
-                "id": 274437,
-                "name": "조르지",
-                "season": "25KB",
-                "season_no": 853,
-                "ovr": 130,
-                "position": "ST",
-                "nation": 54,
-                "upgrade": 9,
-                "pay": 27
-            },
-            "value": 42700000000000,
-            "probability": 0.02
-        },
-        {
-            "player": {
-                "id": 193144,
-                "name": "남태희",
-                "season": "25KB",
-                "season_no": 853,
-                "ovr": 130,
-                "position": "CAM",
-                "nation": 167,
-                "upgrade": 9,
-                "pay": 27
-            },
-            "value": 41900000000000,
-            "probability": 0.02
-        },
-        {
-            "player": {
-                "id": 221767,
-                "name": "최경록",
-                "season": "25KB",
-                "season_no": 853,
-                "ovr": 130,
-                "position": "CM",
-                "nation": 167,
-                "upgrade": 9,
-                "pay": 27
-            },
-            "value": 41800000000000,
             "probability": 0.02
         }
     ]
