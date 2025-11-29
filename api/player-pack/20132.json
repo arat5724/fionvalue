@@ -3,9 +3,9 @@
     "id": "20132",
     "name": "[레전더리][1250조+] FAC, CH Top Price 22 (9강, 117+)",
     "image": null,
-    "expectedBp": 4623903533370723.0,
+    "expectedBp": 4748592260235557.0,
     "expectedValue": {
-        "bp_player": 4623903533370723.0
+        "bp_player": 4748592260235557.0
     },
     "percentile": {
         "0": 13600000000000000,
@@ -15,13 +15,13 @@
         "10": 8550000000000000,
         "20": 6240000000000000,
         "30": 5220000000000000,
-        "40": 3920000000000000,
-        "50": 3780000000000000,
-        "60": 3490000000000000,
+        "40": 3940000000000000,
+        "50": 3940000000000000,
+        "60": 3640000000000000,
         "70": 3290000000000000,
-        "80": 2430000000000000,
-        "90": 2410000000000000,
-        "100": 2320000000000000
+        "80": 2810000000000000,
+        "90": 2420000000000000,
+        "100": 2350000000000000
     },
     "playerList": [
         {
@@ -161,6 +161,21 @@
         },
         {
             "player": {
+                "id": 189596,
+                "name": "토마스 뮐러",
+                "season": "FAC",
+                "season_no": 852,
+                "ovr": 138,
+                "position": "RW",
+                "nation": 21,
+                "upgrade": 9,
+                "pay": 32
+            },
+            "value": 4520000000000000,
+            "probability": 0.0673022994952328
+        },
+        {
+            "player": {
                 "id": 1397,
                 "name": "지네딘 지단",
                 "season": "CH",
@@ -176,21 +191,6 @@
         },
         {
             "player": {
-                "id": 189596,
-                "name": "토마스 뮐러",
-                "season": "FAC",
-                "season_no": 852,
-                "ovr": 138,
-                "position": "RW",
-                "nation": 21,
-                "upgrade": 9,
-                "pay": 32
-            },
-            "value": 3920000000000000,
-            "probability": 0.0673022994952328
-        },
-        {
-            "player": {
                 "id": 168473,
                 "name": "베켄바워",
                 "season": "FAC",
@@ -201,22 +201,7 @@
                 "upgrade": 9,
                 "pay": 31
             },
-            "value": 3780000000000000,
-            "probability": 0.0785193494111049
-        },
-        {
-            "player": {
-                "id": 176580,
-                "name": "루이스 수아레스",
-                "season": "CH",
-                "season_no": 845,
-                "ovr": 137,
-                "position": "ST",
-                "nation": 60,
-                "upgrade": 9,
-                "pay": 31
-            },
-            "value": 3490000000000000,
+            "value": 3940000000000000,
             "probability": 0.0785193494111049
         },
         {
@@ -231,7 +216,22 @@
                 "upgrade": 9,
                 "pay": 31
             },
-            "value": 3310000000000000,
+            "value": 3640000000000000,
+            "probability": 0.0785193494111049
+        },
+        {
+            "player": {
+                "id": 168473,
+                "name": "베켄바워",
+                "season": "CH",
+                "season_no": 845,
+                "ovr": 137,
+                "position": "CB",
+                "nation": 21,
+                "upgrade": 9,
+                "pay": 31
+            },
+            "value": 3580000000000000,
             "probability": 0.0706674144699944
         },
         {
@@ -251,48 +251,63 @@
         },
         {
             "player": {
-                "id": 168473,
-                "name": "베켄바워",
-                "season": "CH",
-                "season_no": 845,
-                "ovr": 137,
-                "position": "CB",
-                "nation": 21,
-                "upgrade": 9,
-                "pay": 31
-            },
-            "value": 2960000000000000,
-            "probability": 0.054963544587773396
-        },
-        {
-            "player": {
-                "id": 1625,
-                "name": "티에리 앙리",
+                "id": 176580,
+                "name": "루이스 수아레스",
                 "season": "CH",
                 "season_no": 845,
                 "ovr": 137,
                 "position": "ST",
-                "nation": 18,
+                "nation": 60,
                 "upgrade": 9,
-                "pay": 32
+                "pay": 31
             },
-            "value": 2430000000000000,
+            "value": 3200000000000000,
+            "probability": 0.054963544587773396
+        },
+        {
+            "player": {
+                "id": 191208,
+                "name": "차범근",
+                "season": "FAC",
+                "season_no": 852,
+                "ovr": 136,
+                "position": "ST",
+                "nation": 167,
+                "upgrade": 9,
+                "pay": 31
+            },
+            "value": 2810000000000000,
             "probability": 0.0538418395961862
         },
         {
             "player": {
-                "id": 214098,
-                "name": "프랑크 레이카르트",
-                "season": "CH",
-                "season_no": 845,
-                "ovr": 136,
-                "position": "CB",
+                "id": 10264,
+                "name": "뤼트 반니스텔로이",
+                "season": "FAC",
+                "season_no": 852,
+                "ovr": 137,
+                "position": "ST",
                 "nation": 34,
                 "upgrade": 9,
                 "pay": 31
             },
-            "value": 2420000000000000,
+            "value": 2550000000000000,
             "probability": 0.044868199663488505
+        },
+        {
+            "player": {
+                "id": 190048,
+                "name": "게르트 뮐러",
+                "season": "CH",
+                "season_no": 845,
+                "ovr": 137,
+                "position": "ST",
+                "nation": 21,
+                "upgrade": 9,
+                "pay": 32
+            },
+            "value": 2420000000000000,
+            "probability": 0.0358945597307908
         },
         {
             "player": {
@@ -307,21 +322,6 @@
                 "pay": 31
             },
             "value": 2410000000000000,
-            "probability": 0.0358945597307908
-        },
-        {
-            "player": {
-                "id": 190048,
-                "name": "게르트 뮐러",
-                "season": "CH",
-                "season_no": 845,
-                "ovr": 137,
-                "position": "ST",
-                "nation": 21,
-                "upgrade": 9,
-                "pay": 32
-            },
-            "value": 2390000000000000,
             "probability": 0.0336511497476164
         },
         {
@@ -341,17 +341,17 @@
         },
         {
             "player": {
-                "id": 191208,
-                "name": "차범근",
-                "season": "FAC",
-                "season_no": 852,
+                "id": 214098,
+                "name": "프랑크 레이카르트",
+                "season": "CH",
+                "season_no": 845,
                 "ovr": 136,
-                "position": "ST",
-                "nation": 167,
+                "position": "CB",
+                "nation": 34,
                 "upgrade": 9,
                 "pay": 31
             },
-            "value": 2320000000000000,
+            "value": 2350000000000000,
             "probability": 0.012338754907459299
         }
     ]
