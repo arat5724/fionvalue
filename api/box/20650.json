@@ -1,0 +1,79 @@
+{
+    "type": "box",
+    "id": "20650",
+    "name": "[PLAY] 선수팩 + CP + 기초 훈련 교재 묶음 상자",
+    "image": null,
+    "expectedBp": 0,
+    "expectedValue": {
+        "[PLAY] [LD 포함] Top Price 3100 스페셜팩 (1~5강, 95+)": 1.0,
+        "cp_card": 200.0,
+        "기초 훈련 교재": 200.0
+    },
+    "expectedBp1": 0,
+    "expectedValue1": {
+        "[PLAY] [LD 포함] Top Price 3100 스페셜팩 (1~5강, 95+)": 1.0,
+        "cp_card": 200.0,
+        "기초 훈련 교재": 200.0
+    },
+    "percentile": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "5": 0,
+        "10": 0,
+        "20": 0,
+        "30": 0,
+        "40": 0,
+        "50": 0,
+        "60": 0,
+        "70": 0,
+        "80": 0,
+        "90": 0,
+        "100": 0
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[PLAY] [LD 포함] Top Price 3100 스페셜팩 (1~5강, 95+)",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[PLAY] [LD 포함] Top Price 3100 스페셜팩 (1~5강, 95+)": 1
+                }
+            },
+            "amount": 1,
+            "probability": 1.0
+        },
+        {
+            "item": {
+                "type": "cp",
+                "id": -1,
+                "name": "[PLAY] CP 카드 200",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "cp_card": 200
+                }
+            },
+            "amount": 1,
+            "probability": 1.0
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "기초 훈련 교재",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "기초 훈련 교재": 1
+                }
+            },
+            "amount": 200,
+            "probability": 1.0
+        }
+    ],
+    "additionalInfoWithAmount": null
+}

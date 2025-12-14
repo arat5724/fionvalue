@@ -1,0 +1,139 @@
+{
+    "type": "box",
+    "id": "20649",
+    "name": "[A] [BLD 8강 포함] 아크로바틱 플레이 상자",
+    "image": null,
+    "expectedBp": 14839277259.237,
+    "expectedValue": {
+        "[PLAY] [BLD 포함] Top Price 800 스페셜팩 (8강, 103+)": 0.00020612181799443502,
+        "[PLAY] [GRU 포함] Top Price 3900 스페셜팩 (3~6강, 100+)": 0.247346181593322,
+        "[PLAY] [CU 포함] Top Price 5700 스페셜팩 (2~6강, 95+)": 0.309182726991652,
+        "[PLAY] [24EP 포함] Top Price 2300 스페셜팩 (1~5강, 95+)": 0.309182726991652,
+        "bp_card": 14839277259.237
+    },
+    "expectedBp1": 14839277259.237,
+    "expectedValue1": {
+        "[PLAY] [BLD 포함] Top Price 800 스페셜팩 (8강, 103+)": 0.00020612181799443502,
+        "[PLAY] [GRU 포함] Top Price 3900 스페셜팩 (3~6강, 100+)": 0.247346181593322,
+        "[PLAY] [CU 포함] Top Price 5700 스페셜팩 (2~6강, 95+)": 0.309182726991652,
+        "[PLAY] [24EP 포함] Top Price 2300 스페셜팩 (1~5강, 95+)": 0.309182726991652,
+        "bp_card": 14839277259.237
+    },
+    "percentile": {
+        "0": 1000000000000,
+        "1": 300000000000,
+        "2": 300000000000,
+        "5": 50000000000,
+        "10": 50000000000,
+        "20": 0,
+        "30": 0,
+        "40": 0,
+        "50": 0,
+        "60": 0,
+        "70": 0,
+        "80": 0,
+        "90": 0,
+        "100": 0
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[PLAY] [BLD 포함] Top Price 800 스페셜팩 (8강, 103+)",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[PLAY] [BLD 포함] Top Price 800 스페셜팩 (8강, 103+)": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.00020612181799443502
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[PLAY] [GRU 포함] Top Price 3900 스페셜팩 (3~6강, 100+)",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[PLAY] [GRU 포함] Top Price 3900 스페셜팩 (3~6강, 100+)": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.247346181593322
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[PLAY] [CU 포함] Top Price 5700 스페셜팩 (2~6강, 95+)",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[PLAY] [CU 포함] Top Price 5700 스페셜팩 (2~6강, 95+)": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.309182726991652
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[PLAY] [24EP 포함] Top Price 2300 스페셜팩 (1~5강, 95+)",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[PLAY] [24EP 포함] Top Price 2300 스페셜팩 (1~5강, 95+)": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.309182726991652
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "20635",
+                "name": "[PLAY] BP 카드 1조",
+                "image": null,
+                "expectedBp": 1000000000000.0,
+                "expectedValue": {
+                    "bp_card": 1000000000000.0
+                }
+            },
+            "amount": 1,
+            "probability": 0.00010306090899721701
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "20639",
+                "name": "[PLAY] BP 카드 3000억",
+                "image": null,
+                "expectedBp": 300000000000.0,
+                "expectedValue": {
+                    "bp_card": 300000000000.0
+                }
+            },
+            "amount": 1,
+            "probability": 0.0309182726991652
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "20640",
+                "name": "[PLAY] 행운의 BP 카드 (500억~5000억)",
+                "image": null,
+                "expectedBp": 52985507246.3768,
+                "expectedValue": {
+                    "bp_card": 52985507246.3768
+                }
+            },
+            "amount": 1,
+            "probability": 0.103060908997217
+        }
+    ],
+    "additionalInfoWithAmount": null
+}

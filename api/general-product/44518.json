@@ -4,57 +4,43 @@
     "name": "FAC 베이직 상자 + 25PL 1~9강 선수팩",
     "image": "/assets/image/item/14518_s.png",
     "price": 1250,
-    "efficiency": 0.0,
-    "expectedBp": 0,
+    "efficiency": 65545.83487880732,
+    "expectedBp": 8193229359850.915,
     "expectedValue": {
-        "FAC 베이직 상자": 1,
-        "[미니 보너스] 25PL 1~9강 선수팩": 1
+        "bp_player": 5603229359850.915,
+        "bp_card": 2590000000000.0
     },
-    "efficiency1": 0.0,
-    "expectedBp1": 0,
+    "efficiency1": 65545.83487880732,
+    "expectedBp1": 8193229359850.915,
     "expectedValue1": {
-        "FAC 베이직 상자": 1,
-        "[미니 보너스] 25PL 1~9강 선수팩": 1
+        "bp_player": 5603229359850.915,
+        "bp_card": 2590000000000.0
     },
-    "percentile": {
-        "0": 0,
-        "1": 0,
-        "2": 0,
-        "5": 0,
-        "10": 0,
-        "20": 0,
-        "30": 0,
-        "40": 0,
-        "50": 0,
-        "60": 0,
-        "70": 0,
-        "80": 0,
-        "90": 0,
-        "100": 0
-    },
+    "percentile": null,
     "itemList": [
         {
             "item": {
-                "type": "other",
-                "id": -1,
+                "type": "box",
+                "id": "20459",
                 "name": "FAC 베이직 상자",
                 "image": "/assets/image/item/201708917_s.png",
-                "expectedBp": 0,
+                "expectedBp": 8151976688928.911,
                 "expectedValue": {
-                    "FAC 베이직 상자": 1
+                    "bp_player": 5561976688928.911,
+                    "bp_card": 2590000000000.0
                 }
             },
             "amount": 1
         },
         {
             "item": {
-                "type": "other",
-                "id": -1,
+                "type": "player-pack",
+                "id": "20422",
                 "name": "[미니 보너스] 25PL 1~9강 선수팩",
                 "image": "/assets/image/item/200231714_s.png",
-                "expectedBp": 0,
+                "expectedBp": 41252670922.00393,
                 "expectedValue": {
-                    "[미니 보너스] 25PL 1~9강 선수팩": 1
+                    "bp_player": 41252670922.00393
                 }
             },
             "amount": 1
