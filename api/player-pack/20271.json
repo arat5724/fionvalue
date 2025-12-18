@@ -3,25 +3,25 @@
     "id": "20271",
     "name": "[AG] WS 클래스 Top Price 100 선수팩 (3강)",
     "image": null,
-    "expectedBp": 841943633649.1339,
+    "expectedBp": 838273626674.1139,
     "expectedValue": {
-        "bp_player": 841943633649.1339
+        "bp_player": 838273626674.1139
     },
     "percentile": {
         "0": 1350000000000000,
         "1": 1820000000000,
-        "2": 1550000000000,
+        "2": 1580000000000,
         "5": 1220000000000,
-        "10": 1090000000000,
+        "10": 1080000000000,
         "20": 891000000000,
-        "30": 808000000000,
-        "40": 752000000000,
-        "50": 727000000000,
-        "60": 716000000000,
-        "70": 674000000000,
+        "30": 798000000000,
+        "40": 744000000000,
+        "50": 725000000000,
+        "60": 688000000000,
+        "70": 671000000000,
         "80": 662000000000,
         "90": 627000000000,
-        "100": 615000000000
+        "100": 604000000000
     },
     "playerList": [
         {
@@ -341,17 +341,32 @@
         },
         {
             "player": {
-                "id": 182521,
-                "name": "토니 크로스",
+                "id": 140601,
+                "name": "네마냐 비디치",
                 "season": "WS",
                 "season_no": 848,
                 "ovr": 121,
-                "position": "CM",
-                "nation": 21,
+                "position": "CB",
+                "nation": 51,
                 "upgrade": 3,
                 "pay": 30
             },
-            "value": 1620000000000,
+            "value": 1670000000000,
+            "probability": 0.00181876938419493
+        },
+        {
+            "player": {
+                "id": 138956,
+                "name": "조르조 키엘리니",
+                "season": "WS",
+                "season_no": 848,
+                "ovr": 121,
+                "position": "CB",
+                "nation": 27,
+                "upgrade": 3,
+                "pay": 30
+            },
+            "value": 1630000000000,
             "probability": 0.00181876938419493
         },
         {
@@ -386,21 +401,6 @@
         },
         {
             "player": {
-                "id": 138956,
-                "name": "조르조 키엘리니",
-                "season": "WS",
-                "season_no": 848,
-                "ovr": 121,
-                "position": "CB",
-                "nation": 27,
-                "upgrade": 3,
-                "pay": 30
-            },
-            "value": 1550000000000,
-            "probability": 0.00181876938419493
-        },
-        {
-            "player": {
                 "id": 5471,
                 "name": "프랭크 램파드",
                 "season": "WS",
@@ -416,21 +416,6 @@
         },
         {
             "player": {
-                "id": 140601,
-                "name": "네마냐 비디치",
-                "season": "WS",
-                "season_no": 848,
-                "ovr": 121,
-                "position": "CB",
-                "nation": 51,
-                "upgrade": 3,
-                "pay": 30
-            },
-            "value": 1520000000000,
-            "probability": 0.00239812010779842
-        },
-        {
-            "player": {
                 "id": 211117,
                 "name": "델리 알리",
                 "season": "WS",
@@ -442,6 +427,21 @@
                 "pay": 30
             },
             "value": 1470000000000,
+            "probability": 0.00239812010779842
+        },
+        {
+            "player": {
+                "id": 182521,
+                "name": "토니 크로스",
+                "season": "WS",
+                "season_no": 848,
+                "ovr": 121,
+                "position": "CM",
+                "nation": 21,
+                "upgrade": 3,
+                "pay": 30
+            },
+            "value": 1460000000000,
             "probability": 0.00239812010779842
         },
         {
@@ -611,15 +611,15 @@
         },
         {
             "player": {
-                "id": 239818,
-                "name": "후벵 디아스",
+                "id": 216267,
+                "name": "앤드루 로버트슨",
                 "season": "WS",
                 "season_no": 848,
                 "ovr": 121,
-                "position": "CB",
-                "nation": 38,
+                "position": "LB",
+                "nation": 42,
                 "upgrade": 3,
-                "pay": 30
+                "pay": 29
             },
             "value": 1200000000000,
             "probability": 0.00373463338738852
@@ -641,21 +641,6 @@
         },
         {
             "player": {
-                "id": 240,
-                "name": "로이 킨",
-                "season": "WS",
-                "season_no": 848,
-                "ovr": 121,
-                "position": "CDM",
-                "nation": 25,
-                "upgrade": 3,
-                "pay": 30
-            },
-            "value": 1160000000000,
-            "probability": 0.0045903528307322
-        },
-        {
-            "player": {
                 "id": 237086,
                 "name": "김민재",
                 "season": "WS",
@@ -667,21 +652,6 @@
                 "pay": 30
             },
             "value": 1160000000000,
-            "probability": 0.0045903528307322
-        },
-        {
-            "player": {
-                "id": 208448,
-                "name": "에밀 포르스베리",
-                "season": "WS",
-                "season_no": 848,
-                "ovr": 122,
-                "position": "LW",
-                "nation": 46,
-                "upgrade": 3,
-                "pay": 30
-            },
-            "value": 1140000000000,
             "probability": 0.0045903528307322
         },
         {
@@ -701,6 +671,21 @@
         },
         {
             "player": {
+                "id": 208448,
+                "name": "에밀 포르스베리",
+                "season": "WS",
+                "season_no": 848,
+                "ovr": 122,
+                "position": "LW",
+                "nation": 46,
+                "upgrade": 3,
+                "pay": 30
+            },
+            "value": 1140000000000,
+            "probability": 0.0045903528307322
+        },
+        {
+            "player": {
                 "id": 121939,
                 "name": "필립 람",
                 "season": "WS",
@@ -712,21 +697,36 @@
                 "pay": 30
             },
             "value": 1140000000000,
+            "probability": 0.0045903528307322
+        },
+        {
+            "player": {
+                "id": 240,
+                "name": "로이 킨",
+                "season": "WS",
+                "season_no": 848,
+                "ovr": 121,
+                "position": "CDM",
+                "nation": 25,
+                "upgrade": 3,
+                "pay": 30
+            },
+            "value": 1120000000000,
             "probability": 0.00569348808031948
         },
         {
             "player": {
-                "id": 216267,
-                "name": "앤드루 로버트슨",
+                "id": 239818,
+                "name": "후벵 디아스",
                 "season": "WS",
                 "season_no": 848,
                 "ovr": 121,
-                "position": "LB",
-                "nation": 42,
+                "position": "CB",
+                "nation": 38,
                 "upgrade": 3,
-                "pay": 29
+                "pay": 30
             },
-            "value": 1090000000000,
+            "value": 1080000000000,
             "probability": 0.00569348808031948
         },
         {
@@ -776,21 +776,6 @@
         },
         {
             "player": {
-                "id": 197445,
-                "name": "데이비드 알라바",
-                "season": "WS",
-                "season_no": 848,
-                "ovr": 121,
-                "position": "LB",
-                "nation": 4,
-                "upgrade": 3,
-                "pay": 29
-            },
-            "value": 993000000000,
-            "probability": 0.00683405739988214
-        },
-        {
-            "player": {
                 "id": 7289,
                 "name": "리오 퍼디난드",
                 "season": "WS",
@@ -801,7 +786,7 @@
                 "upgrade": 3,
                 "pay": 30
             },
-            "value": 980000000000,
+            "value": 977000000000,
             "probability": 0.00683405739988214
         },
         {
@@ -862,7 +847,7 @@
                 "pay": 30
             },
             "value": 930000000000,
-            "probability": 0.00799100412505904
+            "probability": 0.00683405739988214
         },
         {
             "player": {
@@ -892,6 +877,21 @@
                 "pay": 29
             },
             "value": 899000000000,
+            "probability": 0.00799100412505904
+        },
+        {
+            "player": {
+                "id": 197445,
+                "name": "데이비드 알라바",
+                "season": "WS",
+                "season_no": 848,
+                "ovr": 121,
+                "position": "LB",
+                "nation": 4,
+                "upgrade": 3,
+                "pay": 29
+            },
+            "value": 894000000000,
             "probability": 0.00799100412505904
         },
         {
@@ -937,6 +937,21 @@
                 "pay": 31
             },
             "value": 891000000000,
+            "probability": 0.00944303660496382
+        },
+        {
+            "player": {
+                "id": 239053,
+                "name": "페데리코 발베르데",
+                "season": "WS",
+                "season_no": 848,
+                "ovr": 120,
+                "position": "CM",
+                "nation": 60,
+                "upgrade": 3,
+                "pay": 30
+            },
+            "value": 889000000000,
             "probability": 0.00944303660496382
         },
         {
@@ -997,7 +1012,7 @@
                 "pay": 31
             },
             "value": 847000000000,
-            "probability": 0.00944303660496382
+            "probability": 0.01107258846358
         },
         {
             "player": {
@@ -1058,36 +1073,6 @@
             },
             "value": 827000000000,
             "probability": 0.01107258846358
-        },
-        {
-            "player": {
-                "id": 186345,
-                "name": "키어런 트리피어",
-                "season": "WS",
-                "season_no": 848,
-                "ovr": 120,
-                "position": "RB",
-                "nation": 14,
-                "upgrade": 3,
-                "pay": 29
-            },
-            "value": 809000000000,
-            "probability": 0.01107258846358
-        },
-        {
-            "player": {
-                "id": 239053,
-                "name": "페데리코 발베르데",
-                "season": "WS",
-                "season_no": 848,
-                "ovr": 120,
-                "position": "CM",
-                "nation": 60,
-                "upgrade": 3,
-                "pay": 30
-            },
-            "value": 808000000000,
-            "probability": 0.0126661685205792
         },
         {
             "player": {
@@ -1162,7 +1147,7 @@
                 "pay": 30
             },
             "value": 765000000000,
-            "probability": 0.015608252457707502
+            "probability": 0.0126661685205792
         },
         {
             "player": {
@@ -1196,21 +1181,6 @@
         },
         {
             "player": {
-                "id": 47390,
-                "name": "지우베르투",
-                "season": "WS",
-                "season_no": 848,
-                "ovr": 120,
-                "position": "CDM",
-                "nation": 54,
-                "upgrade": 3,
-                "pay": 29
-            },
-            "value": 745000000000,
-            "probability": 0.015608252457707502
-        },
-        {
-            "player": {
                 "id": 220697,
                 "name": "제임스 매디슨",
                 "season": "WS",
@@ -1237,7 +1207,7 @@
                 "pay": 30
             },
             "value": 734000000000,
-            "probability": 0.025693809779358298
+            "probability": 0.015608252457707502
         },
         {
             "player": {
@@ -1248,6 +1218,21 @@
                 "ovr": 120,
                 "position": "LWB",
                 "nation": 45,
+                "upgrade": 3,
+                "pay": 29
+            },
+            "value": 728000000000,
+            "probability": 0.015608252457707502
+        },
+        {
+            "player": {
+                "id": 186345,
+                "name": "키어런 트리피어",
+                "season": "WS",
+                "season_no": 848,
+                "ovr": 120,
+                "position": "RB",
+                "nation": 14,
                 "upgrade": 3,
                 "pay": 29
             },
@@ -1312,7 +1297,7 @@
                 "pay": 31
             },
             "value": 718000000000,
-            "probability": 0.0343194383719689
+            "probability": 0.025693809779358298
         },
         {
             "player": {
@@ -1357,6 +1342,21 @@
                 "pay": 29
             },
             "value": 674000000000,
+            "probability": 0.0343194383719689
+        },
+        {
+            "player": {
+                "id": 47390,
+                "name": "지우베르투",
+                "season": "WS",
+                "season_no": 848,
+                "ovr": 120,
+                "position": "CDM",
+                "nation": 54,
+                "upgrade": 3,
+                "pay": 29
+            },
+            "value": 671000000000,
             "probability": 0.0343194383719689
         },
         {
@@ -1511,17 +1511,17 @@
         },
         {
             "player": {
-                "id": 39943,
-                "name": "박지성",
+                "id": 237383,
+                "name": "A. 바스토니",
                 "season": "WS",
                 "season_no": 848,
-                "ovr": 118,
-                "position": "LM",
-                "nation": 167,
+                "ovr": 119,
+                "position": "CB",
+                "nation": 27,
                 "upgrade": 3,
                 "pay": 28
             },
-            "value": 615000000000,
+            "value": 604000000000,
             "probability": 0.0236940115723918
         }
     ]
