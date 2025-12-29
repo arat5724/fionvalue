@@ -3,9 +3,9 @@
     "id": "20424",
     "name": "FAC Top Price 70 (9강, 111+)",
     "image": null,
-    "expectedBp": 1098005246443137.2,
+    "expectedBp": 1097447349315614.8,
     "expectedValue": {
-        "bp_player": 1098005246443137.2
+        "bp_player": 1097447349315614.8
     },
     "percentile": {
         "0": 15900000000000000,
@@ -20,8 +20,8 @@
         "60": 1030000000000000,
         "70": 952000000000000,
         "80": 828000000000000,
-        "90": 770000000000000,
-        "100": 716000000000000
+        "90": 751000000000000,
+        "100": 720000000000000
     },
     "playerList": [
         {
@@ -111,7 +111,7 @@
                 "upgrade": 9,
                 "pay": 31
             },
-            "value": 6200000000000000,
+            "value": 5580000000000000,
             "probability": 5.70162268182e-07
         },
         {
@@ -216,22 +216,7 @@
                 "upgrade": 9,
                 "pay": 30
             },
-            "value": 3890000000000000,
-            "probability": 8.55243402272e-07
-        },
-        {
-            "player": {
-                "id": 195864,
-                "name": "폴 포그바",
-                "season": "FAC",
-                "season_no": 852,
-                "ovr": 132,
-                "position": "CM",
-                "nation": 18,
-                "upgrade": 9,
-                "pay": 30
-            },
-            "value": 3610000000000000,
+            "value": 3840000000000000,
             "probability": 8.55243402272e-07
         },
         {
@@ -262,7 +247,7 @@
                 "pay": 27
             },
             "value": 2680000000000000,
-            "probability": 1.140324536363e-06
+            "probability": 8.55243402272e-07
         },
         {
             "player": {
@@ -337,21 +322,21 @@
                 "pay": 27
             },
             "value": 2130000000000000,
-            "probability": 1.5204327151509998e-06
+            "probability": 1.140324536363e-06
         },
         {
             "player": {
-                "id": 13743,
-                "name": "스티븐 제라드",
+                "id": 195864,
+                "name": "폴 포그바",
                 "season": "FAC",
                 "season_no": 852,
-                "ovr": 137,
-                "position": "RM",
-                "nation": 14,
+                "ovr": 132,
+                "position": "CM",
+                "nation": 18,
                 "upgrade": 9,
-                "pay": 32
+                "pay": 30
             },
-            "value": 2060000000000000,
+            "value": 2100000000000000,
             "probability": 1.5204327151509998e-06
         },
         {
@@ -366,7 +351,7 @@
                 "upgrade": 9,
                 "pay": 31
             },
-            "value": 1910000000000000,
+            "value": 1920000000000000,
             "probability": 1.5204327151509998e-06
         },
         {
@@ -386,17 +371,32 @@
         },
         {
             "player": {
-                "id": 9676,
-                "name": "사뮈엘 에토",
+                "id": 13743,
+                "name": "스티븐 제라드",
                 "season": "FAC",
                 "season_no": 852,
-                "ovr": 136,
-                "position": "ST",
-                "nation": 103,
+                "ovr": 137,
+                "position": "RM",
+                "nation": 14,
                 "upgrade": 9,
-                "pay": 30
+                "pay": 32
             },
-            "value": 1870000000000000,
+            "value": 1900000000000000,
+            "probability": 1.5204327151509998e-06
+        },
+        {
+            "player": {
+                "id": 5471,
+                "name": "프랭크 램파드",
+                "season": "FAC",
+                "season_no": 852,
+                "ovr": 137,
+                "position": "CAM",
+                "nation": 14,
+                "upgrade": 9,
+                "pay": 32
+            },
+            "value": 1800000000000000,
             "probability": 1.5204327151509998e-06
         },
         {
@@ -416,17 +416,17 @@
         },
         {
             "player": {
-                "id": 5471,
-                "name": "프랭크 램파드",
+                "id": 9676,
+                "name": "사뮈엘 에토",
                 "season": "FAC",
                 "season_no": 852,
-                "ovr": 137,
-                "position": "CAM",
-                "nation": 14,
+                "ovr": 136,
+                "position": "ST",
+                "nation": 103,
                 "upgrade": 9,
-                "pay": 32
+                "pay": 30
             },
-            "value": 1800000000000000,
+            "value": 1790000000000000,
             "probability": 1.8055138492410002e-06
         },
         {
@@ -581,6 +581,21 @@
         },
         {
             "player": {
+                "id": 247515,
+                "name": "존 반스",
+                "season": "FAC",
+                "season_no": 852,
+                "ovr": 133,
+                "position": "LW",
+                "nation": 14,
+                "upgrade": 9,
+                "pay": 29
+            },
+            "value": 1300000000000000,
+            "probability": 0.0311308598427112
+        },
+        {
+            "player": {
                 "id": 166149,
                 "name": "우고 산체스",
                 "season": "FAC",
@@ -592,21 +607,6 @@
                 "pay": 30
             },
             "value": 1300000000000000,
-            "probability": 0.0311308598427112
-        },
-        {
-            "player": {
-                "id": 247515,
-                "name": "존 반스",
-                "season": "FAC",
-                "season_no": 852,
-                "ovr": 133,
-                "position": "LW",
-                "nation": 14,
-                "upgrade": 9,
-                "pay": 29
-            },
-            "value": 1290000000000000,
             "probability": 0.0311308598427112
         },
         {
@@ -956,21 +956,6 @@
         },
         {
             "player": {
-                "id": 121944,
-                "name": "B. 슈바인슈타이거",
-                "season": "FAC",
-                "season_no": 852,
-                "ovr": 132,
-                "position": "RM",
-                "nation": 21,
-                "upgrade": 9,
-                "pay": 28
-            },
-            "value": 780000000000000,
-            "probability": 0.0200697118399897
-        },
-        {
-            "player": {
                 "id": 6235,
                 "name": "파벨 네드베드",
                 "season": "FAC",
@@ -986,21 +971,6 @@
         },
         {
             "player": {
-                "id": 246,
-                "name": "폴 스콜스",
-                "season": "FAC",
-                "season_no": 852,
-                "ovr": 135,
-                "position": "CM",
-                "nation": 14,
-                "upgrade": 9,
-                "pay": 30
-            },
-            "value": 770000000000000,
-            "probability": 0.0200697118399897
-        },
-        {
-            "player": {
                 "id": 234574,
                 "name": "디오구 달로",
                 "season": "FAC",
@@ -1012,7 +982,22 @@
                 "pay": 27
             },
             "value": 770000000000000,
-            "probability": 0.016762770684536802
+            "probability": 0.0200697118399897
+        },
+        {
+            "player": {
+                "id": 208333,
+                "name": "엠레 잔",
+                "season": "FAC",
+                "season_no": 852,
+                "ovr": 131,
+                "position": "CB",
+                "nation": 21,
+                "upgrade": 9,
+                "pay": 28
+            },
+            "value": 751000000000000,
+            "probability": 0.0200697118399897
         },
         {
             "player": {
@@ -1027,6 +1012,21 @@
                 "pay": 25
             },
             "value": 750000000000000,
+            "probability": 0.016762770684536802
+        },
+        {
+            "player": {
+                "id": 222000,
+                "name": "미카엘 라우드루프",
+                "season": "FAC",
+                "season_no": 852,
+                "ovr": 134,
+                "position": "CF",
+                "nation": 13,
+                "upgrade": 9,
+                "pay": 29
+            },
+            "value": 749000000000000,
             "probability": 0.016762770684536802
         },
         {
@@ -1061,17 +1061,17 @@
         },
         {
             "player": {
-                "id": 1201,
-                "name": "잔프랑코 졸라",
+                "id": 121944,
+                "name": "B. 슈바인슈타이거",
                 "season": "FAC",
                 "season_no": 852,
-                "ovr": 134,
-                "position": "CF",
-                "nation": 27,
+                "ovr": 132,
+                "position": "RM",
+                "nation": 21,
                 "upgrade": 9,
-                "pay": 29
+                "pay": 28
             },
-            "value": 716000000000000,
+            "value": 720000000000000,
             "probability": 0.016762770684536802
         }
     ]
