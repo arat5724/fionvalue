@@ -1,0 +1,77 @@
+{
+    "type": "box",
+    "id": "20920",
+    "name": "[마일리지] FAC 5강 포함 상자",
+    "image": "/assets/image/item/201709077_s.png",
+    "expectedBp": 1135177796679.863,
+    "expectedValue": {
+        "bp_player": 595177796679.863,
+        "bp_card": 540000000000.0
+    },
+    "expectedBp1": 1135177796679.863,
+    "expectedValue1": {
+        "bp_player": 595177796679.863,
+        "bp_card": 540000000000.0
+    },
+    "percentile": {
+        "0": 615000000000000,
+        "1": 3410000000000,
+        "2": 3210000000000,
+        "5": 3000000000000,
+        "10": 2690000000000,
+        "20": 1800000000000,
+        "30": 1240000000000,
+        "40": 745000000000,
+        "50": 600000000000,
+        "60": 600000000000,
+        "70": 600000000000,
+        "80": 600000000000,
+        "90": 600000000000,
+        "100": 185000000000
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "20910",
+                "name": "[마일리지] FAC Top Price 190 (5강, 111+)",
+                "image": "/assets/image/item/200237280_s.png",
+                "expectedBp": 2018388861162.6182,
+                "expectedValue": {
+                    "bp_player": 2018388861162.6182
+                }
+            },
+            "amount": 1,
+            "probability": 0.2
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "20911",
+                "name": "[마일리지] 25KB Top Price 49 (5강, 113+)",
+                "image": "/assets/image/item/200237281_s.png",
+                "expectedBp": 957500122236.6964,
+                "expectedValue": {
+                    "bp_player": 957500122236.6964
+                }
+            },
+            "amount": 1,
+            "probability": 0.2
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "20918",
+                "name": "[마일리지] 행운의 BP 카드 (6000억~3조)",
+                "image": null,
+                "expectedBp": 900000000000.0,
+                "expectedValue": {
+                    "bp_card": 900000000000.0
+                }
+            },
+            "amount": 1,
+            "probability": 0.6
+        }
+    ],
+    "additionalInfoWithAmount": null
+}

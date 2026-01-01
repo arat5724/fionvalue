@@ -4,57 +4,56 @@
     "name": "[마일리지] 2026 고급 패키지 X 2",
     "image": "/assets/image/item/31503_s.png",
     "price": 48000,
-    "efficiency": 0.0,
-    "expectedBp": 0,
+    "efficiency": 5619.412424101887,
+    "expectedBp": 26973179635689.055,
     "expectedValue": {
-        "[마일리지] WS 포함 Top Price 630 (5~6강, 112+)": 2,
-        "[마일리지] 행운의 BP 카드 (3조~9조)": 2,
-        "[마일리지] FAC 5강 포함 상자": 2
+        "bp_player": 18393179635689.055,
+        "bp_card": 8580000000000.0
     },
-    "efficiency1": 0.0,
-    "expectedBp1": 0,
+    "efficiency1": 5619.412424101887,
+    "expectedBp1": 26973179635689.055,
     "expectedValue1": {
-        "[마일리지] WS 포함 Top Price 630 (5~6강, 112+)": 2,
-        "[마일리지] 행운의 BP 카드 (3조~9조)": 2,
-        "[마일리지] FAC 5강 포함 상자": 2
+        "bp_player": 18393179635689.055,
+        "bp_card": 8580000000000.0
     },
     "percentile": null,
     "itemList": [
         {
             "item": {
-                "type": "other",
-                "id": -1,
+                "type": "player-pack",
+                "id": "20912",
                 "name": "[마일리지] WS 포함 Top Price 630 (5~6강, 112+)",
                 "image": "/assets/image/item/200237282_s.png",
-                "expectedBp": 0,
+                "expectedBp": 8601412021164.664,
                 "expectedValue": {
-                    "[마일리지] WS 포함 Top Price 630 (5~6강, 112+)": 1
+                    "bp_player": 8601412021164.664
                 }
             },
             "amount": 2
         },
         {
             "item": {
-                "type": "other",
-                "id": -1,
+                "type": "bp",
+                "id": "20917",
                 "name": "[마일리지] 행운의 BP 카드 (3조~9조)",
                 "image": "/assets/image/item/200337096_s.png",
-                "expectedBp": 0,
+                "expectedBp": 3750000000000.0,
                 "expectedValue": {
-                    "[마일리지] 행운의 BP 카드 (3조~9조)": 1
+                    "bp_card": 3750000000000.0
                 }
             },
             "amount": 2
         },
         {
             "item": {
-                "type": "other",
-                "id": -1,
+                "type": "box",
+                "id": "20920",
                 "name": "[마일리지] FAC 5강 포함 상자",
                 "image": "/assets/image/item/201709077_s.png",
-                "expectedBp": 0,
+                "expectedBp": 1135177796679.863,
                 "expectedValue": {
-                    "[마일리지] FAC 5강 포함 상자": 1
+                    "bp_player": 595177796679.863,
+                    "bp_card": 540000000000.0
                 }
             },
             "amount": 2

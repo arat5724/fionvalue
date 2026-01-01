@@ -1,0 +1,91 @@
+{
+    "type": "box",
+    "id": "20807",
+    "name": "SSS or BP",
+    "image": null,
+    "expectedBp": 56083206695586.16,
+    "expectedValue": {
+        "bp_player": 6555206695586.158,
+        "bp_card": 49528000000000.0
+    },
+    "expectedBp1": 56083206695586.16,
+    "expectedValue1": {
+        "bp_player": 6555206695586.158,
+        "bp_card": 49528000000000.0
+    },
+    "percentile": {
+        "0": 55400000000000000,
+        "1": 200000000000000,
+        "2": 152000000000000,
+        "5": 80000000000000,
+        "10": 80000000000000,
+        "20": 80000000000000,
+        "30": 69200000000000,
+        "40": 40000000000000,
+        "50": 40000000000000,
+        "60": 40000000000000,
+        "70": 40000000000000,
+        "80": 40000000000000,
+        "90": 40000000000000,
+        "100": 24800000000000
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "box",
+                "id": "20799",
+                "name": "[산타][일반SSS][8강 포함] FAC, 25DP, 25KB 상자",
+                "image": null,
+                "expectedBp": 84636938074755.12,
+                "expectedValue": {
+                    "bp_player": 84636938074755.12
+                }
+            },
+            "amount": 1,
+            "probability": 0.03
+        },
+        {
+            "item": {
+                "type": "box",
+                "id": "20800",
+                "name": "[산타][일반SSS][10강 포함] 상자",
+                "image": null,
+                "expectedBp": 133869951778116.81,
+                "expectedValue": {
+                    "bp_player": 133869951778116.81
+                }
+            },
+            "amount": 1,
+            "probability": 0.03
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "20784",
+                "name": "[일반SSS] 행운의 BP 카드 (70조 ~ 350조)",
+                "image": null,
+                "expectedBp": 110000000000000.0,
+                "expectedValue": {
+                    "bp_card": 110000000000000.0
+                }
+            },
+            "amount": 1,
+            "probability": 0.03
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "20791",
+                "name": "행운의 BP 카드 (40조 ~ 120조)",
+                "image": null,
+                "expectedBp": 50800000000000.0,
+                "expectedValue": {
+                    "bp_card": 50800000000000.0
+                }
+            },
+            "amount": 1,
+            "probability": 0.91
+        }
+    ],
+    "additionalInfoWithAmount": null
+}
