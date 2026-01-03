@@ -3,25 +3,25 @@
     "id": "20754",
     "name": "25DP Top Price 25 선수팩 (7강, 114+)",
     "image": null,
-    "expectedBp": 68879421965317.94,
+    "expectedBp": 68849826589595.4,
     "expectedValue": {
-        "bp_player": 68879421965317.94
+        "bp_player": 68849826589595.4
     },
     "percentile": {
-        "0": 323000000000000,
-        "1": 323000000000000,
-        "2": 234000000000000,
-        "5": 140000000000000,
-        "10": 110000000000000,
-        "20": 99400000000000,
-        "30": 84700000000000,
-        "40": 61400000000000,
-        "50": 52300000000000,
-        "60": 48500000000000,
-        "70": 47500000000000,
-        "80": 38100000000000,
-        "90": 36800000000000,
-        "100": 27400000000000
+        "0": 356000000000000,
+        "1": 356000000000000,
+        "2": 260000000000000,
+        "5": 151000000000000,
+        "10": 104000000000000,
+        "20": 79200000000000,
+        "30": 78000000000000,
+        "40": 59400000000000,
+        "50": 56100000000000,
+        "60": 47700000000000,
+        "70": 47400000000000,
+        "80": 42200000000000,
+        "90": 35100000000000,
+        "100": 31200000000000
     },
     "playerList": [
         {
@@ -36,7 +36,7 @@
                 "upgrade": 7,
                 "pay": 29
             },
-            "value": 323000000000000,
+            "value": 356000000000000,
             "probability": 0.0115606936416185
         },
         {
@@ -51,8 +51,23 @@
                 "upgrade": 7,
                 "pay": 30
             },
-            "value": 234000000000000,
+            "value": 260000000000000,
             "probability": 0.0115606936416185
+        },
+        {
+            "player": {
+                "id": 235794,
+                "name": "에베레치 에제",
+                "season": "25DP",
+                "season_no": 851,
+                "ovr": 130,
+                "position": "CAM",
+                "nation": 14,
+                "upgrade": 7,
+                "pay": 30
+            },
+            "value": 159000000000000,
+            "probability": 0.023121387283237
         },
         {
             "player": {
@@ -71,18 +86,18 @@
         },
         {
             "player": {
-                "id": 235794,
-                "name": "에베레치 에제",
+                "id": 251517,
+                "name": "그바르디올",
                 "season": "25DP",
                 "season_no": 851,
-                "ovr": 130,
-                "position": "CAM",
-                "nation": 14,
+                "ovr": 129,
+                "position": "LB",
+                "nation": 10,
                 "upgrade": 7,
-                "pay": 30
+                "pay": 29
             },
-            "value": 140000000000000,
-            "probability": 0.023121387283237
+            "value": 104000000000000,
+            "probability": 0.0578034682080925
         },
         {
             "player": {
@@ -96,52 +111,7 @@
                 "upgrade": 7,
                 "pay": 28
             },
-            "value": 110000000000000,
-            "probability": 0.0578034682080925
-        },
-        {
-            "player": {
-                "id": 236772,
-                "name": "D. 소보슬러이",
-                "season": "25DP",
-                "season_no": 851,
-                "ovr": 128,
-                "position": "CAM",
-                "nation": 23,
-                "upgrade": 7,
-                "pay": 28
-            },
-            "value": 104000000000000,
-            "probability": 0.0578034682080925
-        },
-        {
-            "player": {
-                "id": 251517,
-                "name": "그바르디올",
-                "season": "25DP",
-                "season_no": 851,
-                "ovr": 129,
-                "position": "LB",
-                "nation": 10,
-                "upgrade": 7,
-                "pay": 29
-            },
-            "value": 99400000000000,
-            "probability": 0.0578034682080925
-        },
-        {
-            "player": {
-                "id": 221697,
-                "name": "올리 왓킨스",
-                "season": "25DP",
-                "season_no": 851,
-                "ovr": 129,
-                "position": "ST",
-                "nation": 14,
-                "upgrade": 7,
-                "pay": 29
-            },
-            "value": 84700000000000,
+            "value": 98300000000000,
             "probability": 0.0578034682080925
         },
         {
@@ -156,82 +126,37 @@
                 "upgrade": 7,
                 "pay": 28
             },
-            "value": 65100000000000,
+            "value": 79200000000000,
             "probability": 0.0578034682080925
         },
         {
             "player": {
-                "id": 226161,
-                "name": "마르코스 요렌테",
-                "season": "25DP",
-                "season_no": 851,
-                "ovr": 127,
-                "position": "RB",
-                "nation": 45,
-                "upgrade": 7,
-                "pay": 29
-            },
-            "value": 61400000000000,
-            "probability": 0.0578034682080925
-        },
-        {
-            "player": {
-                "id": 241637,
-                "name": "A. 추아메니",
-                "season": "25DP",
-                "season_no": 851,
-                "ovr": 127,
-                "position": "CDM",
-                "nation": 18,
-                "upgrade": 7,
-                "pay": 28
-            },
-            "value": 54200000000000,
-            "probability": 0.0578034682080925
-        },
-        {
-            "player": {
-                "id": 257470,
-                "name": "A. 엘랑가",
+                "id": 236772,
+                "name": "D. 소보슬러이",
                 "season": "25DP",
                 "season_no": 851,
                 "ovr": 128,
-                "position": "RW",
-                "nation": 46,
+                "position": "CAM",
+                "nation": 23,
                 "upgrade": 7,
-                "pay": 29
+                "pay": 28
             },
-            "value": 52300000000000,
+            "value": 78000000000000,
             "probability": 0.0578034682080925
         },
         {
             "player": {
-                "id": 207421,
-                "name": "레안드로 트로사르",
+                "id": 221697,
+                "name": "올리 왓킨스",
                 "season": "25DP",
                 "season_no": 851,
-                "ovr": 127,
-                "position": "LW",
-                "nation": 7,
+                "ovr": 129,
+                "position": "ST",
+                "nation": 14,
                 "upgrade": 7,
                 "pay": 29
             },
-            "value": 49200000000000,
-            "probability": 0.0578034682080925
-        },
-        {
-            "player": {
-                "id": 241236,
-                "name": "앤트완 세메뇨",
-                "season": "25DP",
-                "season_no": 851,
-                "ovr": 130,
-                "position": "RW",
-                "nation": 117,
-                "upgrade": 7,
-                "pay": 29
-            },
-            "value": 48500000000000,
+            "value": 72300000000000,
             "probability": 0.0578034682080925
         },
         {
@@ -246,22 +171,82 @@
                 "upgrade": 7,
                 "pay": 29
             },
-            "value": 47500000000000,
+            "value": 59400000000000,
             "probability": 0.0578034682080925
         },
         {
             "player": {
-                "id": 241096,
-                "name": "산드로 토날리",
+                "id": 226161,
+                "name": "마르코스 요렌테",
                 "season": "25DP",
                 "season_no": 851,
-                "ovr": 128,
+                "ovr": 127,
+                "position": "RB",
+                "nation": 45,
+                "upgrade": 7,
+                "pay": 29
+            },
+            "value": 56400000000000,
+            "probability": 0.0578034682080925
+        },
+        {
+            "player": {
+                "id": 241637,
+                "name": "A. 추아메니",
+                "season": "25DP",
+                "season_no": 851,
+                "ovr": 127,
                 "position": "CDM",
-                "nation": 27,
+                "nation": 18,
                 "upgrade": 7,
                 "pay": 28
             },
-            "value": 39600000000000,
+            "value": 56100000000000,
+            "probability": 0.0578034682080925
+        },
+        {
+            "player": {
+                "id": 207421,
+                "name": "레안드로 트로사르",
+                "season": "25DP",
+                "season_no": 851,
+                "ovr": 127,
+                "position": "LW",
+                "nation": 7,
+                "upgrade": 7,
+                "pay": 29
+            },
+            "value": 50800000000000,
+            "probability": 0.0578034682080925
+        },
+        {
+            "player": {
+                "id": 241236,
+                "name": "앤트완 세메뇨",
+                "season": "25DP",
+                "season_no": 851,
+                "ovr": 130,
+                "position": "RW",
+                "nation": 117,
+                "upgrade": 7,
+                "pay": 29
+            },
+            "value": 47700000000000,
+            "probability": 0.0578034682080925
+        },
+        {
+            "player": {
+                "id": 257470,
+                "name": "A. 엘랑가",
+                "season": "25DP",
+                "season_no": 851,
+                "ovr": 128,
+                "position": "RW",
+                "nation": 46,
+                "upgrade": 7,
+                "pay": 29
+            },
+            "value": 47400000000000,
             "probability": 0.0578034682080925
         },
         {
@@ -276,7 +261,22 @@
                 "upgrade": 7,
                 "pay": 28
             },
-            "value": 38100000000000,
+            "value": 42800000000000,
+            "probability": 0.0578034682080925
+        },
+        {
+            "player": {
+                "id": 241096,
+                "name": "산드로 토날리",
+                "season": "25DP",
+                "season_no": 851,
+                "ovr": 128,
+                "position": "CDM",
+                "nation": 27,
+                "upgrade": 7,
+                "pay": 28
+            },
+            "value": 42200000000000,
             "probability": 0.0578034682080925
         },
         {
@@ -291,7 +291,22 @@
                 "upgrade": 7,
                 "pay": 28
             },
-            "value": 37300000000000,
+            "value": 36200000000000,
+            "probability": 0.0578034682080925
+        },
+        {
+            "player": {
+                "id": 223334,
+                "name": "조엘린통",
+                "season": "25DP",
+                "season_no": 851,
+                "ovr": 127,
+                "position": "CM",
+                "nation": 54,
+                "upgrade": 7,
+                "pay": 28
+            },
+            "value": 35100000000000,
             "probability": 0.0578034682080925
         },
         {
@@ -306,68 +321,8 @@
                 "upgrade": 7,
                 "pay": 29
             },
-            "value": 36800000000000,
+            "value": 34800000000000,
             "probability": 0.0578034682080925
-        },
-        {
-            "player": {
-                "id": 262859,
-                "name": "리바이 콜윌",
-                "season": "25DP",
-                "season_no": 851,
-                "ovr": 125,
-                "position": "CB",
-                "nation": 14,
-                "upgrade": 7,
-                "pay": 27
-            },
-            "value": 32700000000000,
-            "probability": 0.0578034682080925
-        },
-        {
-            "player": {
-                "id": 234574,
-                "name": "디오구 달로",
-                "season": "25DP",
-                "season_no": 851,
-                "ovr": 126,
-                "position": "RWB",
-                "nation": 38,
-                "upgrade": 7,
-                "pay": 27
-            },
-            "value": 31800000000000,
-            "probability": 0.00115606936416185
-        },
-        {
-            "player": {
-                "id": 255565,
-                "name": "K. 미토마",
-                "season": "25DP",
-                "season_no": 851,
-                "ovr": 128,
-                "position": "LW",
-                "nation": 163,
-                "upgrade": 7,
-                "pay": 29
-            },
-            "value": 30900000000000,
-            "probability": 0.00115606936416185
-        },
-        {
-            "player": {
-                "id": 206085,
-                "name": "제이컵 머피",
-                "season": "25DP",
-                "season_no": 851,
-                "ovr": 129,
-                "position": "RW",
-                "nation": 14,
-                "upgrade": 7,
-                "pay": 29
-            },
-            "value": 30300000000000,
-            "probability": 0.00115606936416185
         },
         {
             "player": {
@@ -381,7 +336,52 @@
                 "upgrade": 7,
                 "pay": 27
             },
-            "value": 30300000000000,
+            "value": 34300000000000,
+            "probability": 0.00115606936416185
+        },
+        {
+            "player": {
+                "id": 241721,
+                "name": "하파엘 레앙",
+                "season": "25DP",
+                "season_no": 851,
+                "ovr": 128,
+                "position": "LW",
+                "nation": 38,
+                "upgrade": 7,
+                "pay": 28
+            },
+            "value": 31800000000000,
+            "probability": 0.00115606936416185
+        },
+        {
+            "player": {
+                "id": 234574,
+                "name": "디오구 달로",
+                "season": "25DP",
+                "season_no": 851,
+                "ovr": 126,
+                "position": "RWB",
+                "nation": 38,
+                "upgrade": 7,
+                "pay": 27
+            },
+            "value": 31600000000000,
+            "probability": 0.00115606936416185
+        },
+        {
+            "player": {
+                "id": 221671,
+                "name": "이재성",
+                "season": "25DP",
+                "season_no": 851,
+                "ovr": 127,
+                "position": "CAM",
+                "nation": 167,
+                "upgrade": 7,
+                "pay": 28
+            },
+            "value": 31200000000000,
             "probability": 0.00115606936416185
         },
         {
@@ -396,7 +396,7 @@
                 "upgrade": 7,
                 "pay": 29
             },
-            "value": 27400000000000,
+            "value": 31200000000000,
             "probability": 0.00115606936416185
         }
     ]
