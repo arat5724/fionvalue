@@ -1,0 +1,61 @@
+{
+    "type": "box",
+    "id": "sseuldol_coin",
+    "name": "쓸돌 코인",
+    "image": "/assets/image/item/201802722_s.png",
+    "expectedBp": 0,
+    "expectedValue": {
+        "FC": 22.857142857142854
+    },
+    "expectedBp1": 0,
+    "expectedValue1": {
+        "FC": 22.857142857142854
+    },
+    "percentile": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "5": 0,
+        "10": 0,
+        "20": 0,
+        "30": 0,
+        "40": 0,
+        "50": 0,
+        "60": 0,
+        "70": 0,
+        "80": 0,
+        "90": 0,
+        "100": 0
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "FC",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "FC": 1
+                }
+            },
+            "amount": 10,
+            "probability": 0.8571428571428571
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "FC",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "FC": 1
+                }
+            },
+            "amount": 100,
+            "probability": 0.14285714285714285
+        }
+    ],
+    "additionalInfoWithAmount": null
+}
