@@ -1,0 +1,111 @@
+{
+    "type": "box",
+    "id": "21512",
+    "name": "[PLAY] BP + 훈련용 재화 묶음 상자 (3차)",
+    "image": null,
+    "expectedBp": 217177589852.00836,
+    "expectedValue": {
+        "bp_card": 217177589852.00836,
+        "[PLAY] TC 카드 200": 1.0,
+        "[PLAY] SC 카드 200": 1.0,
+        "cp_card": 200.0,
+        "기초 훈련 교재": 200.0
+    },
+    "expectedBp1": 217177589852.00836,
+    "expectedValue1": {
+        "bp_card": 217177589852.00836,
+        "[PLAY] TC 카드 200": 1.0,
+        "[PLAY] SC 카드 200": 1.0,
+        "cp_card": 200.0,
+        "기초 훈련 교재": 200.0
+    },
+    "percentile": {
+        "0": 1000000000000,
+        "1": 500000000000,
+        "2": 400000000000,
+        "5": 300000000000,
+        "10": 300000000000,
+        "20": 200000000000,
+        "30": 200000000000,
+        "40": 200000000000,
+        "50": 200000000000,
+        "60": 200000000000,
+        "70": 200000000000,
+        "80": 200000000000,
+        "90": 200000000000,
+        "100": 200000000000
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "bp",
+                "id": "20638",
+                "name": "[PLAY] 행운의 BP 카드 (2000억~1조)",
+                "image": null,
+                "expectedBp": 217177589852.00836,
+                "expectedValue": {
+                    "bp_card": 217177589852.00836
+                }
+            },
+            "amount": 1,
+            "probability": 1.0
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[PLAY] TC 카드 200",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[PLAY] TC 카드 200": 1
+                }
+            },
+            "amount": 1,
+            "probability": 1.0
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[PLAY] SC 카드 200",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[PLAY] SC 카드 200": 1
+                }
+            },
+            "amount": 1,
+            "probability": 1.0
+        },
+        {
+            "item": {
+                "type": "cp",
+                "id": -1,
+                "name": "[PLAY] CP 카드 200",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "cp_card": 200
+                }
+            },
+            "amount": 1,
+            "probability": 1.0
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "기초 훈련 교재",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "기초 훈련 교재": 1
+                }
+            },
+            "amount": 200,
+            "probability": 1.0
+        }
+    ],
+    "additionalInfoWithAmount": null
+}
