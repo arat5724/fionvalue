@@ -1,0 +1,77 @@
+{
+    "type": "box",
+    "id": "21701",
+    "name": "[AG][10조 BP 찬스][26.02] 위클리 2인 트레이드 의뢰 상자",
+    "image": null,
+    "expectedBp": 204314234016.88773,
+    "expectedValue": {
+        "bp_card": 204314234016.88773,
+        "[AG][NO.7 포함] 멀티 클래스 Top Price 8500 선수팩 (1~8강)": 0.5499
+    },
+    "expectedBp1": 204314234016.88773,
+    "expectedValue1": {
+        "bp_card": 204314234016.88773,
+        "[AG][NO.7 포함] 멀티 클래스 Top Price 8500 선수팩 (1~8강)": 0.5499
+    },
+    "percentile": {
+        "0": 10000000000000,
+        "1": 700000000000,
+        "2": 650000000000,
+        "5": 600000000000,
+        "10": 525000000000,
+        "20": 450000000000,
+        "30": 400000000000,
+        "40": 325000000000,
+        "50": 0,
+        "60": 0,
+        "70": 0,
+        "80": 0,
+        "90": 0,
+        "100": 0
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "bp",
+                "id": -1,
+                "name": "[AG] BP 카드 10,000,000,000,000",
+                "image": null,
+                "expectedBp": 10000000000000,
+                "expectedValue": {
+                    "bp_card": 10000000000000
+                }
+            },
+            "amount": 1,
+            "probability": 0.0001
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[AG][NO.7 포함] 멀티 클래스 Top Price 8500 선수팩 (1~8강)",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[AG][NO.7 포함] 멀티 클래스 Top Price 8500 선수팩 (1~8강)": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.5499
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "21691",
+                "name": "[AG] 행운의 BP 카드 (2500억~5조 BP)",
+                "image": null,
+                "expectedBp": 451809408926.4172,
+                "expectedValue": {
+                    "bp_card": 451809408926.4172
+                }
+            },
+            "amount": 1,
+            "probability": 0.45
+        }
+    ],
+    "additionalInfoWithAmount": null
+}

@@ -1,0 +1,91 @@
+{
+    "type": "box",
+    "id": "21612",
+    "name": "[열쇠 1개] 선수팩 or BP 상자 (02.20)",
+    "image": null,
+    "expectedBp": 8890181767191.258,
+    "expectedValue": {
+        "bp_player": 7340181767191.259,
+        "bp_card": 1550000000000.0
+    },
+    "expectedBp1": 8890181767191.258,
+    "expectedValue1": {
+        "bp_player": 7340181767191.259,
+        "bp_card": 1550000000000.0
+    },
+    "percentile": {
+        "0": 15980000000000000,
+        "1": 31680000000000,
+        "2": 22060000000000,
+        "5": 17870000000000,
+        "10": 14000000000000,
+        "20": 11500000000000,
+        "30": 10520000000000,
+        "40": 9590000000000,
+        "50": 8530000000000,
+        "60": 7500000000000,
+        "70": 5000000000000,
+        "80": 2500000000000,
+        "90": 2500000000000,
+        "100": 2500000000000
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "21572",
+                "name": "[열쇠 1개] FAC, 25KB Top Price 210 (1~6강, 111+)",
+                "image": null,
+                "expectedBp": 9267904302098.75,
+                "expectedValue": {
+                    "bp_player": 9267904302098.75
+                }
+            },
+            "amount": 1,
+            "probability": 0.05
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "21573",
+                "name": "[열쇠 1개] DCB 포함 Top Price 520 (5~6강, 113+)",
+                "image": null,
+                "expectedBp": 6135280830035.8125,
+                "expectedValue": {
+                    "bp_player": 6135280830035.8125
+                }
+            },
+            "amount": 2,
+            "probability": 0.43
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "21574",
+                "name": "[열쇠 1개] BDO, BLD, GRU 포함 Top Price 1070 (3~8강, 108+)",
+                "image": null,
+                "expectedBp": 13337041985462.686,
+                "expectedValue": {
+                    "bp_player": 13337041985462.686
+                }
+            },
+            "amount": 1,
+            "probability": 0.12
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "21607",
+                "name": "[열쇠 1개] 행운의 BP 카드 (2.5조~7.5조)",
+                "image": null,
+                "expectedBp": 3875000000000.0,
+                "expectedValue": {
+                    "bp_card": 3875000000000.0
+                }
+            },
+            "amount": 1,
+            "probability": 0.4
+        }
+    ],
+    "additionalInfoWithAmount": null
+}
