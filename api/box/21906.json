@@ -1,0 +1,125 @@
+{
+    "type": "box",
+    "id": "21906",
+    "name": "[25UCL 5강 찬스!] 25UCL BEST XI 골드 에이전트 의뢰 상자",
+    "image": null,
+    "expectedBp": 3211882671833.7256,
+    "expectedValue": {
+        "bp_player": 3358025855.759992,
+        "[AG][GRU 포함] 멀티 클래스 Top Price 500 선수팩 (9강)": 0.000499700179892065,
+        "[AG][WS 포함] 멀티 클래스 Top Price 2000 선수팩 (1~7강)": 0.239856086348191,
+        "[AG][DCB 포함] 멀티 클래스 Top Price 2500 선수팩 (1~8강)": 0.359784129522287,
+        "bp_card": 3208524645977.966
+    },
+    "expectedBp1": 3211882671833.7256,
+    "expectedValue1": {
+        "bp_player": 3358025855.759992,
+        "[AG][GRU 포함] 멀티 클래스 Top Price 500 선수팩 (9강)": 0.000499700179892065,
+        "[AG][WS 포함] 멀티 클래스 Top Price 2000 선수팩 (1~7강)": 0.239856086348191,
+        "[AG][DCB 포함] 멀티 클래스 Top Price 2500 선수팩 (1~8강)": 0.359784129522287,
+        "bp_card": 3208524645977.966
+    },
+    "percentile": {
+        "0": 342000000000000,
+        "1": 10000000000000,
+        "2": 8500000000000,
+        "5": 7600000000000,
+        "10": 7500000000000,
+        "20": 7500000000000,
+        "30": 7500000000000,
+        "40": 0,
+        "50": 0,
+        "60": 0,
+        "70": 0,
+        "80": 0,
+        "90": 0,
+        "100": 0
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "21890",
+                "name": "[AG] 25UCL 클래스 Top Price 45 스페셜팩 (5강)",
+                "image": null,
+                "expectedBp": 33600406712734.46,
+                "expectedValue": {
+                    "bp_player": 33600406712734.46
+                }
+            },
+            "amount": 1,
+            "probability": 9.9940035978413e-05
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[AG][GRU 포함] 멀티 클래스 Top Price 500 선수팩 (9강)",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[AG][GRU 포함] 멀티 클래스 Top Price 500 선수팩 (9강)": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.000499700179892065
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[AG][WS 포함] 멀티 클래스 Top Price 2000 선수팩 (1~7강)",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[AG][WS 포함] 멀티 클래스 Top Price 2000 선수팩 (1~7강)": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.239856086348191
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[AG][DCB 포함] 멀티 클래스 Top Price 2500 선수팩 (1~8강)",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[AG][DCB 포함] 멀티 클래스 Top Price 2500 선수팩 (1~8강)": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.359784129522287
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "21900",
+                "name": "[AG] BP 카드 7,500,000,000,000",
+                "image": null,
+                "expectedBp": 7500000000000.0,
+                "expectedValue": {
+                    "bp_card": 7500000000000.0
+                }
+            },
+            "amount": 1,
+            "probability": 0.239856086348191
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "21903",
+                "name": "[AG] 행운의 BP 카드 (7조~200조 BP)",
+                "image": null,
+                "expectedBp": 8815311004784.693,
+                "expectedValue": {
+                    "bp_card": 8815311004784.693
+                }
+            },
+            "amount": 1,
+            "probability": 0.159904057565461
+        }
+    ],
+    "additionalInfoWithAmount": null
+}
