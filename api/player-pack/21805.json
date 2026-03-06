@@ -3,42 +3,27 @@
     "id": "21805",
     "name": "WB, 25HEROES, BDO Top Price 25 선수팩 (11강, 115+)",
     "image": null,
-    "expectedBp": 9361020408163264.0,
+    "expectedBp": 1.0456734693877552e+16,
     "expectedValue": {
-        "bp_player": 9361020408163264.0
+        "bp_player": 1.0456734693877552e+16
     },
     "percentile": {
-        "0": 36500000000000000,
-        "1": 31300000000000000,
-        "2": 23900000000000000,
-        "5": 15800000000000000,
-        "10": 12500000000000000,
-        "20": 10600000000000000,
-        "30": 9380000000000000,
-        "40": 8900000000000000,
-        "50": 8470000000000000,
-        "60": 7870000000000000,
-        "70": 7650000000000000,
-        "80": 6880000000000000,
-        "90": 5960000000000000,
-        "100": 5650000000000000
+        "0": 44000000000000000,
+        "1": 33800000000000000,
+        "2": 25900000000000000,
+        "5": 18400000000000000,
+        "10": 15700000000000000,
+        "20": 11200000000000000,
+        "30": 10800000000000000,
+        "40": 10100000000000000,
+        "50": 9670000000000000,
+        "60": 8660000000000000,
+        "70": 8040000000000000,
+        "80": 7570000000000000,
+        "90": 6660000000000000,
+        "100": 5930000000000000
     },
     "playerList": [
-        {
-            "player": {
-                "id": 214100,
-                "name": "루드 굴리트",
-                "season": "BDO",
-                "season_no": 827,
-                "ovr": 137,
-                "position": "CAM",
-                "nation": 34,
-                "upgrade": 11,
-                "pay": 31
-            },
-            "value": 36500000000000000,
-            "probability": 0.0040816326530612205
-        },
         {
             "player": {
                 "id": 37576,
@@ -51,7 +36,22 @@
                 "upgrade": 11,
                 "pay": 31
             },
-            "value": 33400000000000000,
+            "value": 44000000000000000,
+            "probability": 0.0040816326530612205
+        },
+        {
+            "player": {
+                "id": 214100,
+                "name": "루드 굴리트",
+                "season": "BDO",
+                "season_no": 827,
+                "ovr": 137,
+                "position": "CAM",
+                "nation": 34,
+                "upgrade": 11,
+                "pay": 31
+            },
+            "value": 41500000000000000,
             "probability": 0.0040816326530612205
         },
         {
@@ -66,7 +66,22 @@
                 "upgrade": 11,
                 "pay": 32
             },
-            "value": 31300000000000000,
+            "value": 33800000000000000,
+            "probability": 0.00816326530612245
+        },
+        {
+            "player": {
+                "id": 214100,
+                "name": "루드 굴리트",
+                "season": "WB",
+                "season_no": 836,
+                "ovr": 137,
+                "position": "CAM",
+                "nation": 34,
+                "upgrade": 11,
+                "pay": 31
+            },
+            "value": 25900000000000000,
             "probability": 0.00816326530612245
         },
         {
@@ -86,21 +101,6 @@
         },
         {
             "player": {
-                "id": 214100,
-                "name": "루드 굴리트",
-                "season": "WB",
-                "season_no": 836,
-                "ovr": 137,
-                "position": "CAM",
-                "nation": 34,
-                "upgrade": 11,
-                "pay": 31
-            },
-            "value": 23700000000000000,
-            "probability": 0.00816326530612245
-        },
-        {
-            "player": {
                 "id": 192181,
                 "name": "마르코 반바스텐",
                 "season": "BDO",
@@ -111,23 +111,8 @@
                 "upgrade": 11,
                 "pay": 30
             },
-            "value": 18100000000000000,
+            "value": 22600000000000000,
             "probability": 0.00816326530612245
-        },
-        {
-            "player": {
-                "id": 231747,
-                "name": "킬리안 음바페",
-                "season": "WB",
-                "season_no": 836,
-                "ovr": 140,
-                "position": "ST",
-                "nation": 18,
-                "upgrade": 11,
-                "pay": 31
-            },
-            "value": 15800000000000000,
-            "probability": 0.024489795918367297
         },
         {
             "player": {
@@ -141,7 +126,22 @@
                 "upgrade": 11,
                 "pay": 31
             },
-            "value": 14500000000000000,
+            "value": 18400000000000000,
+            "probability": 0.024489795918367297
+        },
+        {
+            "player": {
+                "id": 231747,
+                "name": "킬리안 음바페",
+                "season": "WB",
+                "season_no": 836,
+                "ovr": 140,
+                "position": "ST",
+                "nation": 18,
+                "upgrade": 11,
+                "pay": 31
+            },
+            "value": 17400000000000000,
             "probability": 0.024489795918367297
         },
         {
@@ -156,8 +156,38 @@
                 "upgrade": 11,
                 "pay": 30
             },
-            "value": 12500000000000000,
+            "value": 15700000000000000,
             "probability": 0.024489795918367297
+        },
+        {
+            "player": {
+                "id": 256790,
+                "name": "무시알라",
+                "season": "WB",
+                "season_no": 836,
+                "ovr": 137,
+                "position": "CAM",
+                "nation": 21,
+                "upgrade": 11,
+                "pay": 28
+            },
+            "value": 12200000000000000,
+            "probability": 0.024489795918367297
+        },
+        {
+            "player": {
+                "id": 168473,
+                "name": "베켄바워",
+                "season": "WB",
+                "season_no": 836,
+                "ovr": 139,
+                "position": "CB",
+                "nation": 21,
+                "upgrade": 11,
+                "pay": 30
+            },
+            "value": 11700000000000000,
+            "probability": 0.0326530612244898
         },
         {
             "player": {
@@ -172,36 +202,6 @@
                 "pay": 30
             },
             "value": 11200000000000000,
-            "probability": 0.024489795918367297
-        },
-        {
-            "player": {
-                "id": 252371,
-                "name": "주드 벨링엄",
-                "season": "WB",
-                "season_no": 836,
-                "ovr": 139,
-                "position": "CAM",
-                "nation": 14,
-                "upgrade": 11,
-                "pay": 30
-            },
-            "value": 10800000000000000,
-            "probability": 0.0326530612244898
-        },
-        {
-            "player": {
-                "id": 168473,
-                "name": "베켄바워",
-                "season": "WB",
-                "season_no": 836,
-                "ovr": 139,
-                "position": "CB",
-                "nation": 21,
-                "upgrade": 11,
-                "pay": 30
-            },
-            "value": 10600000000000000,
             "probability": 0.0326530612244898
         },
         {
@@ -216,7 +216,22 @@
                 "upgrade": 11,
                 "pay": 30
             },
-            "value": 10000000000000000,
+            "value": 10800000000000000,
+            "probability": 0.0612244897959184
+        },
+        {
+            "player": {
+                "id": 252371,
+                "name": "주드 벨링엄",
+                "season": "WB",
+                "season_no": 836,
+                "ovr": 139,
+                "position": "CAM",
+                "nation": 14,
+                "upgrade": 11,
+                "pay": 30
+            },
+            "value": 10800000000000000,
             "probability": 0.0612244897959184
         },
         {
@@ -231,52 +246,7 @@
                 "upgrade": 11,
                 "pay": 30
             },
-            "value": 9380000000000000,
-            "probability": 0.0612244897959184
-        },
-        {
-            "player": {
-                "id": 191189,
-                "name": "로타어 마테우스",
-                "season": "BDO",
-                "season_no": 827,
-                "ovr": 138,
-                "position": "CM",
-                "nation": 21,
-                "upgrade": 11,
-                "pay": 30
-            },
-            "value": 9230000000000000,
-            "probability": 0.0612244897959184
-        },
-        {
-            "player": {
-                "id": 190045,
-                "name": "요한 크루이프",
-                "season": "BDO",
-                "season_no": 827,
-                "ovr": 139,
-                "position": "CF",
-                "nation": 34,
-                "upgrade": 11,
-                "pay": 31
-            },
-            "value": 8900000000000000,
-            "probability": 0.0612244897959184
-        },
-        {
-            "player": {
-                "id": 183277,
-                "name": "에덴 아자르",
-                "season": "25HEROES",
-                "season_no": 835,
-                "ovr": 139,
-                "position": "LW",
-                "nation": 7,
-                "upgrade": 11,
-                "pay": 30
-            },
-            "value": 8470000000000000,
+            "value": 10300000000000000,
             "probability": 0.0612244897959184
         },
         {
@@ -291,7 +261,37 @@
                 "upgrade": 11,
                 "pay": 29
             },
-            "value": 8350000000000000,
+            "value": 10100000000000000,
+            "probability": 0.0612244897959184
+        },
+        {
+            "player": {
+                "id": 183277,
+                "name": "에덴 아자르",
+                "season": "25HEROES",
+                "season_no": 835,
+                "ovr": 139,
+                "position": "LW",
+                "nation": 7,
+                "upgrade": 11,
+                "pay": 30
+            },
+            "value": 9670000000000000,
+            "probability": 0.0612244897959184
+        },
+        {
+            "player": {
+                "id": 191189,
+                "name": "로타어 마테우스",
+                "season": "BDO",
+                "season_no": 827,
+                "ovr": 138,
+                "position": "CM",
+                "nation": 21,
+                "upgrade": 11,
+                "pay": 30
+            },
+            "value": 9110000000000000,
             "probability": 0.0612244897959184
         },
         {
@@ -306,22 +306,22 @@
                 "upgrade": 11,
                 "pay": 28
             },
-            "value": 7870000000000000,
+            "value": 8660000000000000,
             "probability": 0.0612244897959184
         },
         {
             "player": {
-                "id": 256790,
-                "name": "무시알라",
-                "season": "WB",
-                "season_no": 836,
-                "ovr": 137,
-                "position": "CAM",
-                "nation": 21,
+                "id": 190045,
+                "name": "요한 크루이프",
+                "season": "BDO",
+                "season_no": 827,
+                "ovr": 139,
+                "position": "CF",
+                "nation": 34,
                 "upgrade": 11,
-                "pay": 28
+                "pay": 31
             },
-            "value": 7750000000000000,
+            "value": 8650000000000000,
             "probability": 0.0612244897959184
         },
         {
@@ -336,7 +336,7 @@
                 "upgrade": 11,
                 "pay": 29
             },
-            "value": 7650000000000000,
+            "value": 8040000000000000,
             "probability": 0.0612244897959184
         },
         {
@@ -351,52 +351,52 @@
                 "upgrade": 11,
                 "pay": 32
             },
-            "value": 6880000000000000,
+            "value": 7570000000000000,
             "probability": 0.0612244897959184
         },
         {
             "player": {
-                "id": 28130,
-                "name": "호나우지뉴",
-                "season": "BDO",
-                "season_no": 827,
+                "id": 247703,
+                "name": "이언 러시",
+                "season": "WB",
+                "season_no": 836,
                 "ovr": 137,
-                "position": "LW",
-                "nation": 54,
+                "position": "ST",
+                "nation": 50,
                 "upgrade": 11,
                 "pay": 29
             },
-            "value": 6200000000000000,
+            "value": 6950000000000000,
             "probability": 0.0612244897959184
         },
         {
             "player": {
-                "id": 242519,
-                "name": "에우제비우",
-                "season": "BDO",
-                "season_no": 827,
+                "id": 239085,
+                "name": "엘링 홀란",
+                "season": "WB",
+                "season_no": 836,
                 "ovr": 138,
-                "position": "CF",
-                "nation": 38,
+                "position": "ST",
+                "nation": 36,
                 "upgrade": 11,
-                "pay": 30
+                "pay": 29
             },
-            "value": 5960000000000000,
+            "value": 6660000000000000,
             "probability": 0.0612244897959184
         },
         {
             "player": {
-                "id": 171877,
-                "name": "마레크 함시크",
+                "id": 162895,
+                "name": "세스크 파브레가스",
                 "season": "25HEROES",
                 "season_no": 835,
-                "ovr": 138,
-                "position": "CAM",
-                "nation": 43,
+                "ovr": 139,
+                "position": "CM",
+                "nation": 45,
                 "upgrade": 11,
                 "pay": 29
             },
-            "value": 5650000000000000,
+            "value": 5930000000000000,
             "probability": 0.0612244897959184
         }
     ]
