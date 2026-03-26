@@ -1,0 +1,77 @@
+{
+    "type": "box",
+    "id": "22092",
+    "name": "[AG][FAC TP 100 8강 찬스][26.03] 프리미엄 에이전트 의뢰 상자 1",
+    "image": null,
+    "expectedBp": 56168391464774.17,
+    "expectedValue": {
+        "bp_player": 37312823536043.664,
+        "bp_card": 18855567928730.504
+    },
+    "expectedBp1": 56168391464774.17,
+    "expectedValue1": {
+        "bp_player": 37312823536043.664,
+        "bp_card": 18855567928730.504
+    },
+    "percentile": {
+        "0": 29300000000000000,
+        "1": 242000000000000,
+        "2": 189000000000000,
+        "5": 90000000000000,
+        "10": 70300000000000,
+        "20": 62100000000000,
+        "30": 55000000000000,
+        "40": 50000000000000,
+        "50": 48000000000000,
+        "60": 46000000000000,
+        "70": 43200000000000,
+        "80": 39900000000000,
+        "90": 34100000000000,
+        "100": 30800000000000
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "22060",
+                "name": "[AG] FAC 클래스 Top Price 100 선수팩 (8강)",
+                "image": null,
+                "expectedBp": 334327901234568.0,
+                "expectedValue": {
+                    "bp_player": 334327901234568.0
+                }
+            },
+            "amount": 1,
+            "probability": 0.001
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "22061",
+                "name": "[AG] 26HEROES, FAC, 25UCL, 25DP, LE 클래스 최종 OVR 130+ 선수팩 (6~8강)",
+                "image": null,
+                "expectedBp": 56977651209259.0,
+                "expectedValue": {
+                    "bp_player": 56977651209259.0
+                }
+            },
+            "amount": 1,
+            "probability": 0.649
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "22081",
+                "name": "[AG] 행운의 BP 카드 (45조~1000조 BP)",
+                "image": null,
+                "expectedBp": 53873051224944.3,
+                "expectedValue": {
+                    "bp_card": 53873051224944.3
+                }
+            },
+            "amount": 1,
+            "probability": 0.35
+        }
+    ],
+    "additionalInfoWithAmount": null
+}
