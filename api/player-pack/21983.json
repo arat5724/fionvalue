@@ -3,44 +3,29 @@
     "id": "21983",
     "name": "[동일확률] 26HEROES Top Price All (1~6강)",
     "image": null,
-    "expectedBp": 10232777777777.768,
+    "expectedBp": 11572037037037.027,
     "expectedValue": {
-        "bp_player": 10232777777777.768
+        "bp_player": 11572037037037.027
     },
     "percentile": {
-        "0": 46400000000000,
-        "1": 46400000000000,
-        "2": 46200000000000,
-        "5": 45800000000000,
-        "10": 22400000000000,
-        "20": 16800000000000,
-        "30": 10300000000000,
-        "40": 5910000000000,
-        "50": 5090000000000,
-        "60": 4740000000000,
-        "70": 4470000000000,
-        "80": 4370000000000,
-        "90": 3950000000000,
-        "100": 3110000000000
+        "0": 51000000000000,
+        "1": 51000000000000,
+        "2": 51000000000000,
+        "5": 49100000000000,
+        "10": 25300000000000,
+        "20": 19800000000000,
+        "30": 11600000000000,
+        "40": 7280000000000,
+        "50": 6070000000000,
+        "60": 5530000000000,
+        "70": 5210000000000,
+        "80": 4700000000000,
+        "90": 4340000000000,
+        "100": 3530000000000
     },
     "playerList": [
         {
             "player": {
-                "id": 53302,
-                "name": "다니엘레 데로시",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 130,
-                "position": "CDM",
-                "nation": 27,
-                "upgrade": 6,
-                "pay": 31
-            },
-            "value": 46400000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
                 "id": 77787,
                 "name": "이반 사모라노",
                 "season": "26HEROES",
@@ -51,7 +36,7 @@
                 "upgrade": 6,
                 "pay": 32
             },
-            "value": 46200000000000,
+            "value": 51000000000000,
             "probability": 0.0185185185185185
         },
         {
@@ -66,22 +51,22 @@
                 "upgrade": 6,
                 "pay": 32
             },
-            "value": 45800000000000,
+            "value": 51000000000000,
             "probability": 0.0185185185185185
         },
         {
             "player": {
-                "id": 81644,
-                "name": "울리히 회네스",
+                "id": 53302,
+                "name": "다니엘레 데로시",
                 "season": "26HEROES",
                 "season_no": 858,
-                "ovr": 128,
-                "position": "LM",
-                "nation": null,
+                "ovr": 130,
+                "position": "CDM",
+                "nation": 27,
                 "upgrade": 6,
                 "pay": 31
             },
-            "value": 22700000000000,
+            "value": 49100000000000,
             "probability": 0.0185185185185185
         },
         {
@@ -96,7 +81,22 @@
                 "upgrade": 6,
                 "pay": 31
             },
-            "value": 22700000000000,
+            "value": 26800000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 81644,
+                "name": "울리히 회네스",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 128,
+                "position": "LM",
+                "nation": null,
+                "upgrade": 6,
+                "pay": 31
+            },
+            "value": 25500000000000,
             "probability": 0.0185185185185185
         },
         {
@@ -111,37 +111,7 @@
                 "upgrade": 6,
                 "pay": 30
             },
-            "value": 22400000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 53302,
-                "name": "다니엘레 데로시",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 128,
-                "position": "CDM",
-                "nation": 27,
-                "upgrade": 5,
-                "pay": 31
-            },
-            "value": 21100000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 77787,
-                "name": "이반 사모라노",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 128,
-                "position": "ST",
-                "nation": null,
-                "upgrade": 5,
-                "pay": 32
-            },
-            "value": 21000000000000,
+            "value": 25300000000000,
             "probability": 0.0185185185185185
         },
         {
@@ -156,22 +126,37 @@
                 "upgrade": 5,
                 "pay": 32
             },
-            "value": 20800000000000,
+            "value": 23200000000000,
             "probability": 0.0185185185185185
         },
         {
             "player": {
-                "id": 20775,
-                "name": "콰레스마",
+                "id": 77787,
+                "name": "이반 사모라노",
                 "season": "26HEROES",
                 "season_no": 858,
-                "ovr": 127,
-                "position": "RW",
-                "nation": 38,
-                "upgrade": 6,
-                "pay": 30
+                "ovr": 128,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 5,
+                "pay": 32
             },
-            "value": 17100000000000,
+            "value": 23200000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 53302,
+                "name": "다니엘레 데로시",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 128,
+                "position": "CDM",
+                "nation": 27,
+                "upgrade": 5,
+                "pay": 31
+            },
+            "value": 22300000000000,
             "probability": 0.0185185185185185
         },
         {
@@ -186,7 +171,22 @@
                 "upgrade": 6,
                 "pay": 30
             },
-            "value": 16800000000000,
+            "value": 20700000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 20775,
+                "name": "콰레스마",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 127,
+                "position": "RW",
+                "nation": 38,
+                "upgrade": 6,
+                "pay": 30
+            },
+            "value": 19800000000000,
             "probability": 0.0185185185185185
         },
         {
@@ -201,67 +201,7 @@
                 "upgrade": 6,
                 "pay": 30
             },
-            "value": 15600000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 10704,
-                "name": "로이 마카이",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 126,
-                "position": "ST",
-                "nation": null,
-                "upgrade": 4,
-                "pay": 32
-            },
-            "value": 10400000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 77787,
-                "name": "이반 사모라노",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 126,
-                "position": "ST",
-                "nation": null,
-                "upgrade": 4,
-                "pay": 32
-            },
-            "value": 10400000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 53302,
-                "name": "다니엘레 데로시",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 126,
-                "position": "CDM",
-                "nation": 27,
-                "upgrade": 4,
-                "pay": 31
-            },
-            "value": 10300000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 81644,
-                "name": "울리히 회네스",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 126,
-                "position": "LM",
-                "nation": null,
-                "upgrade": 5,
-                "pay": 31
-            },
-            "value": 10300000000000,
+            "value": 16400000000000,
             "probability": 0.0185185185185185
         },
         {
@@ -276,7 +216,67 @@
                 "upgrade": 5,
                 "pay": 31
             },
-            "value": 10300000000000,
+            "value": 12200000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 10704,
+                "name": "로이 마카이",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 126,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 4,
+                "pay": 32
+            },
+            "value": 11900000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 53302,
+                "name": "다니엘레 데로시",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 126,
+                "position": "CDM",
+                "nation": 27,
+                "upgrade": 4,
+                "pay": 31
+            },
+            "value": 11800000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 77787,
+                "name": "이반 사모라노",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 126,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 4,
+                "pay": 32
+            },
+            "value": 11800000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 81644,
+                "name": "울리히 회네스",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 126,
+                "position": "LM",
+                "nation": null,
+                "upgrade": 5,
+                "pay": 31
+            },
+            "value": 11600000000000,
             "probability": 0.0185185185185185
         },
         {
@@ -291,22 +291,7 @@
                 "upgrade": 5,
                 "pay": 30
             },
-            "value": 10200000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 20775,
-                "name": "콰레스마",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 125,
-                "position": "RW",
-                "nation": 38,
-                "upgrade": 5,
-                "pay": 30
-            },
-            "value": 7760000000000,
+            "value": 11500000000000,
             "probability": 0.0185185185185185
         },
         {
@@ -321,7 +306,22 @@
                 "upgrade": 5,
                 "pay": 30
             },
-            "value": 7640000000000,
+            "value": 9420000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 20775,
+                "name": "콰레스마",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 125,
+                "position": "RW",
+                "nation": 38,
+                "upgrade": 5,
+                "pay": 30
+            },
+            "value": 8990000000000,
             "probability": 0.0185185185185185
         },
         {
@@ -336,52 +336,7 @@
                 "upgrade": 5,
                 "pay": 30
             },
-            "value": 7110000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 81644,
-                "name": "울리히 회네스",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 124,
-                "position": "LM",
-                "nation": null,
-                "upgrade": 4,
-                "pay": 31
-            },
-            "value": 5910000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 25420,
-                "name": "클라우디오 피사로",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 124,
-                "position": "ST",
-                "nation": 59,
-                "upgrade": 4,
-                "pay": 31
-            },
-            "value": 5590000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 10704,
-                "name": "로이 마카이",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 124,
-                "position": "ST",
-                "nation": null,
-                "upgrade": 3,
-                "pay": 32
-            },
-            "value": 5570000000000,
+            "value": 7470000000000,
             "probability": 0.0185185185185185
         },
         {
@@ -396,7 +351,52 @@
                 "upgrade": 3,
                 "pay": 31
             },
-            "value": 5490000000000,
+            "value": 7280000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 10704,
+                "name": "로이 마카이",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 124,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 3,
+                "pay": 32
+            },
+            "value": 7080000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 81644,
+                "name": "울리히 회네스",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 124,
+                "position": "LM",
+                "nation": null,
+                "upgrade": 4,
+                "pay": 31
+            },
+            "value": 6960000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 25420,
+                "name": "클라우디오 피사로",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 124,
+                "position": "ST",
+                "nation": 59,
+                "upgrade": 4,
+                "pay": 31
+            },
+            "value": 6720000000000,
             "probability": 0.0185185185185185
         },
         {
@@ -410,6 +410,126 @@
                 "nation": null,
                 "upgrade": 3,
                 "pay": 32
+            },
+            "value": 6490000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 10959,
+                "name": "P. 아이마르",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 123,
+                "position": "CAM",
+                "nation": null,
+                "upgrade": 4,
+                "pay": 30
+            },
+            "value": 6280000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 8348,
+                "name": "미첼 살가도",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 124,
+                "position": "RB",
+                "nation": null,
+                "upgrade": 4,
+                "pay": 30
+            },
+            "value": 6070000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 77787,
+                "name": "이반 사모라노",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 123,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 2,
+                "pay": 32
+            },
+            "value": 5980000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 53302,
+                "name": "다니엘레 데로시",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 123,
+                "position": "CDM",
+                "nation": 27,
+                "upgrade": 2,
+                "pay": 31
+            },
+            "value": 5970000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 10704,
+                "name": "로이 마카이",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 123,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 2,
+                "pay": 32
+            },
+            "value": 5810000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 25420,
+                "name": "클라우디오 피사로",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 122,
+                "position": "ST",
+                "nation": 59,
+                "upgrade": 3,
+                "pay": 31
+            },
+            "value": 5610000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 10704,
+                "name": "로이 마카이",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 122,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 32
+            },
+            "value": 5530000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 20775,
+                "name": "콰레스마",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 123,
+                "position": "RW",
+                "nation": 38,
+                "upgrade": 4,
+                "pay": 30
             },
             "value": 5440000000000,
             "probability": 0.0185185185185185
@@ -420,73 +540,13 @@
                 "name": "이반 사모라노",
                 "season": "26HEROES",
                 "season_no": 858,
-                "ovr": 123,
+                "ovr": 122,
                 "position": "ST",
                 "nation": null,
-                "upgrade": 2,
+                "upgrade": 1,
                 "pay": 32
             },
-            "value": 5140000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 10704,
-                "name": "로이 마카이",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 123,
-                "position": "ST",
-                "nation": null,
-                "upgrade": 2,
-                "pay": 32
-            },
-            "value": 5090000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 53302,
-                "name": "다니엘레 데로시",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 123,
-                "position": "CDM",
-                "nation": 27,
-                "upgrade": 2,
-                "pay": 31
-            },
-            "value": 5060000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 20775,
-                "name": "콰레스마",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 123,
-                "position": "RW",
-                "nation": 38,
-                "upgrade": 4,
-                "pay": 30
-            },
-            "value": 5040000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 10959,
-                "name": "P. 아이마르",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 123,
-                "position": "CAM",
-                "nation": null,
-                "upgrade": 4,
-                "pay": 30
-            },
-            "value": 5040000000000,
+            "value": 5440000000000,
             "probability": 0.0185185185185185
         },
         {
@@ -495,28 +555,13 @@
                 "name": "미첼 살가도",
                 "season": "26HEROES",
                 "season_no": 858,
-                "ovr": 124,
-                "position": "RB",
-                "nation": null,
-                "upgrade": 4,
-                "pay": 30
-            },
-            "value": 4940000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 169721,
-                "name": "마이카 리처즈",
-                "season": "26HEROES",
-                "season_no": 858,
                 "ovr": 122,
                 "position": "RB",
-                "nation": 14,
-                "upgrade": 4,
+                "nation": null,
+                "upgrade": 3,
                 "pay": 30
             },
-            "value": 4740000000000,
+            "value": 5400000000000,
             "probability": 0.0185185185185185
         },
         {
@@ -531,37 +576,7 @@
                 "upgrade": 1,
                 "pay": 31
             },
-            "value": 4630000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 77787,
-                "name": "이반 사모라노",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 122,
-                "position": "ST",
-                "nation": null,
-                "upgrade": 1,
-                "pay": 32
-            },
-            "value": 4600000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 10704,
-                "name": "로이 마카이",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 122,
-                "position": "ST",
-                "nation": null,
-                "upgrade": 1,
-                "pay": 32
-            },
-            "value": 4550000000000,
+            "value": 5370000000000,
             "probability": 0.0185185185185185
         },
         {
@@ -576,37 +591,37 @@
                 "upgrade": 3,
                 "pay": 30
             },
-            "value": 4470000000000,
+            "value": 5210000000000,
             "probability": 0.0185185185185185
         },
         {
             "player": {
-                "id": 25420,
-                "name": "클라우디오 피사로",
+                "id": 8348,
+                "name": "미첼 살가도",
                 "season": "26HEROES",
                 "season_no": 858,
                 "ovr": 121,
-                "position": "ST",
-                "nation": 59,
+                "position": "RB",
+                "nation": null,
                 "upgrade": 2,
-                "pay": 31
+                "pay": 30
             },
-            "value": 4470000000000,
+            "value": 5130000000000,
             "probability": 0.0185185185185185
         },
         {
             "player": {
-                "id": 25420,
-                "name": "클라우디오 피사로",
+                "id": 169721,
+                "name": "마이카 리처즈",
                 "season": "26HEROES",
                 "season_no": 858,
                 "ovr": 122,
-                "position": "ST",
-                "nation": 59,
-                "upgrade": 3,
-                "pay": 31
+                "position": "RB",
+                "nation": 14,
+                "upgrade": 4,
+                "pay": 30
             },
-            "value": 4470000000000,
+            "value": 4860000000000,
             "probability": 0.0185185185185185
         },
         {
@@ -621,7 +636,82 @@
                 "upgrade": 3,
                 "pay": 30
             },
-            "value": 4460000000000,
+            "value": 4840000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 25420,
+                "name": "클라우디오 피사로",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 121,
+                "position": "ST",
+                "nation": 59,
+                "upgrade": 2,
+                "pay": 31
+            },
+            "value": 4820000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 81644,
+                "name": "울리히 회네스",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 122,
+                "position": "LM",
+                "nation": null,
+                "upgrade": 3,
+                "pay": 31
+            },
+            "value": 4790000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 10959,
+                "name": "P. 아이마르",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 120,
+                "position": "CAM",
+                "nation": null,
+                "upgrade": 2,
+                "pay": 30
+            },
+            "value": 4700000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 20775,
+                "name": "콰레스마",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 120,
+                "position": "RW",
+                "nation": 38,
+                "upgrade": 2,
+                "pay": 30
+            },
+            "value": 4670000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 25420,
+                "name": "클라우디오 피사로",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 120,
+                "position": "ST",
+                "nation": 59,
+                "upgrade": 1,
+                "pay": 31
+            },
+            "value": 4560000000000,
             "probability": 0.0185185185185185
         },
         {
@@ -630,43 +720,13 @@
                 "name": "미첼 살가도",
                 "season": "26HEROES",
                 "season_no": 858,
-                "ovr": 122,
+                "ovr": 120,
                 "position": "RB",
                 "nation": null,
-                "upgrade": 3,
+                "upgrade": 1,
                 "pay": 30
             },
-            "value": 4440000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 81644,
-                "name": "울리히 회네스",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 122,
-                "position": "LM",
-                "nation": null,
-                "upgrade": 3,
-                "pay": 31
-            },
-            "value": 4440000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 81644,
-                "name": "울리히 회네스",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 121,
-                "position": "LM",
-                "nation": null,
-                "upgrade": 2,
-                "pay": 31
-            },
-            "value": 4380000000000,
+            "value": 4520000000000,
             "probability": 0.0185185185185185
         },
         {
@@ -681,67 +741,22 @@
                 "upgrade": 3,
                 "pay": 30
             },
-            "value": 4370000000000,
+            "value": 4520000000000,
             "probability": 0.0185185185185185
         },
         {
             "player": {
-                "id": 8348,
-                "name": "미첼 살가도",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 120,
-                "position": "RB",
-                "nation": null,
-                "upgrade": 1,
-                "pay": 30
-            },
-            "value": 4260000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 8348,
-                "name": "미첼 살가도",
+                "id": 81644,
+                "name": "울리히 회네스",
                 "season": "26HEROES",
                 "season_no": 858,
                 "ovr": 121,
-                "position": "RB",
+                "position": "LM",
                 "nation": null,
                 "upgrade": 2,
-                "pay": 30
+                "pay": 31
             },
-            "value": 4260000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 10959,
-                "name": "P. 아이마르",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 120,
-                "position": "CAM",
-                "nation": null,
-                "upgrade": 2,
-                "pay": 30
-            },
-            "value": 4120000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 20775,
-                "name": "콰레스마",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 120,
-                "position": "RW",
-                "nation": 38,
-                "upgrade": 2,
-                "pay": 30
-            },
-            "value": 3990000000000,
+            "value": 4340000000000,
             "probability": 0.0185185185185185
         },
         {
@@ -756,52 +771,7 @@
                 "upgrade": 1,
                 "pay": 31
             },
-            "value": 3950000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 25420,
-                "name": "클라우디오 피사로",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 120,
-                "position": "ST",
-                "nation": 59,
-                "upgrade": 1,
-                "pay": 31
-            },
-            "value": 3940000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 20775,
-                "name": "콰레스마",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 119,
-                "position": "RW",
-                "nation": 38,
-                "upgrade": 1,
-                "pay": 30
-            },
-            "value": 3290000000000,
-            "probability": 0.0185185185185185
-        },
-        {
-            "player": {
-                "id": 10959,
-                "name": "P. 아이마르",
-                "season": "26HEROES",
-                "season_no": 858,
-                "ovr": 119,
-                "position": "CAM",
-                "nation": null,
-                "upgrade": 1,
-                "pay": 30
-            },
-            "value": 3160000000000,
+            "value": 4230000000000,
             "probability": 0.0185185185185185
         },
         {
@@ -816,7 +786,37 @@
                 "upgrade": 2,
                 "pay": 30
             },
-            "value": 3150000000000,
+            "value": 4030000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 10959,
+                "name": "P. 아이마르",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 119,
+                "position": "CAM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 30
+            },
+            "value": 3890000000000,
+            "probability": 0.0185185185185185
+        },
+        {
+            "player": {
+                "id": 20775,
+                "name": "콰레스마",
+                "season": "26HEROES",
+                "season_no": 858,
+                "ovr": 119,
+                "position": "RW",
+                "nation": 38,
+                "upgrade": 1,
+                "pay": 30
+            },
+            "value": 3840000000000,
             "probability": 0.0185185185185185
         },
         {
@@ -831,7 +831,7 @@
                 "upgrade": 1,
                 "pay": 30
             },
-            "value": 3110000000000,
+            "value": 3530000000000,
             "probability": 0.0185185185185185
         }
     ]
