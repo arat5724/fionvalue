@@ -1,0 +1,126 @@
+{
+    "type": "battle-pass",
+    "id": "skybox_express_pass",
+    "name": "스카이박스 익스프레스 패스",
+    "image": "/assets/image/item/skybox_express_pass.png",
+    "price": 1900,
+    "efficiency": 1665340.2986439862,
+    "expectedBp": 316414656742357.4,
+    "expectedValue": {
+        "bp_card": 21250000000000.0,
+        "bp_player": 295164656742357.4
+    },
+    "efficiency1": 1665340.2986439862,
+    "expectedBp1": 316414656742357.4,
+    "expectedValue1": {
+        "bp_card": 21250000000000.0,
+        "bp_player": 295164656742357.4
+    },
+    "breakpoints": [
+        {
+            "type": "or",
+            "point": 500,
+            "items": [
+                {
+                    "type": "player-pack",
+                    "id": "22451",
+                    "name": "[EXPRESS] 26HEROES 포함 Top Price 950 선수팩 (1~6강, 108+)",
+                    "image": "/assets/image/item/200249113_s.png",
+                    "expectedBp": 21247646030535.758,
+                    "expectedValue": {
+                        "bp_player": 21247646030535.758
+                    }
+                },
+                {
+                    "type": "bp",
+                    "id": "22477",
+                    "name": "[EXPRESS] 행운의 BP 카드 (20조~100조)",
+                    "image": "/assets/image/item/200349048_s.png",
+                    "expectedBp": 21250000000000.0,
+                    "expectedValue": {
+                        "bp_card": 21250000000000.0
+                    }
+                }
+            ]
+        },
+        {
+            "type": "or",
+            "point": 2200,
+            "items": [
+                {
+                    "type": "player-pack",
+                    "id": "22452",
+                    "name": "[EXPRESS] 26TOTY 포함 Top Price 1530 선수팩 (1~7강, 108+)",
+                    "image": "/assets/image/item/200249114_s.png",
+                    "expectedBp": 34993849652370.33,
+                    "expectedValue": {
+                        "bp_player": 34993849652370.33
+                    }
+                },
+                {
+                    "type": "bp",
+                    "id": "22478",
+                    "name": "[EXPRESS] 행운의 BP 카드 (30조~150조)",
+                    "image": "/assets/image/item/200349049_s.png",
+                    "expectedBp": 32100000000000.0,
+                    "expectedValue": {
+                        "bp_card": 32100000000000.0
+                    }
+                }
+            ]
+        },
+        {
+            "type": "or",
+            "point": 5000,
+            "items": [
+                {
+                    "type": "player-pack",
+                    "id": "22453",
+                    "name": "[EXPRESS] 26TOTY 포함 Top Price 1300 선수팩 (5~8강, 112+)",
+                    "image": "/assets/image/item/200249115_s.png",
+                    "expectedBp": 82142764602608.62,
+                    "expectedValue": {
+                        "bp_player": 82142764602608.62
+                    }
+                },
+                {
+                    "type": "bp",
+                    "id": "22479",
+                    "name": "[EXPRESS] 행운의 BP 카드 (70조~350조)",
+                    "image": "/assets/image/item/200349050_s.png",
+                    "expectedBp": 73700000000000.0,
+                    "expectedValue": {
+                        "bp_card": 73700000000000.0
+                    }
+                }
+            ]
+        },
+        {
+            "type": "or",
+            "point": 8800,
+            "items": [
+                {
+                    "type": "box",
+                    "id": "22494",
+                    "name": "[EXPRESS] Lv.8 상자",
+                    "image": "/assets/image/item/201709705_s.png",
+                    "expectedBp": 178028042487378.44,
+                    "expectedValue": {
+                        "bp_player": 178028042487378.44
+                    }
+                },
+                {
+                    "type": "box",
+                    "id": "22495",
+                    "name": "[EXPRESS] Lv.8 금고",
+                    "image": "/assets/image/item/201709706_s.png",
+                    "expectedBp": 136280315988170.16,
+                    "expectedValue": {
+                        "bp_player": 120665988170.14857,
+                        "bp_card": 136159650000000.0
+                    }
+                }
+            ]
+        }
+    ]
+}
