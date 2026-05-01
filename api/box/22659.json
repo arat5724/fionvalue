@@ -1,0 +1,77 @@
+{
+    "type": "box",
+    "id": "22659",
+    "name": "[마일리지] WG 기회 상자",
+    "image": "/assets/image/item/201709807_s.png",
+    "expectedBp": 5375345914073.985,
+    "expectedValue": {
+        "bp_player": 1007345914073.9856,
+        "bp_card": 4368000000000.0
+    },
+    "expectedBp1": 5375345914073.985,
+    "expectedValue1": {
+        "bp_player": 1007345914073.9856,
+        "bp_card": 4368000000000.0
+    },
+    "percentile": {
+        "0": 19300000000000000,
+        "1": 13000000000000,
+        "2": 9350000000000,
+        "5": 8000000000000,
+        "10": 6640000000000,
+        "20": 5000000000000,
+        "30": 5000000000000,
+        "40": 5000000000000,
+        "50": 5000000000000,
+        "60": 5000000000000,
+        "70": 5000000000000,
+        "80": 5000000000000,
+        "90": 5000000000000,
+        "100": 110000000000
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "22650",
+                "name": "[마일리지] WG 클래스 Top Price ALL (1강)",
+                "image": "/assets/image/item/200237306_s.png",
+                "expectedBp": 1930613294701.126,
+                "expectedValue": {
+                    "bp_player": 1930613294701.126
+                }
+            },
+            "amount": 1,
+            "probability": 0.01
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "22653",
+                "name": "[마일리지] 26HEROES 포함 Top Price 2820 (5~6강, 103+)",
+                "image": null,
+                "expectedBp": 6586931874179.829,
+                "expectedValue": {
+                    "bp_player": 6586931874179.829
+                }
+            },
+            "amount": 1,
+            "probability": 0.15
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "22658",
+                "name": "[마일리지] 행운의 BP 카드 (5조~13조)",
+                "image": null,
+                "expectedBp": 5200000000000.0,
+                "expectedValue": {
+                    "bp_card": 5200000000000.0
+                }
+            },
+            "amount": 1,
+            "probability": 0.84
+        }
+    ],
+    "additionalInfoWithAmount": null
+}

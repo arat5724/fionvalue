@@ -1,0 +1,75 @@
+{
+    "type": "box",
+    "id": "22637",
+    "name": "WG 8강 + CH 포함 10강 + WG 1~4강",
+    "image": null,
+    "expectedBp": 1.3844067214163002e+16,
+    "expectedValue": {
+        "bp_player": 1.3844067214163002e+16
+    },
+    "expectedBp1": 1.3844067214163002e+16,
+    "expectedValue1": {
+        "bp_player": 1.3844067214163002e+16
+    },
+    "percentile": {
+        "0": 166901000000000000,
+        "1": 46034470000000000,
+        "2": 31371000000000000,
+        "5": 20331310000000000,
+        "10": 18324480000000000,
+        "20": 16854890000000000,
+        "30": 13854860000000000,
+        "40": 12943370000000000,
+        "50": 12363420000000000,
+        "60": 11330510000000000,
+        "70": 10667630000000000,
+        "80": 10037480000000000,
+        "90": 9309600000000000,
+        "100": 8020110000000000
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "22559",
+                "name": "WG Top Price 100 선수팩 (8강, 114+)",
+                "image": null,
+                "expectedBp": 1855981364372346.2,
+                "expectedValue": {
+                    "bp_player": 1855981364372346.2
+                }
+            },
+            "amount": 1,
+            "probability": 1.0
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "22560",
+                "name": "CH 포함 Top Price 43 선수팩 (10강, 117+)",
+                "image": null,
+                "expectedBp": 1.197538847117794e+16,
+                "expectedValue": {
+                    "bp_player": 1.197538847117794e+16
+                }
+            },
+            "amount": 1,
+            "probability": 1.0
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "22606",
+                "name": "[동일확률] WG Top Price All 선수팩 (1~4강)",
+                "image": null,
+                "expectedBp": 12697378612716.746,
+                "expectedValue": {
+                    "bp_player": 12697378612716.746
+                }
+            },
+            "amount": 1,
+            "probability": 1.0
+        }
+    ],
+    "additionalInfoWithAmount": null
+}
