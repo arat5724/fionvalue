@@ -3,9 +3,9 @@
     "id": "22388",
     "name": "[열쇠 800개] WG Top Price 40 (9강, 114+)",
     "image": null,
-    "expectedBp": 1.3819089729592422e+16,
+    "expectedBp": 1.4012906233776986e+16,
     "expectedValue": {
-        "bp_player": 1.3819089729592422e+16
+        "bp_player": 1.4012906233776986e+16
     },
     "percentile": {
         "0": 116000000000000000,
@@ -15,13 +15,13 @@
         "10": 18000000000000000,
         "20": 17100000000000000,
         "30": 15100000000000000,
-        "40": 14000000000000000,
-        "50": 12900000000000000,
-        "60": 12000000000000000,
+        "40": 14500000000000000,
+        "50": 13200000000000000,
+        "60": 12500000000000000,
         "70": 11600000000000000,
-        "80": 10500000000000000,
-        "90": 9750000000000000,
-        "100": 7650000000000000
+        "80": 10800000000000000,
+        "90": 10000000000000000,
+        "100": 7800000000000000
     },
     "playerList": [
         {
@@ -51,7 +51,7 @@
                 "upgrade": 9,
                 "pay": 33
             },
-            "value": 65000000000000000,
+            "value": 78600000000000000,
             "probability": 5.60985962e-08
         },
         {
@@ -96,7 +96,7 @@
                 "upgrade": 9,
                 "pay": 31
             },
-            "value": 31900000000000000,
+            "value": 32500000000000000,
             "probability": 2.1036973574981e-05
         },
         {
@@ -111,7 +111,7 @@
                 "upgrade": 9,
                 "pay": 32
             },
-            "value": 29500000000000000,
+            "value": 30000000000000000,
             "probability": 2.1036973574981e-05
         },
         {
@@ -266,6 +266,21 @@
         },
         {
             "player": {
+                "id": 13128,
+                "name": "안드리 셰우첸코",
+                "season": "WG",
+                "season_no": 861,
+                "ovr": 136,
+                "position": "ST",
+                "nation": 49,
+                "upgrade": 9,
+                "pay": 31
+            },
+            "value": 14900000000000000,
+            "probability": 0.0378665524349652
+        },
+        {
+            "player": {
                 "id": 230025,
                 "name": "보비 찰턴",
                 "season": "WG",
@@ -281,18 +296,18 @@
         },
         {
             "player": {
-                "id": 13128,
-                "name": "안드리 셰우첸코",
+                "id": 168473,
+                "name": "베켄바워",
                 "season": "WG",
                 "season_no": 861,
-                "ovr": 136,
-                "position": "ST",
-                "nation": 49,
+                "ovr": 140,
+                "position": "CB",
+                "nation": 21,
                 "upgrade": 9,
-                "pay": 31
+                "pay": 32
             },
             "value": 14500000000000000,
-            "probability": 0.0378665524349652
+            "probability": 0.042073947149961294
         },
         {
             "player": {
@@ -311,17 +326,32 @@
         },
         {
             "player": {
-                "id": 168473,
-                "name": "베켄바워",
+                "id": 215732,
+                "name": "올리버 비어호프",
                 "season": "WG",
                 "season_no": 861,
-                "ovr": 140,
-                "position": "CB",
+                "ovr": 137,
+                "position": "ST",
                 "nation": 21,
                 "upgrade": 9,
-                "pay": 32
+                "pay": 31
             },
             "value": 13200000000000000,
+            "probability": 0.042073947149961294
+        },
+        {
+            "player": {
+                "id": 190046,
+                "name": "소크라테스",
+                "season": "WG",
+                "season_no": 861,
+                "ovr": 135,
+                "position": "CAM",
+                "nation": 54,
+                "upgrade": 9,
+                "pay": 30
+            },
+            "value": 13100000000000000,
             "probability": 0.042073947149961294
         },
         {
@@ -337,7 +367,7 @@
                 "pay": 32
             },
             "value": 12900000000000000,
-            "probability": 0.042073947149961294
+            "probability": 0.0416532076784617
         },
         {
             "player": {
@@ -352,36 +382,6 @@
                 "pay": 29
             },
             "value": 12500000000000000,
-            "probability": 0.042073947149961294
-        },
-        {
-            "player": {
-                "id": 190046,
-                "name": "소크라테스",
-                "season": "WG",
-                "season_no": 861,
-                "ovr": 135,
-                "position": "CAM",
-                "nation": 54,
-                "upgrade": 9,
-                "pay": 30
-            },
-            "value": 12400000000000000,
-            "probability": 0.0416532076784617
-        },
-        {
-            "player": {
-                "id": 215732,
-                "name": "올리버 비어호프",
-                "season": "WG",
-                "season_no": 861,
-                "ovr": 137,
-                "position": "ST",
-                "nation": 21,
-                "upgrade": 9,
-                "pay": 31
-            },
-            "value": 12000000000000000,
             "probability": 0.0416532076784617
         },
         {
@@ -446,17 +446,17 @@
         },
         {
             "player": {
-                "id": 183277,
-                "name": "에덴 아자르",
+                "id": 41,
+                "name": "이니에스타",
                 "season": "WG",
                 "season_no": 861,
                 "ovr": 138,
-                "position": "CAM",
-                "nation": 7,
+                "position": "LW",
+                "nation": 45,
                 "upgrade": 9,
-                "pay": 32
+                "pay": 31
             },
-            "value": 10500000000000000,
+            "value": 10800000000000000,
             "probability": 0.0302932419479721
         },
         {
@@ -476,6 +476,21 @@
         },
         {
             "player": {
+                "id": 11141,
+                "name": "미로슬라프 클로제",
+                "season": "WG",
+                "season_no": 861,
+                "ovr": 139,
+                "position": "ST",
+                "nation": 21,
+                "upgrade": 9,
+                "pay": 32
+            },
+            "value": 10400000000000000,
+            "probability": 0.0252443682899768
+        },
+        {
+            "player": {
                 "id": 13743,
                 "name": "스티븐 제라드",
                 "season": "WG",
@@ -491,32 +506,32 @@
         },
         {
             "player": {
-                "id": 41,
-                "name": "이니에스타",
+                "id": 1238,
+                "name": "프란체스코 토티",
                 "season": "WG",
                 "season_no": 861,
-                "ovr": 138,
-                "position": "LW",
-                "nation": 45,
-                "upgrade": 9,
-                "pay": 31
-            },
-            "value": 10200000000000000,
-            "probability": 0.0252443682899768
-        },
-        {
-            "player": {
-                "id": 11141,
-                "name": "미로슬라프 클로제",
-                "season": "WG",
-                "season_no": 861,
-                "ovr": 139,
-                "position": "ST",
-                "nation": 21,
+                "ovr": 137,
+                "position": "CF",
+                "nation": null,
                 "upgrade": 9,
                 "pay": 32
             },
-            "value": 9750000000000000,
+            "value": 10000000000000000,
+            "probability": 0.0201954946319814
+        },
+        {
+            "player": {
+                "id": 183277,
+                "name": "에덴 아자르",
+                "season": "WG",
+                "season_no": 861,
+                "ovr": 138,
+                "position": "CAM",
+                "nation": 7,
+                "upgrade": 9,
+                "pay": 32
+            },
+            "value": 9500000000000000,
             "probability": 0.0201954946319814
         },
         {
@@ -532,21 +547,6 @@
                 "pay": 32
             },
             "value": 9440000000000000,
-            "probability": 0.0201954946319814
-        },
-        {
-            "player": {
-                "id": 1238,
-                "name": "프란체스코 토티",
-                "season": "WG",
-                "season_no": 861,
-                "ovr": 137,
-                "position": "CF",
-                "nation": null,
-                "upgrade": 9,
-                "pay": 32
-            },
-            "value": 9120000000000000,
             "probability": 0.0151466209739861
         },
         {
@@ -566,21 +566,6 @@
         },
         {
             "player": {
-                "id": 7763,
-                "name": "안드레아 피를로",
-                "season": "WG",
-                "season_no": 861,
-                "ovr": 137,
-                "position": "CM",
-                "nation": 27,
-                "upgrade": 9,
-                "pay": 31
-            },
-            "value": 7960000000000000,
-            "probability": 0.011219719239989701
-        },
-        {
-            "player": {
                 "id": 167135,
                 "name": "카를루스 아우베르투",
                 "season": "WG",
@@ -591,7 +576,7 @@
                 "upgrade": 9,
                 "pay": 30
             },
-            "value": 7910000000000000,
+            "value": 8700000000000000,
             "probability": 0.011219719239989701
         },
         {
@@ -606,22 +591,37 @@
                 "upgrade": 9,
                 "pay": 30
             },
-            "value": 7800000000000000,
+            "value": 8580000000000000,
+            "probability": 0.011219719239989701
+        },
+        {
+            "player": {
+                "id": 7763,
+                "name": "안드레아 피를로",
+                "season": "WG",
+                "season_no": 861,
+                "ovr": 137,
+                "position": "CM",
+                "nation": 27,
+                "upgrade": 9,
+                "pay": 31
+            },
+            "value": 8250000000000000,
             "probability": 0.00560985961999484
         },
         {
             "player": {
-                "id": 138449,
-                "name": "카카",
+                "id": 155897,
+                "name": "클린트 뎀프시",
                 "season": "WG",
                 "season_no": 861,
-                "ovr": 136,
-                "position": "CAM",
-                "nation": 54,
+                "ovr": 135,
+                "position": "CF",
+                "nation": 95,
                 "upgrade": 9,
-                "pay": 31
+                "pay": 29
             },
-            "value": 7650000000000000,
+            "value": 7800000000000000,
             "probability": 0.00560985961999484
         }
     ]
