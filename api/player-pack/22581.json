@@ -3,42 +3,27 @@
     "id": "22581",
     "name": "ICON TM Top Price 35 선수팩 (1~4강, 122+)",
     "image": null,
-    "expectedBp": 2940394736842104.0,
+    "expectedBp": 2907815789473683.0,
     "expectedValue": {
-        "bp_player": 2940394736842104.0
+        "bp_player": 2907815789473683.0
     },
     "percentile": {
-        "0": 8570000000000000,
-        "1": 7990000000000000,
-        "2": 7600000000000000,
-        "5": 7000000000000000,
+        "0": 8400000000000000,
+        "1": 7940000000000000,
+        "2": 7200000000000000,
+        "5": 6990000000000000,
         "10": 5800000000000000,
-        "20": 3220000000000000,
-        "30": 2770000000000000,
-        "40": 2750000000000000,
-        "50": 2650000000000000,
-        "60": 2280000000000000,
-        "70": 1970000000000000,
-        "80": 1950000000000000,
-        "90": 1780000000000000,
-        "100": 1700000000000000
+        "20": 3190000000000000,
+        "30": 2850000000000000,
+        "40": 2640000000000000,
+        "50": 2280000000000000,
+        "60": 2170000000000000,
+        "70": 2000000000000000,
+        "80": 1980000000000000,
+        "90": 1850000000000000,
+        "100": 1670000000000000
     },
     "playerList": [
-        {
-            "player": {
-                "id": 49369,
-                "name": "페르난도 토레스",
-                "season": "ICONTM",
-                "season_no": 100,
-                "ovr": 126,
-                "position": "ST",
-                "nation": 45,
-                "upgrade": 4,
-                "pay": 32
-            },
-            "value": 8570000000000000,
-            "probability": 0.0026315789473684197
-        },
         {
             "player": {
                 "id": 41236,
@@ -51,7 +36,7 @@
                 "upgrade": 4,
                 "pay": 33
             },
-            "value": 8000000000000000,
+            "value": 8400000000000000,
             "probability": 0.0026315789473684197
         },
         {
@@ -90,6 +75,21 @@
                 "name": "페르난도 토레스",
                 "season": "ICONTM",
                 "season_no": 100,
+                "ovr": 126,
+                "position": "ST",
+                "nation": 45,
+                "upgrade": 4,
+                "pay": 32
+            },
+            "value": 7940000000000000,
+            "probability": 0.0026315789473684197
+        },
+        {
+            "player": {
+                "id": 49369,
+                "name": "페르난도 토레스",
+                "season": "ICONTM",
+                "season_no": 100,
                 "ovr": 124,
                 "position": "ST",
                 "nation": 45,
@@ -98,21 +98,6 @@
             },
             "value": 7600000000000000,
             "probability": 0.0026315789473684197
-        },
-        {
-            "player": {
-                "id": 214100,
-                "name": "루드 굴리트",
-                "season": "ICONTM",
-                "season_no": 100,
-                "ovr": 129,
-                "position": "CF",
-                "nation": 34,
-                "upgrade": 4,
-                "pay": 34
-            },
-            "value": 7600000000000000,
-            "probability": 0.0131578947368421
         },
         {
             "player": {
@@ -150,13 +135,28 @@
                 "name": "루드 굴리트",
                 "season": "ICONTM",
                 "season_no": 100,
+                "ovr": 129,
+                "position": "CF",
+                "nation": 34,
+                "upgrade": 4,
+                "pay": 34
+            },
+            "value": 6990000000000000,
+            "probability": 0.0131578947368421
+        },
+        {
+            "player": {
+                "id": 214100,
+                "name": "루드 굴리트",
+                "season": "ICONTM",
+                "season_no": 100,
                 "ovr": 127,
                 "position": "CF",
                 "nation": 34,
                 "upgrade": 3,
                 "pay": 34
             },
-            "value": 7000000000000000,
+            "value": 6990000000000000,
             "probability": 0.0131578947368421
         },
         {
@@ -171,7 +171,7 @@
                 "upgrade": 3,
                 "pay": 34
             },
-            "value": 6210000000000000,
+            "value": 6200000000000000,
             "probability": 0.0131578947368421
         },
         {
@@ -246,38 +246,8 @@
                 "upgrade": 3,
                 "pay": 34
             },
-            "value": 3220000000000000,
+            "value": 3190000000000000,
             "probability": 0.0263157894736842
-        },
-        {
-            "player": {
-                "id": 1625,
-                "name": "티에리 앙리",
-                "season": "ICONTM",
-                "season_no": 100,
-                "ovr": 128,
-                "position": "ST",
-                "nation": 18,
-                "upgrade": 4,
-                "pay": 32
-            },
-            "value": 2800000000000000,
-            "probability": 0.0394736842105263
-        },
-        {
-            "player": {
-                "id": 1625,
-                "name": "티에리 앙리",
-                "season": "ICONTM",
-                "season_no": 100,
-                "ovr": 126,
-                "position": "ST",
-                "nation": 18,
-                "upgrade": 3,
-                "pay": 32
-            },
-            "value": 2780000000000000,
-            "probability": 0.0394736842105263
         },
         {
             "player": {
@@ -291,37 +261,22 @@
                 "upgrade": 2,
                 "pay": 34
             },
-            "value": 2770000000000000,
+            "value": 3050000000000000,
             "probability": 0.0394736842105263
         },
         {
             "player": {
-                "id": 9676,
-                "name": "사뮈엘 에토",
+                "id": 1625,
+                "name": "티에리 앙리",
                 "season": "ICONTM",
                 "season_no": 100,
                 "ovr": 128,
                 "position": "ST",
-                "nation": 103,
+                "nation": 18,
                 "upgrade": 4,
                 "pay": 32
             },
-            "value": 2750000000000000,
-            "probability": 0.0394736842105263
-        },
-        {
-            "player": {
-                "id": 9676,
-                "name": "사뮈엘 에토",
-                "season": "ICONTM",
-                "season_no": 100,
-                "ovr": 126,
-                "position": "ST",
-                "nation": 103,
-                "upgrade": 3,
-                "pay": 32
-            },
-            "value": 2750000000000000,
+            "value": 3000000000000000,
             "probability": 0.0394736842105263
         },
         {
@@ -336,22 +291,7 @@
                 "upgrade": 1,
                 "pay": 34
             },
-            "value": 2680000000000000,
-            "probability": 0.0394736842105263
-        },
-        {
-            "player": {
-                "id": 1625,
-                "name": "티에리 앙리",
-                "season": "ICONTM",
-                "season_no": 100,
-                "ovr": 124,
-                "position": "ST",
-                "nation": 18,
-                "upgrade": 1,
-                "pay": 32
-            },
-            "value": 2650000000000000,
+            "value": 2850000000000000,
             "probability": 0.0394736842105263
         },
         {
@@ -366,7 +306,37 @@
                 "upgrade": 2,
                 "pay": 32
             },
-            "value": 2650000000000000,
+            "value": 2640000000000000,
+            "probability": 0.0394736842105263
+        },
+        {
+            "player": {
+                "id": 1625,
+                "name": "티에리 앙리",
+                "season": "ICONTM",
+                "season_no": 100,
+                "ovr": 124,
+                "position": "ST",
+                "nation": 18,
+                "upgrade": 1,
+                "pay": 32
+            },
+            "value": 2640000000000000,
+            "probability": 0.0394736842105263
+        },
+        {
+            "player": {
+                "id": 1625,
+                "name": "티에리 앙리",
+                "season": "ICONTM",
+                "season_no": 100,
+                "ovr": 126,
+                "position": "ST",
+                "nation": 18,
+                "upgrade": 3,
+                "pay": 32
+            },
+            "value": 2640000000000000,
             "probability": 0.0394736842105263
         },
         {
@@ -401,21 +371,6 @@
         },
         {
             "player": {
-                "id": 9676,
-                "name": "사뮈엘 에토",
-                "season": "ICONTM",
-                "season_no": 100,
-                "ovr": 125,
-                "position": "ST",
-                "nation": 103,
-                "upgrade": 2,
-                "pay": 32
-            },
-            "value": 2110000000000000,
-            "probability": 0.0394736842105263
-        },
-        {
-            "player": {
                 "id": 191208,
                 "name": "차범근",
                 "season": "ICONTM",
@@ -426,22 +381,7 @@
                 "upgrade": 4,
                 "pay": 32
             },
-            "value": 2030000000000000,
-            "probability": 0.0394736842105263
-        },
-        {
-            "player": {
-                "id": 191208,
-                "name": "차범근",
-                "season": "ICONTM",
-                "season_no": 100,
-                "ovr": 125,
-                "position": "ST",
-                "nation": 167,
-                "upgrade": 3,
-                "pay": 32
-            },
-            "value": 1970000000000000,
+            "value": 2170000000000000,
             "probability": 0.0394736842105263
         },
         {
@@ -456,7 +396,52 @@
                 "upgrade": 2,
                 "pay": 32
             },
-            "value": 1970000000000000,
+            "value": 2170000000000000,
+            "probability": 0.0394736842105263
+        },
+        {
+            "player": {
+                "id": 191208,
+                "name": "차범근",
+                "season": "ICONTM",
+                "season_no": 100,
+                "ovr": 125,
+                "position": "ST",
+                "nation": 167,
+                "upgrade": 3,
+                "pay": 32
+            },
+            "value": 2170000000000000,
+            "probability": 0.0394736842105263
+        },
+        {
+            "player": {
+                "id": 9676,
+                "name": "사뮈엘 에토",
+                "season": "ICONTM",
+                "season_no": 100,
+                "ovr": 128,
+                "position": "ST",
+                "nation": 103,
+                "upgrade": 4,
+                "pay": 32
+            },
+            "value": 2140000000000000,
+            "probability": 0.0394736842105263
+        },
+        {
+            "player": {
+                "id": 9676,
+                "name": "사뮈엘 에토",
+                "season": "ICONTM",
+                "season_no": 100,
+                "ovr": 126,
+                "position": "ST",
+                "nation": 103,
+                "upgrade": 3,
+                "pay": 32
+            },
+            "value": 2000000000000000,
             "probability": 0.0394736842105263
         },
         {
@@ -471,7 +456,22 @@
                 "upgrade": 3,
                 "pay": 33
             },
-            "value": 1950000000000000,
+            "value": 1990000000000000,
+            "probability": 0.0394736842105263
+        },
+        {
+            "player": {
+                "id": 9676,
+                "name": "사뮈엘 에토",
+                "season": "ICONTM",
+                "season_no": 100,
+                "ovr": 125,
+                "position": "ST",
+                "nation": 103,
+                "upgrade": 2,
+                "pay": 32
+            },
+            "value": 1980000000000000,
             "probability": 0.0394736842105263
         },
         {
@@ -486,7 +486,22 @@
                 "upgrade": 1,
                 "pay": 32
             },
-            "value": 1950000000000000,
+            "value": 1890000000000000,
+            "probability": 0.0394736842105263
+        },
+        {
+            "player": {
+                "id": 138449,
+                "name": "카카",
+                "season": "ICONTM",
+                "season_no": 100,
+                "ovr": 125,
+                "position": "CAM",
+                "nation": 54,
+                "upgrade": 2,
+                "pay": 33
+            },
+            "value": 1880000000000000,
             "probability": 0.0394736842105263
         },
         {
@@ -501,7 +516,22 @@
                 "upgrade": 4,
                 "pay": 32
             },
-            "value": 1940000000000000,
+            "value": 1850000000000000,
+            "probability": 0.0394736842105263
+        },
+        {
+            "player": {
+                "id": 138449,
+                "name": "카카",
+                "season": "ICONTM",
+                "season_no": 100,
+                "ovr": 124,
+                "position": "CAM",
+                "nation": 54,
+                "upgrade": 1,
+                "pay": 33
+            },
+            "value": 1690000000000000,
             "probability": 0.0394736842105263
         },
         {
@@ -516,37 +546,7 @@
                 "upgrade": 1,
                 "pay": 32
             },
-            "value": 1780000000000000,
-            "probability": 0.0394736842105263
-        },
-        {
-            "player": {
-                "id": 138449,
-                "name": "카카",
-                "season": "ICONTM",
-                "season_no": 100,
-                "ovr": 125,
-                "position": "CAM",
-                "nation": 54,
-                "upgrade": 2,
-                "pay": 33
-            },
-            "value": 1770000000000000,
-            "probability": 0.0394736842105263
-        },
-        {
-            "player": {
-                "id": 54050,
-                "name": "웨인 루니",
-                "season": "ICONTM",
-                "season_no": 100,
-                "ovr": 126,
-                "position": "ST",
-                "nation": 14,
-                "upgrade": 3,
-                "pay": 32
-            },
-            "value": 1700000000000000,
+            "value": 1670000000000000,
             "probability": 0.0394736842105263
         }
     ]
