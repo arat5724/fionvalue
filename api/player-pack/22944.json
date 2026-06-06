@@ -3,42 +3,27 @@
     "id": "22944",
     "name": "TK Top Price 12 선수팩 (9강, 119+)",
     "image": null,
-    "expectedBp": 4337500000000000.0,
+    "expectedBp": 5885500000000000.0,
     "expectedValue": {
-        "bp_player": 4337500000000000.0
+        "bp_player": 5885500000000000.0
     },
     "percentile": {
-        "0": 14000000000000000,
-        "1": 14000000000000000,
-        "2": 13700000000000000,
-        "5": 13700000000000000,
-        "10": 6830000000000000,
-        "20": 5150000000000000,
-        "30": 4820000000000000,
-        "40": 3590000000000000,
-        "50": 3140000000000000,
-        "60": 3050000000000000,
-        "70": 3050000000000000,
-        "80": 2970000000000000,
-        "90": 2740000000000000,
-        "100": 2740000000000000
+        "0": 28900000000000000,
+        "1": 28900000000000000,
+        "2": 16100000000000000,
+        "5": 16100000000000000,
+        "10": 10100000000000000,
+        "20": 6860000000000000,
+        "30": 6660000000000000,
+        "40": 4930000000000000,
+        "50": 4530000000000000,
+        "60": 3940000000000000,
+        "70": 3940000000000000,
+        "80": 2900000000000000,
+        "90": 2880000000000000,
+        "100": 2880000000000000
     },
     "playerList": [
-        {
-            "player": {
-                "id": 200104,
-                "name": "손흥민",
-                "season": "TK",
-                "season_no": 864,
-                "ovr": 139,
-                "position": "ST",
-                "nation": 167,
-                "upgrade": 9,
-                "pay": 32
-            },
-            "value": 14000000000000000,
-            "probability": 0.0125
-        },
         {
             "player": {
                 "id": 39943,
@@ -51,22 +36,22 @@
                 "upgrade": 9,
                 "pay": 31
             },
-            "value": 13700000000000000,
-            "probability": 0.0375
+            "value": 28900000000000000,
+            "probability": 0.0125
         },
         {
             "player": {
-                "id": 138161,
-                "name": "홍명보",
+                "id": 200104,
+                "name": "손흥민",
                 "season": "TK",
                 "season_no": 864,
                 "ovr": 139,
-                "position": "CB",
+                "position": "ST",
                 "nation": 167,
                 "upgrade": 9,
                 "pay": 32
             },
-            "value": 7180000000000000,
+            "value": 16100000000000000,
             "probability": 0.0375
         },
         {
@@ -81,22 +66,37 @@
                 "upgrade": 9,
                 "pay": 31
             },
-            "value": 6830000000000000,
-            "probability": 0.05
+            "value": 15100000000000000,
+            "probability": 0.0375
         },
         {
             "player": {
-                "id": 140053,
-                "name": "유상철",
+                "id": 138161,
+                "name": "홍명보",
                 "season": "TK",
                 "season_no": 864,
-                "ovr": 138,
-                "position": "CM",
+                "ovr": 139,
+                "position": "CB",
                 "nation": 167,
                 "upgrade": 9,
                 "pay": 32
             },
-            "value": 5700000000000000,
+            "value": 10100000000000000,
+            "probability": 0.05
+        },
+        {
+            "player": {
+                "id": 140057,
+                "name": "차두리",
+                "season": "TK",
+                "season_no": 864,
+                "ovr": 136,
+                "position": "RB",
+                "nation": 167,
+                "upgrade": 9,
+                "pay": 30
+            },
+            "value": 7340000000000000,
             "probability": 0.05
         },
         {
@@ -111,53 +111,23 @@
                 "upgrade": 9,
                 "pay": 31
             },
-            "value": 5150000000000000,
+            "value": 6860000000000000,
             "probability": 0.0625
         },
         {
             "player": {
-                "id": 140057,
-                "name": "차두리",
-                "season": "TK",
-                "season_no": 864,
-                "ovr": 136,
-                "position": "RB",
-                "nation": 167,
-                "upgrade": 9,
-                "pay": 30
-            },
-            "value": 4820000000000000,
-            "probability": 0.0625
-        },
-        {
-            "player": {
-                "id": 34666,
-                "name": "이영표",
+                "id": 140053,
+                "name": "유상철",
                 "season": "TK",
                 "season_no": 864,
                 "ovr": 138,
-                "position": "LWB",
+                "position": "CM",
                 "nation": 167,
                 "upgrade": 9,
-                "pay": 30
+                "pay": 32
             },
-            "value": 3590000000000000,
-            "probability": 0.1375
-        },
-        {
-            "player": {
-                "id": 33730,
-                "name": "김남일",
-                "season": "TK",
-                "season_no": 864,
-                "ovr": 137,
-                "position": "CDM",
-                "nation": 167,
-                "upgrade": 9,
-                "pay": 30
-            },
-            "value": 3140000000000000,
-            "probability": 0.1375
+            "value": 6660000000000000,
+            "probability": 0.0625
         },
         {
             "player": {
@@ -171,7 +141,7 @@
                 "upgrade": 9,
                 "pay": 30
             },
-            "value": 3050000000000000,
+            "value": 4930000000000000,
             "probability": 0.1375
         },
         {
@@ -186,22 +156,52 @@
                 "upgrade": 9,
                 "pay": 30
             },
-            "value": 2970000000000000,
+            "value": 4530000000000000,
             "probability": 0.1375
         },
         {
             "player": {
-                "id": 155355,
-                "name": "이청용",
+                "id": 136600,
+                "name": "최진철",
+                "season": "TK",
+                "season_no": 864,
+                "ovr": 136,
+                "position": "CB",
+                "nation": 167,
+                "upgrade": 9,
+                "pay": 30
+            },
+            "value": 3940000000000000,
+            "probability": 0.1375
+        },
+        {
+            "player": {
+                "id": 136705,
+                "name": "김태영",
+                "season": "TK",
+                "season_no": 864,
+                "ovr": 136,
+                "position": "CB",
+                "nation": 167,
+                "upgrade": 9,
+                "pay": 30
+            },
+            "value": 2900000000000000,
+            "probability": 0.1375
+        },
+        {
+            "player": {
+                "id": 33730,
+                "name": "김남일",
                 "season": "TK",
                 "season_no": 864,
                 "ovr": 137,
-                "position": "RW",
+                "position": "CDM",
                 "nation": 167,
                 "upgrade": 9,
-                "pay": 31
+                "pay": 30
             },
-            "value": 2740000000000000,
+            "value": 2880000000000000,
             "probability": 0.1375
         }
     ]
