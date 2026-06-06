@@ -4,57 +4,43 @@
     "name": "PTG 10강, CH 11강 기회 프리미엄 패키지",
     "image": "/assets/image/item/14626_s.png",
     "price": 14900,
-    "efficiency": 0.0,
-    "expectedBp": 0,
+    "efficiency": 2239535.309466357,
+    "expectedBp": 3336907611104871.5,
     "expectedValue": {
-        "PTG 10강, CH 11강 기회 상자": 1,
-        "[동일확률] PTG Top Price 3384 (1~6강)": 3
+        "bp_player": 2886907611104871.5,
+        "bp_card": 450000000000000.0
     },
-    "efficiency1": 0.0,
-    "expectedBp1": 0,
+    "efficiency1": 2239535.309466357,
+    "expectedBp1": 3336907611104871.5,
     "expectedValue1": {
-        "PTG 10강, CH 11강 기회 상자": 1,
-        "[동일확률] PTG Top Price 3384 (1~6강)": 3
+        "bp_player": 2886907611104871.5,
+        "bp_card": 450000000000000.0
     },
-    "percentile": {
-        "0": 0,
-        "1": 0,
-        "2": 0,
-        "5": 0,
-        "10": 0,
-        "20": 0,
-        "30": 0,
-        "40": 0,
-        "50": 0,
-        "60": 0,
-        "70": 0,
-        "80": 0,
-        "90": 0,
-        "100": 0
-    },
+    "percentile": null,
     "itemList": [
         {
             "item": {
-                "type": "other",
-                "id": -1,
+                "type": "box",
+                "id": "22823",
                 "name": "PTG 10강, CH 11강 기회 상자",
                 "image": "/assets/image/item/201709958_s.png",
-                "expectedBp": 0,
+                "expectedBp": 3313075325200616.0,
                 "expectedValue": {
-                    "PTG 10강, CH 11강 기회 상자": 1
+                    "bp_player": 2863075325200616.0,
+                    "bp_card": 450000000000000.0
                 }
             },
             "amount": 1
         },
         {
             "item": {
-                "type": "other",
-                "id": -1,
+                "type": "player-pack",
+                "id": "22801",
                 "name": "[동일확률] PTG Top Price 3384 (1~6강)",
                 "image": "/assets/image/item/200242260_s.png",
-                "expectedBp": 0,
+                "expectedBp": 7944095301418.426,
                 "expectedValue": {
-                    "[동일확률] PTG Top Price 3384 (1~6강)": 1
+                    "bp_player": 7944095301418.426
                 }
             },
             "amount": 3

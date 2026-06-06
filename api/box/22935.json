@@ -1,0 +1,77 @@
+{
+    "type": "box",
+    "id": "22935",
+    "name": "[마일리지] TK, PTG 기회 상자",
+    "image": "/assets/image/item/201710024_s.png",
+    "expectedBp": 419841765957.44666,
+    "expectedValue": {
+        "bp_player": 215591765957.44666,
+        "bp_card": 204250000000.0
+    },
+    "expectedBp1": 419841765957.44666,
+    "expectedValue1": {
+        "bp_player": 215591765957.44666,
+        "bp_card": 204250000000.0
+    },
+    "percentile": {
+        "0": 1630000000000000,
+        "1": 1540000000000,
+        "2": 1000000000000,
+        "5": 1000000000000,
+        "10": 300000000000,
+        "20": 300000000000,
+        "30": 300000000000,
+        "40": 300000000000,
+        "50": 100000000000,
+        "60": 100000000000,
+        "70": 100000000000,
+        "80": 100000000000,
+        "90": 100000000000,
+        "100": 21000000000
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "22926",
+                "name": "[마일리지][동일확률] TK 클래스 Top Price 30 (1강, 115+)",
+                "image": "/assets/image/item/200237312_s.png",
+                "expectedBp": 7640266666666.658,
+                "expectedValue": {
+                    "bp_player": 7640266666666.658
+                }
+            },
+            "amount": 1,
+            "probability": 0.01
+        },
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "22927",
+                "name": "[마일리지][동일확률] PTG 클래스 Top Price 564 (1강, 100+)",
+                "image": null,
+                "expectedBp": 3479727482269.5015,
+                "expectedValue": {
+                    "bp_player": 3479727482269.5015
+                }
+            },
+            "amount": 1,
+            "probability": 0.04
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "22934",
+                "name": "[마일리지] 행운의 BP 카드 (1,000억~1조)",
+                "image": null,
+                "expectedBp": 215000000000.0,
+                "expectedValue": {
+                    "bp_card": 215000000000.0
+                }
+            },
+            "amount": 1,
+            "probability": 0.95
+        }
+    ],
+    "additionalInfoWithAmount": null
+}

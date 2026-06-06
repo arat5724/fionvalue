@@ -1,0 +1,77 @@
+{
+    "type": "box",
+    "id": "22919",
+    "name": "[AG][30조 BP 찬스][26.05] 위클리 3인 트레이드 의뢰 상자",
+    "image": null,
+    "expectedBp": 528833333333.33307,
+    "expectedValue": {
+        "bp_card": 528833333333.33307,
+        "[AG][FAC 포함] 멀티 클래스 Top Price 9000 선수팩 (5~8강)": 0.6498999999999999
+    },
+    "expectedBp1": 528833333333.33307,
+    "expectedValue1": {
+        "bp_card": 528833333333.33307,
+        "[AG][FAC 포함] 멀티 클래스 Top Price 9000 선수팩 (5~8강)": 0.6498999999999999
+    },
+    "percentile": {
+        "0": 30000000000000,
+        "1": 2000000000000,
+        "2": 1800000000000,
+        "5": 1600000000000,
+        "10": 1500000000000,
+        "20": 1300000000000,
+        "30": 1100000000000,
+        "40": 0,
+        "50": 0,
+        "60": 0,
+        "70": 0,
+        "80": 0,
+        "90": 0,
+        "100": 0
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "bp",
+                "id": "22906",
+                "name": "[AG] BP카드 30,000,000,000,000",
+                "image": null,
+                "expectedBp": 30000000000000.0,
+                "expectedValue": {
+                    "bp_card": 30000000000000.0
+                }
+            },
+            "amount": 1,
+            "probability": 0.0001
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[AG][FAC 포함] 멀티 클래스 Top Price 9000 선수팩 (5~8강)",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[AG][FAC 포함] 멀티 클래스 Top Price 9000 선수팩 (5~8강)": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.6498999999999999
+        },
+        {
+            "item": {
+                "type": "bp",
+                "id": "22908",
+                "name": "[AG] 행운의 BP 카드 (1조~30조 BP)",
+                "image": null,
+                "expectedBp": 1502380952380.9517,
+                "expectedValue": {
+                    "bp_card": 1502380952380.9517
+                }
+            },
+            "amount": 1,
+            "probability": 0.35
+        }
+    ],
+    "additionalInfoWithAmount": null
+}

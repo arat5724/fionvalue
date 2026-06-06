@@ -1,0 +1,63 @@
+{
+    "type": "box",
+    "id": "22920",
+    "name": "[AG][WG TP 50 5강 찬스][26.05] 프리미엄 3인 선수팩 트레이드 의뢰 상자",
+    "image": null,
+    "expectedBp": 25361807804.80846,
+    "expectedValue": {
+        "bp_player": 25361807804.80846,
+        "[AG][FAC 포함] 멀티 클래스 Top Price 3500 선수팩 (1~5강)": 0.9990000000000001
+    },
+    "expectedBp1": 25361807804.80846,
+    "expectedValue1": {
+        "bp_player": 25361807804.80846,
+        "[AG][FAC 포함] 멀티 클래스 Top Price 3500 선수팩 (1~5강)": 0.9990000000000001
+    },
+    "percentile": {
+        "0": 1210000000000000,
+        "1": 0,
+        "2": 0,
+        "5": 0,
+        "10": 0,
+        "20": 0,
+        "30": 0,
+        "40": 0,
+        "50": 0,
+        "60": 0,
+        "70": 0,
+        "80": 0,
+        "90": 0,
+        "100": 0
+    },
+    "itemList": [
+        {
+            "item": {
+                "type": "player-pack",
+                "id": "22891",
+                "name": "[AG] WG 클래스 Top Price 50 선수팩 (5강)",
+                "image": null,
+                "expectedBp": 25361807804808.46,
+                "expectedValue": {
+                    "bp_player": 25361807804808.46
+                }
+            },
+            "amount": 1,
+            "probability": 0.001
+        },
+        {
+            "item": {
+                "type": "other",
+                "id": -1,
+                "name": "[AG][FAC 포함] 멀티 클래스 Top Price 3500 선수팩 (1~5강)",
+                "image": null,
+                "expectedBp": 0,
+                "expectedValue": {
+                    "[AG][FAC 포함] 멀티 클래스 Top Price 3500 선수팩 (1~5강)": 1
+                }
+            },
+            "amount": 1,
+            "probability": 0.9990000000000001
+        }
+    ],
+    "additionalInfoWithAmount": null
+}
