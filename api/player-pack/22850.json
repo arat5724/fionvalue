@@ -3,27 +3,42 @@
     "id": "22850",
     "name": "[열쇠 360개] CH, DCB, LE, WB Top Price 20 (11강, 115+)",
     "image": null,
-    "expectedBp": 6.44814253315815e+16,
+    "expectedBp": 6.45013744566432e+16,
     "expectedValue": {
-        "bp_player": 6.44814253315815e+16
+        "bp_player": 6.45013744566432e+16
     },
     "percentile": {
-        "0": 279000000000000000,
-        "1": 124000000000000000,
-        "2": 124000000000000000,
-        "5": 80000000000000000,
-        "10": 75000000000000000,
-        "20": 74900000000000000,
-        "30": 70000000000000000,
-        "40": 69000000000000000,
+        "0": 281000000000000000,
+        "1": 121000000000000000,
+        "2": 121000000000000000,
+        "5": 82700000000000000,
+        "10": 80000000000000000,
+        "20": 71000000000000000,
+        "30": 66000000000000000,
+        "40": 64900000000000000,
         "50": 64600000000000000,
-        "60": 56000000000000000,
-        "70": 53500000000000000,
-        "80": 52900000000000000,
-        "90": 50100000000000000,
-        "100": 47500000000000000
+        "60": 60000000000000000,
+        "70": 56000000000000000,
+        "80": 55700000000000000,
+        "90": 50000000000000000,
+        "100": 45100000000000000
     },
     "playerList": [
+        {
+            "player": {
+                "id": 37576,
+                "name": "호나우두",
+                "season": "CH",
+                "season_no": 845,
+                "ovr": 142,
+                "position": "ST",
+                "nation": 54,
+                "upgrade": 11,
+                "pay": 33
+            },
+            "value": 281000000000000000,
+            "probability": 1.43673929144e-07
+        },
         {
             "player": {
                 "id": 20801,
@@ -37,7 +52,7 @@
                 "pay": 32
             },
             "value": 279000000000000000,
-            "probability": 1.43673929144e-07
+            "probability": 2.8734785828899997e-07
         },
         {
             "player": {
@@ -56,21 +71,6 @@
         },
         {
             "player": {
-                "id": 37576,
-                "name": "호나우두",
-                "season": "CH",
-                "season_no": 845,
-                "ovr": 142,
-                "position": "ST",
-                "nation": 54,
-                "upgrade": 11,
-                "pay": 33
-            },
-            "value": 255000000000000000,
-            "probability": 2.8734785828899997e-07
-        },
-        {
-            "player": {
                 "id": 214100,
                 "name": "루드 굴리트",
                 "season": "CH",
@@ -81,7 +81,7 @@
                 "upgrade": 11,
                 "pay": 32
             },
-            "value": 148000000000000000,
+            "value": 137000000000000000,
             "probability": 2.8734785828866002e-05
         },
         {
@@ -96,8 +96,23 @@
                 "upgrade": 11,
                 "pay": 32
             },
-            "value": 124000000000000000,
+            "value": 121000000000000000,
             "probability": 0.0287347858288657
+        },
+        {
+            "player": {
+                "id": 165153,
+                "name": "카림 벤제마",
+                "season": "DCB",
+                "season_no": 846,
+                "ovr": 140,
+                "position": "ST",
+                "nation": 18,
+                "upgrade": 11,
+                "pay": 31
+            },
+            "value": 82700000000000000,
+            "probability": 0.0574695716577314
         },
         {
             "player": {
@@ -116,62 +131,17 @@
         },
         {
             "player": {
-                "id": 165153,
-                "name": "카림 벤제마",
-                "season": "DCB",
-                "season_no": 846,
+                "id": 208722,
+                "name": "사디오 마네",
+                "season": "CH",
+                "season_no": 845,
                 "ovr": 140,
-                "position": "ST",
-                "nation": 18,
+                "position": "LW",
+                "nation": 136,
                 "upgrade": 11,
                 "pay": 31
             },
-            "value": 75000000000000000,
-            "probability": 0.0574695716577314
-        },
-        {
-            "player": {
-                "id": 31432,
-                "name": "디디에 드로그바",
-                "season": "DCB",
-                "season_no": 846,
-                "ovr": 139,
-                "position": "ST",
-                "nation": 108,
-                "upgrade": 11,
-                "pay": 31
-            },
-            "value": 74900000000000000,
-            "probability": 0.086204357486597
-        },
-        {
-            "player": {
-                "id": 176580,
-                "name": "루이스 수아레스",
-                "season": "CH",
-                "season_no": 845,
-                "ovr": 141,
-                "position": "ST",
-                "nation": 60,
-                "upgrade": 11,
-                "pay": 31
-            },
-            "value": 70000000000000000,
-            "probability": 0.086204357486597
-        },
-        {
-            "player": {
-                "id": 1625,
-                "name": "티에리 앙리",
-                "season": "CH",
-                "season_no": 845,
-                "ovr": 141,
-                "position": "ST",
-                "nation": 18,
-                "upgrade": 11,
-                "pay": 32
-            },
-            "value": 69000000000000000,
+            "value": 71000000000000000,
             "probability": 0.086204357486597
         },
         {
@@ -186,37 +156,67 @@
                 "upgrade": 11,
                 "pay": 32
             },
+            "value": 66000000000000000,
+            "probability": 0.086204357486597
+        },
+        {
+            "player": {
+                "id": 31432,
+                "name": "디디에 드로그바",
+                "season": "DCB",
+                "season_no": 846,
+                "ovr": 139,
+                "position": "ST",
+                "nation": 108,
+                "upgrade": 11,
+                "pay": 31
+            },
+            "value": 64900000000000000,
+            "probability": 0.086204357486597
+        },
+        {
+            "player": {
+                "id": 176580,
+                "name": "루이스 수아레스",
+                "season": "CH",
+                "season_no": 845,
+                "ovr": 141,
+                "position": "ST",
+                "nation": 60,
+                "upgrade": 11,
+                "pay": 31
+            },
             "value": 64600000000000000,
             "probability": 0.10057175040102999
         },
         {
             "player": {
-                "id": 208722,
-                "name": "사디오 마네",
+                "id": 1625,
+                "name": "티에리 앙리",
                 "season": "CH",
                 "season_no": 845,
-                "ovr": 140,
-                "position": "LW",
-                "nation": 136,
+                "ovr": 141,
+                "position": "ST",
+                "nation": 18,
                 "upgrade": 11,
-                "pay": 31
+                "pay": 32
             },
-            "value": 63800000000000000,
+            "value": 64300000000000000,
             "probability": 0.0905145753609269
         },
         {
             "player": {
-                "id": 49369,
-                "name": "페르난도 토레스",
-                "season": "CH",
-                "season_no": 845,
-                "ovr": 139,
-                "position": "ST",
-                "nation": 45,
+                "id": 231281,
+                "name": "T. 알렉산더-아놀드",
+                "season": "DCB",
+                "season_no": 846,
+                "ovr": 138,
+                "position": "RB",
+                "nation": 14,
                 "upgrade": 11,
-                "pay": 30
+                "pay": 28
             },
-            "value": 56000000000000000,
+            "value": 60000000000000000,
             "probability": 0.08045740032082391
         },
         {
@@ -231,7 +231,7 @@
                 "upgrade": 11,
                 "pay": 30
             },
-            "value": 53500000000000000,
+            "value": 56000000000000000,
             "probability": 0.08045740032082391
         },
         {
@@ -246,53 +246,38 @@
                 "upgrade": 11,
                 "pay": 30
             },
-            "value": 52900000000000000,
+            "value": 55700000000000000,
             "probability": 0.06896348598927761
         },
         {
             "player": {
-                "id": 231866,
-                "name": "로드리",
+                "id": 49369,
+                "name": "페르난도 토레스",
                 "season": "CH",
                 "season_no": 845,
-                "ovr": 142,
-                "position": "CDM",
+                "ovr": 139,
+                "position": "ST",
                 "nation": 45,
                 "upgrade": 11,
-                "pay": 31
+                "pay": 30
             },
-            "value": 51700000000000000,
+            "value": 52800000000000000,
             "probability": 0.0574695716577314
         },
         {
             "player": {
-                "id": 37576,
-                "name": "호나우두",
-                "season": "LE",
-                "season_no": 840,
-                "ovr": 138,
-                "position": "ST",
-                "nation": 54,
-                "upgrade": 11,
-                "pay": 31
-            },
-            "value": 50100000000000000,
-            "probability": 0.0459756573261851
-        },
-        {
-            "player": {
-                "id": 231281,
-                "name": "T. 알렉산더-아놀드",
+                "id": 188545,
+                "name": "레반도프스키",
                 "season": "DCB",
                 "season_no": 846,
                 "ovr": 138,
-                "position": "RB",
-                "nation": 14,
+                "position": "ST",
+                "nation": 37,
                 "upgrade": 11,
-                "pay": 28
+                "pay": 30
             },
-            "value": 49500000000000000,
-            "probability": 0.034481742994638805
+            "value": 50000000000000000,
+            "probability": 0.0459756573261851
         },
         {
             "player": {
@@ -307,21 +292,36 @@
                 "pay": 31
             },
             "value": 48000000000000000,
+            "probability": 0.034481742994638805
+        },
+        {
+            "player": {
+                "id": 231866,
+                "name": "로드리",
+                "season": "CH",
+                "season_no": 845,
+                "ovr": 142,
+                "position": "CDM",
+                "nation": 45,
+                "upgrade": 11,
+                "pay": 31
+            },
+            "value": 46500000000000000,
             "probability": 0.025861307245979098
         },
         {
             "player": {
-                "id": 192181,
-                "name": "마르코 반바스텐",
-                "season": "CH",
-                "season_no": 845,
-                "ovr": 142,
+                "id": 37576,
+                "name": "호나우두",
+                "season": "LE",
+                "season_no": 840,
+                "ovr": 138,
                 "position": "ST",
-                "nation": 34,
+                "nation": 54,
                 "upgrade": 11,
-                "pay": 32
+                "pay": 31
             },
-            "value": 47500000000000000,
+            "value": 45100000000000000,
             "probability": 0.012930653622989601
         }
     ]
