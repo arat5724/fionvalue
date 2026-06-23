@@ -3,25 +3,25 @@
     "id": "23026",
     "name": "FAC Top Price 25 선수팩 (11강, 113+)",
     "image": null,
-    "expectedBp": 3.6371875e+16,
+    "expectedBp": 3.572125e+16,
     "expectedValue": {
-        "bp_player": 3.6371875e+16
+        "bp_player": 3.572125e+16
     },
     "percentile": {
         "0": 230000000000000000,
-        "1": 186000000000000000,
-        "2": 119000000000000000,
-        "5": 74600000000000000,
-        "10": 42400000000000000,
-        "20": 36900000000000000,
-        "30": 31000000000000000,
-        "40": 30500000000000000,
-        "50": 30100000000000000,
-        "60": 28000000000000000,
-        "70": 27900000000000000,
-        "80": 27500000000000000,
+        "1": 191000000000000000,
+        "2": 116000000000000000,
+        "5": 74000000000000000,
+        "10": 46000000000000000,
+        "20": 34200000000000000,
+        "30": 30000000000000000,
+        "40": 29000000000000000,
+        "50": 28900000000000000,
+        "60": 28400000000000000,
+        "70": 27600000000000000,
+        "80": 27000000000000000,
         "90": 27000000000000000,
-        "100": 27000000000000000
+        "100": 26600000000000000
     },
     "playerList": [
         {
@@ -51,7 +51,7 @@
                 "upgrade": 11,
                 "pay": 31
             },
-            "value": 186000000000000000,
+            "value": 191000000000000000,
             "probability": 0.00625
         },
         {
@@ -81,7 +81,7 @@
                 "upgrade": 11,
                 "pay": 32
             },
-            "value": 119000000000000000,
+            "value": 116000000000000000,
             "probability": 0.00625
         },
         {
@@ -96,23 +96,8 @@
                 "upgrade": 11,
                 "pay": 31
             },
-            "value": 105000000000000000,
+            "value": 94000000000000000,
             "probability": 0.00625
-        },
-        {
-            "player": {
-                "id": 247703,
-                "name": "이언 러시",
-                "season": "FAC",
-                "season_no": 852,
-                "ovr": 141,
-                "position": "ST",
-                "nation": 50,
-                "upgrade": 11,
-                "pay": 31
-            },
-            "value": 74600000000000000,
-            "probability": 0.01875
         },
         {
             "player": {
@@ -126,7 +111,22 @@
                 "upgrade": 11,
                 "pay": 27
             },
-            "value": 69000000000000000,
+            "value": 74000000000000000,
+            "probability": 0.01875
+        },
+        {
+            "player": {
+                "id": 247703,
+                "name": "이언 러시",
+                "season": "FAC",
+                "season_no": 852,
+                "ovr": 141,
+                "position": "ST",
+                "nation": 50,
+                "upgrade": 11,
+                "pay": 31
+            },
+            "value": 72000000000000000,
             "probability": 0.01875
         },
         {
@@ -141,7 +141,7 @@
                 "upgrade": 11,
                 "pay": 31
             },
-            "value": 55200000000000000,
+            "value": 54000000000000000,
             "probability": 0.01875
         },
         {
@@ -156,7 +156,7 @@
                 "upgrade": 11,
                 "pay": 32
             },
-            "value": 42400000000000000,
+            "value": 46000000000000000,
             "probability": 0.01875
         },
         {
@@ -171,7 +171,7 @@
                 "upgrade": 11,
                 "pay": 31
             },
-            "value": 40100000000000000,
+            "value": 37800000000000000,
             "probability": 0.01875
         },
         {
@@ -186,37 +186,7 @@
                 "upgrade": 11,
                 "pay": 31
             },
-            "value": 39700000000000000,
-            "probability": 0.0375
-        },
-        {
-            "player": {
-                "id": 233731,
-                "name": "알렉산데르 이사크",
-                "season": "FAC",
-                "season_no": 852,
-                "ovr": 138,
-                "position": "ST",
-                "nation": 46,
-                "upgrade": 11,
-                "pay": 29
-            },
-            "value": 36900000000000000,
-            "probability": 0.0375
-        },
-        {
-            "player": {
-                "id": 230025,
-                "name": "보비 찰턴",
-                "season": "FAC",
-                "season_no": 852,
-                "ovr": 139,
-                "position": "LW",
-                "nation": 14,
-                "upgrade": 11,
-                "pay": 30
-            },
-            "value": 33300000000000000,
+            "value": 37100000000000000,
             "probability": 0.0375
         },
         {
@@ -231,7 +201,37 @@
                 "upgrade": 11,
                 "pay": 33
             },
-            "value": 33000000000000000,
+            "value": 34200000000000000,
+            "probability": 0.0375
+        },
+        {
+            "player": {
+                "id": 233731,
+                "name": "알렉산데르 이사크",
+                "season": "FAC",
+                "season_no": 852,
+                "ovr": 138,
+                "position": "ST",
+                "nation": 46,
+                "upgrade": 11,
+                "pay": 29
+            },
+            "value": 32700000000000000,
+            "probability": 0.0375
+        },
+        {
+            "player": {
+                "id": 230025,
+                "name": "보비 찰턴",
+                "season": "FAC",
+                "season_no": 852,
+                "ovr": 139,
+                "position": "LW",
+                "nation": 14,
+                "upgrade": 11,
+                "pay": 30
+            },
+            "value": 32700000000000000,
             "probability": 0.0375
         },
         {
@@ -246,7 +246,7 @@
                 "upgrade": 11,
                 "pay": 31
             },
-            "value": 31000000000000000,
+            "value": 30000000000000000,
             "probability": 0.0375
         },
         {
@@ -261,7 +261,22 @@
                 "upgrade": 11,
                 "pay": 30
             },
-            "value": 30500000000000000,
+            "value": 29500000000000000,
+            "probability": 0.06875
+        },
+        {
+            "player": {
+                "id": 4231,
+                "name": "히바우두",
+                "season": "FAC",
+                "season_no": 852,
+                "ovr": 142,
+                "position": "CAM",
+                "nation": 54,
+                "upgrade": 11,
+                "pay": 31
+            },
+            "value": 29000000000000000,
             "probability": 0.06875
         },
         {
@@ -276,37 +291,7 @@
                 "upgrade": 11,
                 "pay": 27
             },
-            "value": 30500000000000000,
-            "probability": 0.06875
-        },
-        {
-            "player": {
-                "id": 31432,
-                "name": "디디에 드로그바",
-                "season": "FAC",
-                "season_no": 852,
-                "ovr": 140,
-                "position": "ST",
-                "nation": 108,
-                "upgrade": 11,
-                "pay": 31
-            },
-            "value": 30100000000000000,
-            "probability": 0.06875
-        },
-        {
-            "player": {
-                "id": 5471,
-                "name": "프랭크 램파드",
-                "season": "FAC",
-                "season_no": 852,
-                "ovr": 141,
-                "position": "CAM",
-                "nation": 14,
-                "upgrade": 11,
-                "pay": 32
-            },
-            "value": 29100000000000000,
+            "value": 28900000000000000,
             "probability": 0.06875
         },
         {
@@ -321,37 +306,22 @@
                 "upgrade": 11,
                 "pay": 32
             },
-            "value": 28000000000000000,
+            "value": 28800000000000000,
             "probability": 0.06875
         },
         {
             "player": {
-                "id": 11141,
-                "name": "미로슬라프 클로제",
+                "id": 31432,
+                "name": "디디에 드로그바",
                 "season": "FAC",
                 "season_no": 852,
                 "ovr": 140,
                 "position": "ST",
-                "nation": 21,
+                "nation": 108,
                 "upgrade": 11,
                 "pay": 31
             },
-            "value": 27900000000000000,
-            "probability": 0.06875
-        },
-        {
-            "player": {
-                "id": 10264,
-                "name": "뤼트 반니스텔로이",
-                "season": "FAC",
-                "season_no": 852,
-                "ovr": 141,
-                "position": "ST",
-                "nation": 34,
-                "upgrade": 11,
-                "pay": 31
-            },
-            "value": 27600000000000000,
+            "value": 28400000000000000,
             "probability": 0.06875
         },
         {
@@ -366,7 +336,22 @@
                 "upgrade": 11,
                 "pay": 31
             },
-            "value": 27500000000000000,
+            "value": 27600000000000000,
+            "probability": 0.06875
+        },
+        {
+            "player": {
+                "id": 11141,
+                "name": "미로슬라프 클로제",
+                "season": "FAC",
+                "season_no": 852,
+                "ovr": 140,
+                "position": "ST",
+                "nation": 21,
+                "upgrade": 11,
+                "pay": 31
+            },
+            "value": 27000000000000000,
             "probability": 0.06875
         },
         {
@@ -386,17 +371,32 @@
         },
         {
             "player": {
-                "id": 241461,
-                "name": "페란 토레스",
+                "id": 10264,
+                "name": "뤼트 반니스텔로이",
                 "season": "FAC",
                 "season_no": 852,
-                "ovr": 138,
+                "ovr": 141,
                 "position": "ST",
-                "nation": 45,
+                "nation": 34,
                 "upgrade": 11,
-                "pay": 29
+                "pay": 31
             },
             "value": 27000000000000000,
+            "probability": 0.06875
+        },
+        {
+            "player": {
+                "id": 239580,
+                "name": "브레메르",
+                "season": "FAC",
+                "season_no": 852,
+                "ovr": 135,
+                "position": "CB",
+                "nation": 54,
+                "upgrade": 11,
+                "pay": 27
+            },
+            "value": 26600000000000000,
             "probability": 0.06875
         }
     ]
